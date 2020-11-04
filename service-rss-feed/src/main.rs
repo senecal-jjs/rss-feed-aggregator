@@ -1,26 +1,6 @@
-#![feature(proc_macro_hygiene, decl_macro)]
+use service_rss_feed::run; 
 
-#[macro_use] extern crate rocket;
-#[macro_use] extern crate rocket_contrib;
-
-use rocket_contrib::databases::diesel; 
-
-#[get("/")]
-fn index() -> &'static str {
-    "Hello, world!"
-}
-
-#[get("/hello")]
-fn hello() -> &'static str {
-    "Hello, Jacob!"
-}
-
-#[database("postgres_dev")]
-struct PgDbConn(diesel::PgConnection);
-
-fn main() {
-    rocket::ignite()
-        .attach(PgDbConn::fairing())
-        .mount("/", routes![index, hello])
-        .launch();
+#[actix_rt::main]
+async fn main() -> std::io::Result<()> {
+    run().await
 }

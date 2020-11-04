@@ -1,2 +1,0 @@
-[global.databases]
-postgres_dev = { url = "postgres://postgres:password1@localhost/diesel_rss_feed_aggregator" }

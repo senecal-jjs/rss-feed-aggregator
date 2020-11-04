@@ -1,32 +1,25 @@
 [package]
-name = "service-rss-feed"
+name = "service_rss_feed"
 version = "0.1.0"
-authors = ["jsen"]
+authors = ["J. Senecal <jacobsenecal@yahoo.com>"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+[lib]
+# We could use any path here, but we are following the community convention
+# We could specify a library name using the `name` field. If unspecified,
+# cargo will default to `package.name`, which is what we want.
+path = "src/lib.rs"
+
+# Notice the double square brackets: it's an array in TOML's syntax.
+# We can only have one library in a project, but we can have multiple binaries!
+# If you want to manage multiple libraries in the same repository
+# have a look at the workspace feature - we'll cover it later on.
+[[bin]]
+path = "src/main.rs"
+name = "app"
+
 [dependencies]
-
-# Web framework
-rocket = "0.4.5"
-rocket_codegen = "0.4.5"
-
-# ORM
-diesel = { version = "1.4.4", features = ["postgres", "chrono"] }
-
-# Env variable support 
-dotenv = "0.15.0"
-
-# Serialization / Deserialization
-serde = "1.0"
-serde_derive = "1.0"
-serde_json = "1.0"
-
-# UUID support 
-uuid = { version = "0.8", features = ["serde", "v5"] }
-
-[dependencies.rocket_contrib]
-version = "0.4.5"
-default-features = false
-features = ["json", "diesel_postgres_pool"]
+actix-rt = "1.1.1"
+actix-web = "3.2.0"
