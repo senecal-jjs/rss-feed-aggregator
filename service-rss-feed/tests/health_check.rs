@@ -1,4 +1,6 @@
 use std::net::TcpListener;
+use sqlx::{ PgConnection, Connection };
+use service_rss_feed::configuration::{ get_configuration, DatabaseSettings };
 
 // `actix_rt::test` is the testing equivalent of `actix_rt::main`.
 // It also spares you from having to specify the `#[test]` attribute.
@@ -8,7 +10,7 @@ use std::net::TcpListener;
 async fn health_check_works() {
     let address = spawn_app();
     let client = reqwest::Client::new();
-
+    
     let response = client
         .get(&format!("{}/health-check", &address))
         .send()
@@ -22,6 +24,11 @@ async fn health_check_works() {
 #[actix_rt::test]
 async fn subscribe_returns_a_200_for_valid_form_data() {
     let address = spawn_app();
+    let configuration = get_configuration().expect("Failed to read config");
+    let connection_string = configuration.database.connection_string();
+    let mut connection = PgConnection::connect(&connection_string)
+        .await 
+        .expect("Failed to connect to Postgres.");
     let client = reqwest::Client::new();
     let body = "name=le%20guin&email=ursula_le_guin%40gmail.com";
 
@@ -34,6 +41,14 @@ async fn subscribe_returns_a_200_for_valid_form_data() {
         .expect("Failed to execute request.");
 
     assert_eq!(200, response.status().as_u16());
+
+    let saved = sqlx::query!("SELECT email, name FROM profile",)
+        .fetch_one(&mut connection)
+        .await
+        .expect("Failed to fetch saved profile");
+
+    assert_eq!(saved.email, "ursula_le_guin@gmail.com");
+    assert_eq!(saved.name, "le guin");
 }
 
 #[actix_rt::test]
