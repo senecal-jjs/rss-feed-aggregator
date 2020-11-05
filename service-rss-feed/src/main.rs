@@ -1,4 +1,4 @@
-use service_rss_feed::run; 
+use service_rss_feed::startup::run; 
 use std::net::TcpListener;
 
 #[actix_rt::main]
