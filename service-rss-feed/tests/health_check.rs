@@ -1,6 +1,7 @@
 use std::net::TcpListener;
-use sqlx::PgPool;
-use service_rss_feed::configuration::{ get_configuration };
+use sqlx::{ Connection, Executor, PgPool, PgConnection };
+use service_rss_feed::configuration::{ get_configuration, DatabaseSettings };
+use uuid::Uuid; 
 
 // `actix_rt::test` is the testing equivalent of `actix_rt::main`.
 // It also spares you from having to specify the `#[test]` attribute.
@@ -90,11 +91,9 @@ async fn spawn_app() -> TestApp {
     let address = format!("http://127.0.0.1:{}", port);
 
     let mut configuration = get_configuration().expect("Failed to read config");
-    configuration.database.database_name = Uuid::new_v4().toString();
+    configuration.database.database_name = Uuid::new_v4().to_string();
 
-    let connection_pool = PgPool::connect(&configuration.database.connection_string())
-        .await
-        .expect("Failed to connect to Postgres");
+    let connection_pool = configure_database(&configuration.database).await;
 
     let server = service_rss_feed::startup::run(listener, connection_pool.clone()).expect("Failed to bind address");
     // launch the server as a background task 
@@ -105,4 +104,26 @@ async fn spawn_app() -> TestApp {
         address,
         db_pool: connection_pool,
     }
+}
+
+pub async fn configure_database(config: &DatabaseSettings) -> PgPool {
+    let mut connection = PgConnection::connect(&config.connection_string_without_db())
+        .await 
+        .expect("Failed to connect to Postgres");
+
+    connection 
+        .execute(&*format!(r#"CREATE DATABASE "{}";"#, config.database_name))
+        .await
+        .expect("Failed to create database.");
+
+    let connection_pool = PgPool::connect(&config.connection_string())
+        .await
+        .expect("Failed to connect to Postgres");
+
+    sqlx::migrate!("./migrations")
+        .run(&connection_pool)
+        .await
+        .expect("Failed to migrate the database");
+    
+    connection_pool
 }
