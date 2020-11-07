@@ -1,0 +1,18 @@
+{
+  "db": "PostgreSQL",
+  "ddb4c5dcd5bb884e2254a8e72e902dfc538a18022453b594a45b592a2be6e94b": {
+    "query": "\n        INSERT INTO profile (id, email, name, registered_at)\n        VALUES ($1, $2, $3, $4)\n        ",
+    "describe": {
+      "columns": [],
+      "parameters": {
+        "Left": [
+          "Uuid",
+          "Text",
+          "Text",
+          "Timestamptz"
+        ]
+      },
+      "nullable": []
+    }
+  }
+}

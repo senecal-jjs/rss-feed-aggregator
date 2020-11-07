@@ -18,14 +18,14 @@ path = "src/lib.rs"
 # have a look at the workspace feature - we'll cover it later on.
 [[bin]]
 path = "src/main.rs"
-name = "app"
+name = "service_rss_feed"
 
 [dependencies]
 actix-rt = "1.1.1"
 actix-web = "3.2.0"
 config = "0.10.1"
 serde = { version = "1", features = ["derive"] }
-sqlx = { version = "0.4.0-beta.1", default-features = false, features = [ "runtime-tokio", "macros", "postgres", "uuid", "chrono", "migrate"] }
+sqlx = { version = "0.4.0-beta.1", default-features = false, features = [ "runtime-tokio", "macros", "postgres", "uuid", "chrono", "migrate", "offline"] }
 uuid = { version = "0.8.1", features = ["v4"] }
 chrono = "0.4.15"
 tracing = "0.1.21"
