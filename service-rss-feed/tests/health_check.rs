@@ -1,6 +1,7 @@
 use std::net::TcpListener;
 use sqlx::{ Connection, Executor, PgPool, PgConnection };
 use service_rss_feed::configuration::{ get_configuration, DatabaseSettings };
+use service_rss_feed::telemetry::{ get_subscriber, init_subscriber };
 use uuid::Uuid; 
 
 // `actix_rt::test` is the testing equivalent of `actix_rt::main`.
@@ -75,6 +76,14 @@ async fn subscribe_returns_a_400_when_data_is_missing() {
     }
 }
 
+lazy_static::lazy_static! {
+    static ref TRACING: () = {
+        let filter = if std::env::var("TEST_LOG").is_ok() { "debug" } else { "" };
+        let subscriber = get_subscriber("test".into(), filter.into());
+        init_subscriber(subscriber);
+    };
+}
+
 pub struct TestApp {
     pub address: String,
     pub db_pool: PgPool,
@@ -85,18 +94,17 @@ pub struct TestApp {
 // if we fail to perform the required setup we can just panic and crash
 // all the things.
 async fn spawn_app() -> TestApp {
+    lazy_static::initialize(&TRACING);
+
     let listener = TcpListener::bind("127.0.0.1:0").expect("Failed to bind random port");
-    // We retrieve the port assigned to us by the OS
     let port = listener.local_addr().unwrap().port();
     let address = format!("http://127.0.0.1:{}", port);
 
     let mut configuration = get_configuration().expect("Failed to read config");
     configuration.database.database_name = Uuid::new_v4().to_string();
-
     let connection_pool = configure_database(&configuration.database).await;
 
     let server = service_rss_feed::startup::run(listener, connection_pool.clone()).expect("Failed to bind address");
-    // launch the server as a background task 
     let _ = tokio::spawn(server);
     
     // we return the application address to the caller
