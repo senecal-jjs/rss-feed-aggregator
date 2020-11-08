@@ -9,8 +9,8 @@ region: nyc
 services:
   - name: servicerssfeed
     # Relative to the repository root
-    dockerfile_path: Dockerfile
-    source_dir: src
+    dockerfile_path: service_rss_feed/Dockerfile
+    source_dir: service_rss_feed
     github:
       # Depending on when you created the repository, 
       # the default branch on GitHub might have been named `master`
