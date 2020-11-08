@@ -37,11 +37,46 @@ pub async fn save_feed(
         site_link: channel.link().to_string(),
     };
 
-    insert_rss_feed(&pool, &rss_feed)
+    let feed_exists = rss_feed_exists(&pool, &rss_feed)
         .await
         .map_err(|_| HttpResponse::InternalServerError().finish())?;
 
+    if !feed_exists {
+        insert_rss_feed(&pool, &rss_feed)
+            .await
+            .map_err(|_| HttpResponse::InternalServerError().finish())?;
+    } else {
+        tracing::info!("RSS feed {} already exists!", &form.link)
+    }
+
     Ok(HttpResponse::Ok().finish()) 
+}
+
+#[tracing::instrument(
+    name = "Searching for RSS feed",
+    skip(feed, pool)
+)]
+pub async fn rss_feed_exists(
+    pool: &PgPool,
+    feed: &RssFeed,
+) -> Result<bool, sqlx::Error> {
+    let result = sqlx::query!(
+        r#"
+        SELECT COUNT(*) FROM rss_feed 
+        WHERE channel=$1
+        "#,
+        feed.channel
+    )
+    .fetch_one(pool)
+    .await 
+    .map_err(|e| {
+        tracing::error!("Failed to execute query: {:?}", e);
+        e
+    })?;
+
+    println!("COUNT {:?}", result);
+
+    Ok(result.count.is_some())
 }
 
 #[tracing::instrument(
@@ -51,13 +86,15 @@ pub async fn save_feed(
 pub async fn insert_rss_feed(
     pool: &PgPool,
     feed: &RssFeed
-) -> Result<(), sqlx::Error> {
+) -> Result<Uuid, sqlx::Error> {
+    let uuid = Uuid::new_v4();
+
     sqlx::query!(
         r#"
         INSERT INTO rss_feed (id, title, site_link, channel, feed_desc)
         VALUES ($1, $2, $3, $4, $5)
         "#,
-        Uuid::new_v4(),
+        uuid,
         feed.title,
         feed.site_link,
         feed.channel, 
@@ -70,5 +107,5 @@ pub async fn insert_rss_feed(
         e
     })?;
 
-    Ok(())
+    Ok(uuid)
 }
