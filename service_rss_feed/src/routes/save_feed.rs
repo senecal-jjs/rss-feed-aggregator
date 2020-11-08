@@ -37,14 +37,18 @@ pub async fn save_feed(
         site_link: channel.link().to_string(),
     };
 
-    let feed_exists = rss_feed_exists(&pool, &rss_feed)
+    let feed_uuid = rss_feed_exists(&pool, &rss_feed)
         .await
-        .map_err(|_| HttpResponse::InternalServerError().finish())?;
+        .unwrap_or_else(|_| {
+            None  
+        });
 
-    if !feed_exists {
-        insert_rss_feed(&pool, &rss_feed)
+    if feed_uuid.is_none() {
+        let feed_uuid = insert_rss_feed(&pool, &rss_feed)
             .await
             .map_err(|_| HttpResponse::InternalServerError().finish())?;
+
+        
     } else {
         tracing::info!("RSS feed {} already exists!", &form.link)
     }
@@ -59,13 +63,13 @@ pub async fn save_feed(
 pub async fn rss_feed_exists(
     pool: &PgPool,
     feed: &RssFeed,
-) -> Result<bool, sqlx::Error> {
+) -> Result<Option<Uuid>, sqlx::Error> {
     let result = sqlx::query!(
         r#"
-        SELECT COUNT(*) FROM rss_feed 
+        SELECT id FROM rss_feed 
         WHERE channel=$1
         "#,
-        feed.channel
+        "dummy" // feed.channel
     )
     .fetch_one(pool)
     .await 
@@ -76,7 +80,7 @@ pub async fn rss_feed_exists(
 
     println!("COUNT {:?}", result);
 
-    Ok(result.count.is_some())
+    Ok(Some(result.id))
 }
 
 #[tracing::instrument(
