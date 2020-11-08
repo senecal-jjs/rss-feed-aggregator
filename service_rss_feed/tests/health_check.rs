@@ -24,6 +24,30 @@ async fn health_check_works() {
 }
 
 #[actix_rt::test]
+async fn save_feed_returns_200_for_valid_feed() {
+    let app = spawn_app().await;
+    let client = reqwest::Client::new();
+    let body = "http://feeds.bbci.co.uk/news/world/rss.xml";
+
+    let response = client
+        .post(&format!("{}/save-feed", &app.address))
+        .header("Content-Type", "application/x-www-form-urlencoded")
+        .body(body)
+        .send()
+        .await
+        .expect("Failed to execute request.");
+
+    assert_eq!(200, response.status().as_u16());
+
+    let saved = sqlx::query!("SELECT title, link FROM rss_feed",)
+        .fetch_one(&app.db_pool)
+        .await
+        .expect("Failed to fetch saved feed");
+
+    assert_eq!(saved.link, "http://feeds.bbci.co.uk/news/world/rss.xml");
+}
+
+#[actix_rt::test]
 async fn subscribe_returns_a_200_for_valid_form_data() {
     let app = spawn_app().await;
     let client = reqwest::Client::new();
