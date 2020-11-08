@@ -36,3 +36,25 @@ services:
     # All incoming requests should be routed to our app
     routes:
       - path: /
+    envs:
+      - key: APP_DATABASE__USERNAME
+        scope: RUN_TIME
+        value: ${rss.USERNAME}
+      - key: APP_DATABASE__PASSWORD
+        scope: RUN_TIME
+        value: ${rss.PASSWORD}
+      - key: APP_DATABASE__HOST
+        scope: RUN_TIME
+        value: ${rss.HOSTNAME}
+      - key: APP_DATABASE__PORT
+        scope: RUN_TIME
+        value: ${rss.PORT}
+      - key: APP_DATABASE__DATABASE_NAME
+        scope: RUN_TIME
+        value: ${rss.DATABASE}
+databases:
+  - engine: PG
+    name: rss 
+    num_nodes: 1
+    size: db-s-dev-database 
+    version: "12"
