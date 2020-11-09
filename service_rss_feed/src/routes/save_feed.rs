@@ -1,3 +1,4 @@
+use actix_session::Session;
 use actix_web::{web, HttpResponse};
 use rss::Channel;
 use sqlx::PgPool;
@@ -18,13 +19,14 @@ pub struct RssFeed {
 
 #[tracing::instrument(
     name = "Adding new RSS feed",
-    skip(form, pool),
+    skip(form, pool, session),
     fields(
         feed_link = %form.link
     )
 )]
 pub async fn save_feed(
     form: web::Form<RssForm>,
+    session: Session, 
     pool: web::Data<PgPool>
 ) -> Result<HttpResponse, HttpResponse> {
     let channel = Channel::from_url(&form.link)
@@ -37,18 +39,36 @@ pub async fn save_feed(
         site_link: channel.link().to_string(),
     };
 
-    let feed_uuid = rss_feed_exists(&pool, &rss_feed)
+    let feed_id = rss_feed_exists(&pool, &rss_feed)
         .await
         .unwrap_or_else(|_| {
             None  
         });
 
-    if feed_uuid.is_none() {
-        let feed_uuid = insert_rss_feed(&pool, &rss_feed)
+    let profile_id: Option<Uuid> = session.get("profile_id")?;
+
+    if feed_id.is_none() {
+        let feed_id = insert_rss_feed(&pool, &rss_feed)
             .await
             .map_err(|_| HttpResponse::InternalServerError().finish())?;
+        
+        if let Some(_) = profile_id {
+            subscribe_to_feed(profile_id.unwrap(), feed_id, &pool)
+                .await
+                .map_err(|_| HttpResponse::InternalServerError().finish())?;
+        } else {
+            HttpResponse::InternalServerError().finish();
+        }
     } else {
-        tracing::info!("RSS feed {} already exists!", &form.link)
+        tracing::info!("RSS feed {} already exists!", &form.link);
+
+        if let Some(_) = profile_id {
+            subscribe_to_feed(profile_id.unwrap(), feed_id.unwrap(), &pool)
+                .await
+                .map_err(|_| HttpResponse::InternalServerError().finish())?;
+        } else {
+            HttpResponse::InternalServerError().finish();
+        }
     }
 
     Ok(HttpResponse::Ok().finish()) 
@@ -108,4 +128,36 @@ pub async fn insert_rss_feed(
     })?;
 
     Ok(uuid)
+}
+
+#[tracing::instrument(
+    name = "Subscribing to RSS feed",
+    skip(profile_id, feed_id, pool),
+    fields(
+        profile_id,
+        feed_id 
+    )
+)]
+pub async fn subscribe_to_feed(
+    profile_id: Uuid, 
+    feed_id: Uuid,
+    pool: &PgPool
+) -> Result<(), sqlx::Error> {
+    sqlx::query!(
+        r#"
+        INSERT INTO subscription (id, profile_id, feed_id)
+        VALUES ($1, $2, $3)
+        "#,
+        Uuid::new_v4(),
+        profile_id,
+        feed_id
+    )
+    .execute(pool)
+    .await 
+    .map_err(|e| {
+        tracing::error!("Failed to execute query {:?}", e);
+        e
+    })?;
+
+    Ok(())
 }
