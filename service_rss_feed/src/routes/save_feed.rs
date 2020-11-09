@@ -69,7 +69,7 @@ pub async fn rss_feed_exists(
         SELECT id FROM rss_feed 
         WHERE channel=$1
         "#,
-        "dummy" // feed.channel
+        feed.channel
     )
     .fetch_one(pool)
     .await 
@@ -77,8 +77,6 @@ pub async fn rss_feed_exists(
         tracing::error!("Failed to execute query: {:?}", e);
         e
     })?;
-
-    println!("COUNT {:?}", result);
 
     Ok(Some(result.id))
 }
