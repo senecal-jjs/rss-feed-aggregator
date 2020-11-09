@@ -6,7 +6,7 @@ use uuid::Uuid;
 #[derive(serde::Deserialize)]
 pub struct FormData {
     email: String,
-    name: String,
+    password: String,
 }
 
 #[tracing::instrument(
@@ -14,7 +14,7 @@ pub struct FormData {
     skip(form, pool),
     fields(
         email = %form.email,
-        name = %form.name
+        password = %form.password
     )
 )]
 pub async fn register(
@@ -38,12 +38,12 @@ pub async fn insert_subscriber(
 ) -> Result<(), sqlx::Error> {
     sqlx::query!(
         r#"
-        INSERT INTO profile (id, email, name, registered_at)
+        INSERT INTO profile (id, email, password, registered_at)
         VALUES ($1, $2, $3, $4)
         "#,
         Uuid::new_v4(),
         form.email,
-        form.name,
+        form.password,
         Utc::now()
     )
     .execute(pool)

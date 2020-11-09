@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 docker run \
-    --name redis-session \
+    -p 6379:6379 \
     -d redis

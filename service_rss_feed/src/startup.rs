@@ -14,8 +14,8 @@ pub fn run(
     let db_pool = web::Data::new(db_pool);
 
     let config = get_configuration().expect("Failed to read configuration");
-    let redis_port = config.redis.port.clone();
-    let redis_host = config.redis.host.clone();
+    let redis_port = config.redis.port;
+    let redis_host = config.redis.host;
 
     let server = HttpServer::new(move || {
         App::new()
