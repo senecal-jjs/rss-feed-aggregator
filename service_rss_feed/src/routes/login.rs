@@ -1,41 +1,62 @@
+use actix_session::Session;
 use actix_web::{web, HttpResponse};
-use chrono::Datetime;
+use chrono::{DateTime, Utc};
 use sqlx::PgPool;
+use uuid::Uuid;
 
 #[derive(serde::Deserialize)]
 pub struct LoginForm {
-    username: String,
+    email: String,
     password: String 
 }
 
-#[derive(serde::Deserialize)]
 pub struct Profile {
     id: Uuid,
     email: String,
-    password: String,
-    registered_at: Datetime,
+    pass_hash: String,
+    registered_at: DateTime<Utc>
 }
 
 #[tracing::instrument(
     name = "Logging in user",
-    skip(form, pool),
+    skip(form, pool, session),
     fields(
         email = %form.email,
         password = %form.password
     )
 )]
-pub aysnc fn login(
+pub async fn login(
     form: web::Form<LoginForm>,
+    session: Session,
     pool: web::Data<PgPool>
 ) -> Result<HttpResponse, HttpResponse> {
+    let profile = find_profile(&pool, &form.email)
+        .await
+        .map_err(|_| {
+            HttpResponse::InternalServerError().finish()
+        })
+        .unwrap();
+    
+    if profile.pass_hash == form.password {
+        tracing::info!("Setting session id for profile {}", form.email);
+        session.set("profile_id", profile.id)?;
+        session.renew();
 
+        Ok(HttpResponse::Ok().finish())
+    } else {
+        Err(HttpResponse::InternalServerError().finish())
+    }
 }
 
+#[tracing::instrument(
+    name = "Searching for profile",
+    skip(pool, email)
+)]
 pub async fn find_profile(pool: &PgPool, email: &str) -> Result<Profile, sqlx::Error> {
-    let profile = sqlx::query!(
+    let profile = sqlx::query_as!(
+        Profile,
         r#"
-        SELECT (id, email, password, registered_at) 
-        FROM profile
+        SELECT * FROM profile
         WHERE email=$1
         "#,
         email 
@@ -43,14 +64,12 @@ pub async fn find_profile(pool: &PgPool, email: &str) -> Result<Profile, sqlx::E
     .fetch_one(pool)
     .await 
     .map_err(|e| {
-        tracing::error!("Failed to execute query {}", e);
+        tracing::error!("Failed to execute query {:?}", e);
         e
     })?;
 
-    Ok(
-        Profile {
-            
-        }
-    )
+    // println!("PROFILE {:?}", profile);
+
+    Ok(profile)
 }
 

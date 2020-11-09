@@ -38,7 +38,7 @@ pub async fn insert_subscriber(
 ) -> Result<(), sqlx::Error> {
     sqlx::query!(
         r#"
-        INSERT INTO profile (id, email, password, registered_at)
+        INSERT INTO profile (id, email, pass_hash, registered_at)
         VALUES ($1, $2, $3, $4)
         "#,
         Uuid::new_v4(),
