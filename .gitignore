@@ -1,2 +1,5 @@
 /target
 service_rss_feed/target/*
+
+frontend_rss_feed/node_modules
+frontend_rss_feed/build 
