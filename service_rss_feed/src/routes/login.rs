@@ -32,11 +32,8 @@ pub async fn login(
 ) -> Result<HttpResponse, HttpResponse> {
     let profile = find_profile(&pool, &form.email)
         .await
-        .map_err(|_| {
-            HttpResponse::InternalServerError().finish()
-        })
-        .unwrap();
-    
+        .map_err(|_| HttpResponse::InternalServerError().finish())?;
+
     if profile.pass_hash == form.password {
         tracing::info!("Setting session id for profile {}", form.email);
         session.set("profile_id", profile.id)?;
@@ -67,8 +64,6 @@ pub async fn find_profile(pool: &PgPool, email: &str) -> Result<Profile, sqlx::E
         tracing::error!("Failed to execute query {:?}", e);
         e
     })?;
-
-    // println!("PROFILE {:?}", profile);
 
     Ok(profile)
 }
