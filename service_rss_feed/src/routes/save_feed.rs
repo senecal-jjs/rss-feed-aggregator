@@ -57,7 +57,7 @@ pub async fn save_feed(
                 .await
                 .map_err(|_| HttpResponse::InternalServerError().finish())?;
         } else {
-            HttpResponse::InternalServerError().finish()?;
+            HttpResponse::InternalServerError().finish();
         }
     } else {
         tracing::info!("RSS feed {} already exists!", &form.link);

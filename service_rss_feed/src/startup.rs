@@ -32,7 +32,7 @@ pub fn run(
             .route("/health-check", web::get().to(health_check))
             .route("/register-user", web::post().to(register))
             .route("/save-feed", web::post().to(save_feed))
-            .route("/login", web::get().to(login))
+            .route("/login", web::post().to(login))
             .app_data(db_pool.clone())
     })
     .listen(listener)?
