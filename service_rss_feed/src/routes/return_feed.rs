@@ -11,20 +11,26 @@ pub async fn get_subscribed_feeds(
 
 }
 
+pub async fun get 
+
 pub async fn find_feeds_for_profile(profile_id: Uuid) -> Result<Vec<Uuid>, sqlx::Error> {
-    let result = sqlx::query!(
+    let feeds = sqlx::query!(
         r#"
         SELECT feed_id FROM subscription 
         WHERE profile_id=$1
         "#,
         profile_id
     )
-    .fetch(pool)
+    .fetch_all(pool)
     .await 
     .map_err(|e| {
         tracing::error!("Failed to execute query: {:?}", e);
         e
     })?
 
-    Ok(result)
+    Ok(
+        feeds.into_iter()
+            .map(|feed| feed.feed_id)
+            .collect()
+    )
 }
