@@ -6,7 +6,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <header>Login or Register</header>
-        <Login />
+        <Login history={this.props.history} />
       </div>
     )
   }
