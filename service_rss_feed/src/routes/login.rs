@@ -4,10 +4,12 @@ use chrono::{DateTime, Utc};
 use sqlx::PgPool;
 use uuid::Uuid;
 
+use super::register::register;
+
 #[derive(serde::Deserialize)]
 pub struct LoginForm {
-    email: String,
-    password: String 
+    pub email: String,
+    pub password: String 
 }
 
 pub struct Profile {
@@ -32,7 +34,9 @@ pub async fn login(
 ) -> Result<HttpResponse, HttpResponse> {
     let profile = find_profile(&pool, &form.email)
         .await
-        .map_err(|_| HttpResponse::InternalServerError().finish())?;
+        .unwrap_or_else(|_| {
+            register(&form, &pool)
+        });
 
     if profile.pass_hash == form.password {
         tracing::info!("Setting session id for profile {}", form.email);

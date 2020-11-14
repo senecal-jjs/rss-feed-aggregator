@@ -3,6 +3,8 @@ use chrono::Utc;
 use sqlx::PgPool;
 use uuid::Uuid;
 
+use super::login::LoginForm;
+
 #[derive(serde::Deserialize)]
 pub struct FormData {
     email: String,
@@ -18,8 +20,8 @@ pub struct FormData {
     )
 )]
 pub async fn register(
-    form: web::Form<FormData>,
-    pool: web::Data<PgPool>
+    form: &LoginForm,
+    pool: &PgPool
 ) -> Result<HttpResponse, HttpResponse> {
     insert_subscriber(&pool, &form)
         .await
@@ -34,7 +36,7 @@ pub async fn register(
 )]
 pub async fn insert_subscriber(
     pool: &PgPool,
-    form: &FormData
+    form: &LoginForm
 ) -> Result<(), sqlx::Error> {
     sqlx::query!(
         r#"
