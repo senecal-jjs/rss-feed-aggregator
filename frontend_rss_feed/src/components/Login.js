@@ -3,6 +3,7 @@ import axios from 'axios';
 import qs from 'qs';
 import Button from "./common/Button";
 import StackedInput from "./common/Input";
+import Form from "./common/Form";
 
 class Login extends React.Component {
     emailRef = React.createRef();
@@ -34,11 +35,11 @@ class Login extends React.Component {
 
     render () {
         return (
-            <form className="login-form" onSubmit={this.submitLogin}>
+            <Form className="login-form" onSubmit={this.submitLogin}>
                 <StackedInput name="email" ref={this.emailRef} type="text" placeholder="Email"></StackedInput>
                 <StackedInput name="password" ref={this.passwordRef} type="text" placeholder="Password"></StackedInput>
                 <Button stacked type="submit">Submit</Button>
-            </form>
+            </Form>
         )
     }
 }

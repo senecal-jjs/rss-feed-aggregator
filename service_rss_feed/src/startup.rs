@@ -5,7 +5,7 @@ use crate::configuration::get_configuration;
 use std::net::TcpListener;
 use sqlx::PgPool;
 use tracing_actix_web::TracingLogger;
-use crate::routes::{health_check, register, save_feed, login};
+use crate::routes::{health_check, save_feed, login};
 
 pub fn run(
     listener: TcpListener, 
@@ -30,7 +30,6 @@ pub fn run(
                 cfg.limit(4096)
             }))
             .route("/health-check", web::get().to(health_check))
-//            .route("/register-user", web::post().to(register))
             .route("/save-feed", web::post().to(save_feed))
             .route("/login", web::post().to(login))
             .app_data(db_pool.clone())

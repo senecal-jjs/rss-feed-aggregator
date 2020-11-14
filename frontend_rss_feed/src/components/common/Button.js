@@ -5,9 +5,9 @@ const Button = styled.button`
     border-radius: 3px;
     border: 2px solid slateblue;
     color: slateblue;
-    margin: 0 1em;
+    margin: auto;
     padding: 0.25em 1em;
-    width: 60%;
+    width: 100%;
 
     &:hover {
         color: white;
