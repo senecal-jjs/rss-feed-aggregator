@@ -4,13 +4,13 @@ import App from "./App";
 import Dashboard from "./Dashboard";
 import NotFound from "./NotFound";
 
-const PrivateRoute = ({ component: Component, ...rest}) => (
-    <Route {...rest} render={(props) => (
-        Auth.isAuthenticated === true 
-            ? <Component {...props} />
-            : <Redirect to='/' />
-    )} />
-)
+// const PrivateRoute = ({ component: Component, ...rest}) => (
+//     <Route {...rest} render={(props) => (
+//         Auth.isAuthenticated === true 
+//             ? <Component {...props} />
+//             : <Redirect to='/' />
+//     )} />
+// )
 
 const Router = () => (
     // function requireAuth(nextState, replace, next) {
