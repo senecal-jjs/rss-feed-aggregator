@@ -1,20 +1,26 @@
 import React from "react";
+import { useHistory } from "react-router-dom"
 import axios from 'axios';
 import qs from 'qs';
 import Button from "./common/Button";
+import Container from "./common/Container";
 import StackedInput from "./common/Input";
+import H1 from "./common/Heading";
 import Form from "./common/Form";
+import { useAppContext } from "../libs/contextLib";
 
-class Login extends React.Component {
-    emailRef = React.createRef();
-    passwordRef = React.createRef();
+function Login() {
+    const { userHasAuthenticated } = useAppContext(); 
+    let history = useHistory();
+    let emailRef = React.createRef();
+    let passwordRef = React.createRef();
 
-    submitLogin = (event) => {
+    const submitLogin = (event) => {
         event.preventDefault();
 
         const credentials = {
-            email: this.emailRef.current.value,
-            password: this.passwordRef.current.value, 
+            email: emailRef.current.value,
+            password: passwordRef.current.value, 
         }
 
         axios({ 
@@ -28,20 +34,22 @@ class Login extends React.Component {
          })
             .then(res => {
                 if (res.status === 200) {
-                    this.props.history.push(`/dashboard`)
+                    userHasAuthenticated(true);
+                    history.push("/dashboard");
                 }
             });
     }
 
-    render () {
-        return (
-            <Form className="login-form" onSubmit={this.submitLogin}>
-                <StackedInput name="email" ref={this.emailRef} type="text" placeholder="Email"></StackedInput>
-                <StackedInput name="password" ref={this.passwordRef} type="text" placeholder="Password"></StackedInput>
+    return (
+        <Container>
+            <H1>Login or Register</H1>
+            <Form className="login-form" onSubmit={submitLogin}>
+                <StackedInput name="email" ref={emailRef} type="text" placeholder="Email"></StackedInput>
+                <StackedInput name="password" ref={passwordRef} type="text" placeholder="Password"></StackedInput>
                 <Button stacked type="submit">Submit</Button>
             </Form>
-        )
-    }
+        </Container>
+    )
 }
 
 export default Login;
