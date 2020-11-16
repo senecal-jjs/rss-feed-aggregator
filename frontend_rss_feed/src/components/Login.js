@@ -2,11 +2,11 @@ import React from "react";
 import { useHistory } from "react-router-dom"
 import axios from 'axios';
 import qs from 'qs';
-import Button from "./common/Button";
-import Container from "./common/Container";
-import StackedInput from "./common/Input";
-import H1 from "./common/Heading";
-import Form from "./common/Form";
+import Button from "./styles/Button";
+import Container from "./styles/Container";
+import StackedInput from "./styles/Input";
+import H1 from "./styles/Heading";
+import Form from "./styles/Form";
 import { useAppContext } from "../libs/contextLib";
 
 function Login() {
