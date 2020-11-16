@@ -1,9 +1,10 @@
 import React from 'react';
+import Navbar from "./Navbar";
 
 class Dashboard extends React.Component {
     render() {
         return (
-            <h1>Logged In!</h1>
+            <Navbar />
         )
     }
 }
