@@ -5,11 +5,39 @@ import Dashboard from "./components/Dashboard";
 import NotFound from "./components/NotFound";
 import { useAppContext } from "./libs/contextLib";
 
+function querystring(name, url = window.location.href) {
+  name = name.replace(/[[]]/g, "\\$&");
+
+  const regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)", "i");
+  const results = regex.exec(url);
+
+  if (!results) {
+    return null;
+  }
+  if (!results[2]) {
+    return "";
+  }
+
+  return decodeURIComponent(results[2].replace(/\+/g, " "));
+}
+
+function UnauthenticatedRoute({ children, ...rest }) {
+  const { isAuthenticated } = useAppContext();
+  const redirect = querystring("redirect");
+  return (
+    <Route {...rest}>
+      {!isAuthenticated ? (
+        children
+      ) : (
+        <Redirect to={redirect === "" || redirect === null ? "/dashboard" : redirect} />
+      )}
+    </Route>
+  );
+}
+
 function AuthenticatedRoute({ children, ...rest }) {
     const { pathname, search } = useLocation();
     const { isAuthenticated } = useAppContext();
-    console.log(pathname);
-    console.log(search);
     return (
       <Route {...rest}>
         {isAuthenticated ? (
@@ -26,7 +54,7 @@ function AuthenticatedRoute({ children, ...rest }) {
 function Routes() {
     return (
         <Switch>
-            <Route exact path="/" component={Login} />
+            <UnauthenticatedRoute exact path="/" component={Login} />
             <AuthenticatedRoute exact path="/dashboard" component={Dashboard} />
             <Route component={NotFound} />
         </Switch>
