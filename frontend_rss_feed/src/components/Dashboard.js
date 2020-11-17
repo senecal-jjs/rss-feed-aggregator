@@ -9,7 +9,7 @@ class Dashboard extends React.Component {
         return (
             <Grid>
                 <Navbar />
-                <H1>Here's the current feed.</H1>
+                <H1>Here's the current feed, enjoy!</H1>
                 <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
             </Grid>
         )

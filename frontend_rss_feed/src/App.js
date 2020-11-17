@@ -13,9 +13,9 @@ function App() {
     onLoad();
   }, []);
 
-  function onLoad() {
+  async function onLoad() {
     try {
-      currentSession();
+      await currentSession();
       userHasAuthenticated(true);
     } catch(e) {
       userHasAuthenticated(false); 
