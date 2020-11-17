@@ -36,6 +36,14 @@ impl TryFrom<String> for Environment {
 pub struct Settings {
     pub database: DatabaseSettings,
     pub application: ApplicationSettings,
+    pub redis: RedisSettings
+}
+
+#[derive(serde::Deserialize)]
+pub struct RedisSettings {
+    #[serde(deserialize_with = "deserialize_number_from_string")]
+    pub port: u16,
+    pub host: String,
 }
 
 #[derive(serde::Deserialize)]

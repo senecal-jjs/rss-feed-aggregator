@@ -7,3 +7,6 @@ database:
     username: "postgres"
     password: "password"
     database_name: "rss"
+redis:
+    host: "localhost"
+    port: 6379
