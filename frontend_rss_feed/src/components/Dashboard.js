@@ -3,14 +3,28 @@ import Navbar from "./Navbar";
 import H1 from "./styles/Heading";
 import Grid from "./styles/GridContainer";
 import ArticleCard from "./ArticleCard";
+import Articles from "./styles/Articles";
+import Body from "./styles/Body";
 
 class Dashboard extends React.Component {
     render() {
         return (
             <Grid>
-                <Navbar />
                 <H1>Here's the current feed, enjoy!</H1>
-                <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
+                <Body>
+                    <Navbar />
+                    <Articles>
+                        <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
+                        <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
+                        <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
+                        <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
+                        <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
+                        <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
+                        <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
+                        <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
+                        <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
+                    </Articles>
+                </Body>
             </Grid>
         )
     }
