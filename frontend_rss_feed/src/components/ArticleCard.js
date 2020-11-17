@@ -1,12 +1,12 @@
-import Container from "./styles/Container";
+import Card from "./styles/Card";
 
-function ArticleCard(title, summary, published_by) {
+function ArticleCard(props) {
     return (
-        <Container>
-            <h3>{title}</h3>
-            <span>{published_by}</span>
-            <p>{summary}</p>
-        </Container>
+        <Card>
+            <h3>{props.title}</h3>
+            <span>{props.published_by}</span>
+            <p>{props.summary}</p>
+        </Card>
     )
 }
 

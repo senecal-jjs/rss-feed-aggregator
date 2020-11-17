@@ -55,8 +55,8 @@ function Routes() {
     return (
         <Switch>
             <UnauthenticatedRoute exact path="/" component={Login} />
-            {/* <AuthenticatedRoute exact path="/dashboard" component={Dashboard} /> */}
-            <Route exact path="/dashboard" component={Dashboard} />
+            <AuthenticatedRoute exact path="/dashboard" component={Dashboard} />
+            {/* <Route exact path="/dashboard" component={Dashboard} /> */}
             <Route component={NotFound} />
         </Switch>
     );
