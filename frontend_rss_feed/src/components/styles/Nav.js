@@ -16,7 +16,9 @@ const NavList = styled.ul`
     padding: 10px;
     grid-row-start: 1; 
     grid-row-end: 3;
-    border: 2px solid #8f660e;
+    border-right: 1px solid #8f660e;
+    border-top: 1px solid #8f660e;
+    border-bottom: 1px solid #8f660e;
     border-radius: 4px; 
 `;
     // #788f0e;

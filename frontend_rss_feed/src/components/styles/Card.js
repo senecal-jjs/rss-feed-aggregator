@@ -4,8 +4,8 @@ const Card = styled.div`
     margin: 10px 10px 10px 0px;
     padding: 10px;
     height: fit-content; 
-    background-color: #e4e1f1;
     border-radius: 4px;
+    border-left: 1px solid #8f660e;
 `
 
 export default Card;
