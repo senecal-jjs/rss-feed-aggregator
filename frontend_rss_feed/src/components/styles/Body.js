@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const Body = styled.div`
     display: grid;
-    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 50px 1fr;
     overflow: hidden;
 `
 

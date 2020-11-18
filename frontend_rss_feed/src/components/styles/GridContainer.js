@@ -2,8 +2,7 @@ import styled from "styled-components";
 
 const Grid = styled.div`
     display: inline-grid;
-    grid-template-columns: 1f;
-    grid-template-rows: 50px 1fr;
+    grid-template-columns: 1fr 5fr;
     overflow: hidden;
     height: 100vh;
     width: 100vw;
