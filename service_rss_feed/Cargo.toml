@@ -38,6 +38,7 @@ serde-aux = "1.1.0"
 rss = { version = "1.9.0", features = ["from_url"] }
 actix-session = "0.4.0"
 actix-redis = { version = "0.9.1", features = ["web"] }
+itertools = "0.9.0"
 
 [dev-dependencies]
 lazy_static = "1.4.0"

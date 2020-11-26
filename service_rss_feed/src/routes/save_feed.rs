@@ -4,10 +4,7 @@ use rss::Channel;
 use sqlx::PgPool;
 use uuid::Uuid;
 
-#[derive(serde::Deserialize)]
-pub struct RssForm {
-    link: String, 
-}
+use crate::api::{RssForm};
 
 #[derive(serde::Deserialize)]
 pub struct RssFeed {
