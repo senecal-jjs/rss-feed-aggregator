@@ -28,11 +28,12 @@ pub async fn get_subscribed_feeds(
 
     let rss_channels = match feed_channels {
         Ok(urls) => urls
-            .into_iter()
-            .map(|url| Channel::from_url(url).map_err(|_| HttpResponse::InternalServerError().finish())),
+            .map(|url| Channel::from_url(url).map_err(|_| HttpResponse::InternalServerError().finish())?),
 
         Err(e) => return HttpResponse::InternalServerError().finish()
     }
+
+
 }
 
 pub async fun get_feed_channel(feed_id: Uuid, pool: &PgPool) -> Result<Vec<String>, sqlx::Error> {
