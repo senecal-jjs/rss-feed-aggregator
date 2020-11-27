@@ -33,6 +33,8 @@ pub async fn get_subscribed_feeds(
 
         Err(e) => return HttpResponse::InternalServerError().finish()
     }
+
+    
 }
 
 pub async fun get_feed_channel(feed_id: Uuid, pool: &PgPool) -> Result<Vec<String>, sqlx::Error> {
