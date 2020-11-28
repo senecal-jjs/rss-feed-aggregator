@@ -3,5 +3,5 @@ CREATE TABLE IF NOT EXISTS subscription(
     profile_id uuid NOT NULL,
     channel_id uuid NOT NULL,
     channel_url TEXT NOT NULL,
-    category TEXT 
+    category TEXT NOT NULL 
 );

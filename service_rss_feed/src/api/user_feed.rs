@@ -39,12 +39,12 @@ pub trait ItemConverter {
 impl ItemConverter for Item {
     fn toResponse(&mut self) -> RssItem {
         RssItem {
-            title: self.title().unwrap_or_else({ String::from("") }).to_string(),
-            link: self.link().unwrap_or_else({ String::from("") }).to_string(),
-            author: self.author().unwrap_or_else({ String::from("") }).to_string(),
-            description: self.description().unwrap_or_else({ String::from("") }).to_string(),
-            pub_date: self.pub_date().unwrap_or_else({ String::from("") }).to_string(),
-            content: self.content().unwrap_or_else({ String::from("") }).to_string()
+            title: self.title().unwrap_or_default().to_string(),
+            link: self.link().unwrap_or_default().to_string(),
+            author: self.author().unwrap_or_default().to_string(),
+            description: self.description().unwrap_or_default().to_string(),
+            pub_date: self.pub_date().unwrap_or_default().to_string(),
+            content: self.content().unwrap_or_default().to_string()
         }
     }
 }

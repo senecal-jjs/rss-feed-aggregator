@@ -1,5 +1,6 @@
 use actix_session::Session;
 use actix_web::{web, HttpResponse};
+use itertools::Itertools;
 use rss::{Channel, Item};
 use sqlx::PgPool;
 use uuid::Uuid;
@@ -26,40 +27,47 @@ pub async fn get_feeds(
 
     let subscriptions = get_subscriptions_for_profile(profile_id, &pool)
         .await
-        .unwrap_or_else(|_| { None });
+        .unwrap_or(Vec::new());
 
-    let categories = match subscriptions {
-        Ok(subscriptions) => subscriptions
+    let categories = &subscriptions
             .into_iter()
             .map(|sub| sub.category)
-            .unique(),
-        Err(e) => return Err(HttpResponse::InternalServerError().finish())
-    };
+            .unique();
 
     categories
-        .for_each(|category, iter| {
+        .for_each(|category| {
             let mut channels = Vec::new();
 
-            subscriptions
+            &subscriptions
+                .into_iter()
                 .filter(|sub| {
                     sub.category == category
                 })
-                .for_each(|sub, iter| {
-                    let channel = Channel::from_url(sub.channel_url)
-                        .map_err(|_| HttpResponse::InternalServerError().finish())?;
-
-                    channels.push(
-                        RssChannel {
-                            title: channel.title().unwrap_or_else(|_| { String::from("") },
-                            link: channel.link().unwrap_or_else(|_| { String::from("") },
-                            description: channel.description().unwrap_or_else(|_| { String::from("") },
-                            pub_date: channel.pub_date().unwrap_or_else(|_| { String::from("") },
-                            last_build_date: channel.last_build_date().unwrap_or_else(|_| { String::from("") },
-                            image_url: channel.image().unwrap_or_else(|_| { String::from("") },
-                            items: channel.items()
-                                .map(|item| item.toResponse()) 
+                .for_each(|sub| {
+                    let channel = Channel::from_url(&sub.channel_url);
+                    
+                    match channel {
+                        Ok(c) => {
+                            channels.push(
+                                RssChannel {
+                                    title: c.title().to_string(),
+                                    link: c.link().to_string(),
+                                    description: c.description().to_string(),
+                                    pub_date: c.pub_date().unwrap_or_default().to_string(),
+                                    last_build_date: c.last_build_date().unwrap_or_default().to_string(),
+                                    image_url: match c.image() {
+                                        Some(img) => img.url().to_string(),
+                                        None => "".to_string()
+                                    },
+                                    items: c.into_items()
+                                        .into_iter()
+                                        .map(|mut item| item.toResponse())
+                                        .collect() 
+                                }
+                            );
                         }
-                    );
+                        Err(e) => { tracing::warn!("Channel does not exist: {}", e) }
+                    }
                 });
 
             user_feeds.push(

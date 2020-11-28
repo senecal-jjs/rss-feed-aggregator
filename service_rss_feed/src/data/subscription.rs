@@ -1,9 +1,9 @@
 use uuid::Uuid;
 
 pub struct Subscription {
-    id: Uuid,
-    profile_id: Uuid,
-    channel_id: Uuid,
-    channel_url: String,
-    category: String 
+    pub id: Uuid,
+    pub profile_id: Uuid,
+    pub channel_id: Uuid,
+    pub channel_url: String,
+    pub category: String 
 }
