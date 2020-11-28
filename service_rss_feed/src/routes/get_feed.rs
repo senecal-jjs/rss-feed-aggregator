@@ -1,7 +1,7 @@
 use actix_session::Session;
 use actix_web::{web, HttpResponse};
 use itertools::Itertools;
-use rss::{Channel, Item};
+use rss::{Channel};
 use sqlx::PgPool;
 use uuid::Uuid;
 
@@ -29,19 +29,21 @@ pub async fn get_feeds(
         .await
         .unwrap_or(Vec::new());
 
-    let categories = &subscriptions
-            .into_iter()
-            .map(|sub| sub.category)
-            .unique();
+    let categories: Vec<String> = subscriptions
+            .iter()
+            .map(|sub| sub.category.clone())
+            .unique()
+            .collect();
 
     categories
+        .into_iter()
         .for_each(|category| {
             let mut channels = Vec::new();
 
-            &subscriptions
-                .into_iter()
+            subscriptions
+                .iter()
                 .filter(|sub| {
-                    sub.category == category
+                    sub.category.clone() == category
                 })
                 .for_each(|sub| {
                     let channel = Channel::from_url(&sub.channel_url);
@@ -61,7 +63,7 @@ pub async fn get_feeds(
                                     },
                                     items: c.into_items()
                                         .into_iter()
-                                        .map(|mut item| item.toResponse())
+                                        .map(|mut item| item.to_response())
                                         .collect() 
                                 }
                             );

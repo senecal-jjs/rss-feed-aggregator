@@ -33,11 +33,11 @@ pub struct RssItem {
 }
 
 pub trait ItemConverter {
-    fn toResponse(&mut self) -> RssItem;
+    fn to_response(&mut self) -> RssItem;
 }
 
 impl ItemConverter for Item {
-    fn toResponse(&mut self) -> RssItem {
+    fn to_response(&mut self) -> RssItem {
         RssItem {
             title: self.title().unwrap_or_default().to_string(),
             link: self.link().unwrap_or_default().to_string(),
