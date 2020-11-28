@@ -1,5 +1,4 @@
 use rss::Item;
-use rss::Channel;
 
 #[derive(serde::Serialize, serde::Deserialize)]
 pub struct UserSubscription {
@@ -14,6 +13,38 @@ pub struct Feed {
 
 #[derive(serde::Serialize, serde::Deserialize)]
 pub struct RssChannel {
-    pub channel: Channel,
-    pub items: Vec<Item>
+    pub title: String,
+    pub link: String,
+    pub description: String,
+    pub pub_date: String,
+    pub last_build_date: String,
+    pub image_url: String,
+    pub items: Vec<RssItem>
+}
+
+#[derive(serde::Serialize, serde::Deserialize)]
+pub struct RssItem {
+    title: String,
+    link: String,
+    author: String,
+    description: String,
+    pub_date: String,
+    content: String,
+}
+
+pub trait ItemConverter {
+    fn toResponse(&mut self) -> RssItem;
+}
+
+impl ItemConverter for Item {
+    fn toResponse(&mut self) -> RssItem {
+        RssItem {
+            title: self.title().unwrap_or_else({ String::from("") }).to_string(),
+            link: self.link().unwrap_or_else({ String::from("") }).to_string(),
+            author: self.author().unwrap_or_else({ String::from("") }).to_string(),
+            description: self.description().unwrap_or_else({ String::from("") }).to_string(),
+            pub_date: self.pub_date().unwrap_or_else({ String::from("") }).to_string(),
+            content: self.content().unwrap_or_else({ String::from("") }).to_string()
+        }
+    }
 }

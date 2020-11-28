@@ -5,7 +5,7 @@ use sqlx::PgPool;
 use uuid::Uuid;
 
 use crate::data::{Subscription};
-use crate::api::{UserSubscription, Feed, RssChannel};
+use crate::api::{UserSubscription, Feed, RssChannel, ItemConverter};
 
 #[tracing::instrument(
     name = "Finding subscribed feeds",
@@ -38,22 +38,36 @@ pub async fn get_feeds(
 
     categories
         .for_each(|category, iter| {
-            let mut feed = Vec::new();
+            let mut channels = Vec::new();
 
             subscriptions
                 .filter(|sub| {
                     sub.category == category
                 })
                 .for_each(|sub, iter| {
-                    feed.push(
+                    let channel = Channel::from_url(sub.channel_url)
+                        .map_err(|_| HttpResponse::InternalServerError().finish())?;
+
+                    channels.push(
                         RssChannel {
-                            channel: category,
-                            items: Channel::from_url(sub.channel_url).items() 
+                            title: channel.title().unwrap_or_else(|_| { String::from("") },
+                            link: channel.link().unwrap_or_else(|_| { String::from("") },
+                            description: channel.description().unwrap_or_else(|_| { String::from("") },
+                            pub_date: channel.pub_date().unwrap_or_else(|_| { String::from("") },
+                            last_build_date: channel.last_build_date().unwrap_or_else(|_| { String::from("") },
+                            image_url: channel.image().unwrap_or_else(|_| { String::from("") },
+                            items: channel.items()
+                                .map(|item| item.toResponse()) 
                         }
-                    )
+                    );
                 });
 
-            user_feeds.push(feed);
+            user_feeds.push(
+                Feed {
+                    category: category,
+                    channels: channels 
+                }
+            );
         });
 
     Ok(
