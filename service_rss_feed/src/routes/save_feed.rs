@@ -36,7 +36,7 @@ pub async fn save_feed(
         site_link: channel.link().to_string(),
     };
 
-    let feed_id = rss_feed_exists(&pool, &rss_feed)
+    let channel_id = rss_feed_exists(&pool, &rss_feed)
         .await
         .unwrap_or_else(|_| {
             None  
@@ -44,13 +44,13 @@ pub async fn save_feed(
 
     let profile_id: Option<Uuid> = session.get("profile_id")?;
 
-    if feed_id.is_none() {
-        let feed_id = insert_rss_feed(&pool, &rss_feed)
+    if channel_id.is_none() {
+        let channel_id = insert_rss_feed(&pool, &rss_feed)
             .await
             .map_err(|_| HttpResponse::InternalServerError().finish())?;
         
         if let Some(_) = profile_id {
-            subscribe_to_feed(profile_id.unwrap(), feed_id, &pool)
+            subscribe_to_feed(profile_id.unwrap(), channel_id, &form.link, &pool)
                 .await
                 .map_err(|_| HttpResponse::InternalServerError().finish())?;
         } 
@@ -58,7 +58,7 @@ pub async fn save_feed(
         tracing::info!("RSS feed {} already exists!", &form.link);
 
         if let Some(_) = profile_id {
-            subscribe_to_feed(profile_id.unwrap(), feed_id.unwrap(), &pool)
+            subscribe_to_feed(profile_id.unwrap(), channel_id.unwrap(), &form.link, &pool)
                 .await
                 .map_err(|_| HttpResponse::InternalServerError().finish())?;
         } else {
@@ -127,25 +127,27 @@ pub async fn insert_rss_feed(
 
 #[tracing::instrument(
     name = "Subscribing to RSS feed",
-    skip(profile_id, feed_id, pool),
+    skip(profile_id, channel_id, pool),
     fields(
         profile_id,
-        feed_id 
+        channel_id 
     )
 )]
 pub async fn subscribe_to_feed(
     profile_id: Uuid, 
-    feed_id: Uuid,
+    channel_id: Uuid,
+    channel_url: &String,
     pool: &PgPool
 ) -> Result<(), sqlx::Error> {
     sqlx::query!(
         r#"
-        INSERT INTO subscription (id, profile_id, feed_id)
-        VALUES ($1, $2, $3)
+        INSERT INTO subscription (id, profile_id, channel_id, channel_url)
+        VALUES ($1, $2, $3, $4)
         "#,
         Uuid::new_v4(),
         profile_id,
-        feed_id
+        channel_id,
+        channel_url
     )
     .execute(pool)
     .await 

@@ -2,14 +2,14 @@ use rss::Item;
 use rss::Channel;
 
 #[derive(serde::Serialize, serde::Deserialize)]
-pub struct UserFeed {
+pub struct UserSubscription {
     pub feeds: Vec<Feed>
 }
 
 #[derive(serde::Serialize, serde::Deserialize)]
 pub struct Feed {
     pub category: String,
-    pub channels: vec<RssChannel>
+    pub channels: Vec<RssChannel>
 }
 
 #[derive(serde::Serialize, serde::Deserialize)]
