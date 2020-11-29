@@ -14,11 +14,8 @@ const NavList = styled.ul`
     list-style-type: none;
     margin: 10px;
     padding: 10px;
-    border-right: 1px solid #8f660e;
-    border-top: 1px solid #8f660e;
-    border-bottom: 1px solid #8f660e;
-    border-radius: 4px; 
     height: 100%;
+    border-style: none;
 `;
     // #788f0e;
 
