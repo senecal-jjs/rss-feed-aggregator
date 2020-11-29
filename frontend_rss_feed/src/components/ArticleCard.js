@@ -4,8 +4,9 @@ function ArticleCard(props) {
     return (
         <Card>
             <h3>{props.title}</h3>
-            <span>{props.published_by}</span>
-            <p>{props.summary}</p>
+            <span>{props.author}</span>
+            <span>{props.pubDate}</span>
+            <p>{props.description}</p>
         </Card>
     )
 }
