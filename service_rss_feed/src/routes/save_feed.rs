@@ -50,7 +50,7 @@ pub async fn save_feed(
             .map_err(|_| HttpResponse::InternalServerError().finish())?;
         
         if let Some(_) = profile_id {
-            subscribe_to_feed(profile_id.unwrap(), channel_id, &form.link, &pool)
+            subscribe_to_feed(profile_id.unwrap(), channel_id, &form.link, &form.category, &pool)
                 .await
                 .map_err(|_| HttpResponse::InternalServerError().finish())?;
         } 
@@ -58,7 +58,7 @@ pub async fn save_feed(
         tracing::info!("RSS feed {} already exists!", &form.link);
 
         if let Some(_) = profile_id {
-            subscribe_to_feed(profile_id.unwrap(), channel_id.unwrap(), &form.link, &pool)
+            subscribe_to_feed(profile_id.unwrap(), channel_id.unwrap(), &form.link, &form.category, &pool)
                 .await
                 .map_err(|_| HttpResponse::InternalServerError().finish())?;
         } else {
@@ -137,17 +137,19 @@ pub async fn subscribe_to_feed(
     profile_id: Uuid, 
     channel_id: Uuid,
     channel_url: &String,
+    category: &String,
     pool: &PgPool
 ) -> Result<(), sqlx::Error> {
     sqlx::query!(
         r#"
-        INSERT INTO subscription (id, profile_id, channel_id, channel_url)
-        VALUES ($1, $2, $3, $4)
+        INSERT INTO subscription (id, profile_id, channel_id, channel_url, category)
+        VALUES ($1, $2, $3, $4, $5)
         "#,
         Uuid::new_v4(),
         profile_id,
         channel_id,
-        channel_url
+        channel_url,
+        category
     )
     .execute(pool)
     .await 
