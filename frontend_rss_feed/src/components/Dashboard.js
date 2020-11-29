@@ -29,9 +29,7 @@ function Dashboard() {
         if (currentCategory === "all") {
             return feeds.feeds.flatMap( (feed) => feed.channels.flatMap( (channel) => channel.items))
                 .map( (article, index) =>
-                    <li key={index}>
-                        <ArticleCard title={article.title} description={article.description} author={article.author} pubDate={article.pub_date}></ArticleCard>
-                    </li>
+                    <ArticleCard key={index} title={article.title} description={article.description} author={article.author} pubDate={article.pub_date}></ArticleCard>
                 )
         }
     }

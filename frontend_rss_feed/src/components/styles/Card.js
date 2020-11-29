@@ -1,11 +1,13 @@
 import styled from "styled-components";
 
-const Card = styled.div`
+const Card = styled.li`
     margin: 10px 10px 10px 0px;
     padding: 10px;
     height: fit-content; 
-    border-radius: 4px;
-    border-left: 1px solid #8f660e;
+    list-style-type: none;
+    border-style: none;
+    max-width: 800px;
+    margin: auto;
 `
 
 export default Card;
