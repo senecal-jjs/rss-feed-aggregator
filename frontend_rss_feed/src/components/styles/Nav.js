@@ -12,12 +12,19 @@ import styled from 'styled-components';
 // #250e8f#402c9d#5c4aab#7768b9#9287c7#ada5d5#c8c3e3#e4e1f1
 const NavList = styled.ul`
     list-style-type: none;
-    margin: 10px;
+    margin: auto;
     padding: 10px;
     height: 100%;
     border-style: none;
 `;
-    // #788f0e;
+
+const NavItem = styled.li`
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: inline; 
+    vertical-align: middle;
+`
 
 const Anchor = styled.a`
     color: #b24342;
@@ -37,5 +44,5 @@ const Anchor = styled.a`
 export default NavList;
 
 export {
-    Anchor
+    Anchor, NavItem
 };

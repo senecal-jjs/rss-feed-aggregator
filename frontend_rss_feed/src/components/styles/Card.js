@@ -2,7 +2,6 @@ import styled from "styled-components";
 
 const Card = styled.li`
     margin: 10px 10px 10px 0px;
-    padding: 10px;
     height: fit-content; 
     list-style-type: none;
     border-style: none;

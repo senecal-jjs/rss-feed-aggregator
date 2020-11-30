@@ -37,21 +37,12 @@ function Dashboard() {
     return (
         !isLoading && (
         <Grid>
-            <Navbar />
+        {/* //     <Navbar /> */}
             <Body>
                 <H1>Here's your feed, enjoy!</H1>
+                <Navbar />
                 <Articles>
                     <ul>{filterFeeds()}</ul>
-                    
-                    {/* <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
-                    <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
-                    <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
-                    <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
-                    <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
-                    <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
-                    <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
-                    <ArticleCard title={"test"} summary={"test"} published_by={"test"}/>
-                    <ArticleCard title={"test"} summary={"test"} published_by={"test"}/> */}
                 </Articles>
             </Body>
         </Grid>
