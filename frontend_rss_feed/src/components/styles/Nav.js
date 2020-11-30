@@ -20,12 +20,18 @@ const NavList = styled.ul`
     // #788f0e;
 
 const Anchor = styled.a`
-    color: #250e8f;
+    color: #b24342;
+    stroke: #b24342;
+    fill: #b24342;
     text-decoration: none;
     font-weight: bold;
+    margin: 5px;
 
     &:hover {
-        color: #050212;
+        color: #4342b2;
+        stroke: #4342b2;
+        fill: #4342b2;
+        transition: all .2s ease-out;
     }
 `
 export default NavList;

@@ -8,7 +8,7 @@ function Icon() {
       height="45"
       viewBox="0 0 112.79 112.79"
     >
-      <g fill="#b24342" strokeWidth="2.4">
+      <g strokeWidth="2.4">
         <g transform="translate(-22.487 -70.161) matrix(2.0059 0 0 1 -65.323 0)">
           <path
             fillRule="evenodd"
