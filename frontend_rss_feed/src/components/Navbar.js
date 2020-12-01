@@ -2,7 +2,7 @@ import Select from "react-select";
 import NavList, { Anchor, NavItem } from "./styles/Nav";
 import RefreshIcon from "../assets/icons/components/RefreshIcon.js";
 import PlusIcon from "../assets/icons/components/PlusIcon.js";
-import Dropdown from "./styles/Dropdown.js";
+import "../css/select.css";
 
 const options = [
     { value: 'blues', label: 'Blues' },
@@ -26,7 +26,10 @@ function Navbar() {
                 </Anchor>
             </NavItem>
             <NavItem>
-                <Select options={options} />
+                <Select className="nav-select" options={options} />
+            </NavItem>
+            <NavItem>
+                <Select className="nav-select" options={options} />
             </NavItem>
         </NavList>
     )

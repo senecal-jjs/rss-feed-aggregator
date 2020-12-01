@@ -41,6 +41,7 @@ const Anchor = styled.a`
         transition: all .2s ease-out;
     }
 `
+
 export default NavList;
 
 export {
