@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from "axios";
+import useDataApi from "../hooks/useDataApi.js";
 import Navbar from "./Navbar";
 import H1 from "./styles/Heading";
 import Grid from "./styles/GridContainer";
@@ -8,26 +9,32 @@ import Articles from "./styles/Articles";
 import Body from "./styles/Body";
 
 function Dashboard() {
-    const[feeds, setFeeds] = useState({feeds: []});
     const[currentCategory, setCategory] = useState("all");
-    const[isLoading, setIsLoading] = useState(false);
+    const[{ data, isLoading, isError }, doFetch] = useDataApi(
+        '/get-feeds',
+        { feeds: [] },
+    );
 
     useEffect(() => {
-        const fetchFeeds = async () => {
-            setIsLoading(true);
+        doFetch("/get-feeds")
+    });
 
-            const response = await axios.get("/get-feeds");
+    // useEffect(() => {
+    //     const fetchFeeds = async () => {
+    //         setIsLoading(true);
+
+    //         const response = await axios.get("/get-feeds");
             
-            setFeeds(response.data);
-            setIsLoading(false);
-        }
+    //         setFeeds(response.data);
+    //         setIsLoading(false);
+    //     }
 
-        fetchFeeds();
-    }, []);
+    //     fetchFeeds();
+    // }, []);
 
     function filterFeeds() {
         if (currentCategory === "all") {
-            return feeds.feeds.flatMap( (feed) => feed.channels.flatMap( (channel) => channel.items))
+            return data.feeds.flatMap( (feed) => feed.channels.flatMap( (channel) => channel.items))
                 .map( (article, index) =>
                     <ArticleCard key={index} title={article.title} description={article.description} author={article.author} pubDate={article.pub_date}></ArticleCard>
                 )
@@ -37,7 +44,6 @@ function Dashboard() {
     return (
         !isLoading && (
         <Grid>
-        {/* //     <Navbar /> */}
             <Body>
                 <H1>Here's your feed, enjoy!</H1>
                 <Navbar />
