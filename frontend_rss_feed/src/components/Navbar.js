@@ -29,7 +29,7 @@ function Navbar(props) {
                 <Select className="nav-select" options={props.categories} />
             </NavItem>
             <NavItem>
-                <Select className="nav-select" options={options} />
+                <Select className="nav-select" options={props.channels} />
             </NavItem>
         </NavList>
     )

@@ -40,12 +40,19 @@ function Dashboard() {
         return data.feeds.map( (feed) => ({ value: feed.category, label: feed.category }) )
     };
 
+    function getChannels() {
+        return data.feeds
+            .flatMap( 
+                (feed) => feed.channels.flatMap( (channel) => ({ value: channel.title, label: channel.title }) )
+            )
+    }
+
     return (
         !isLoading && (
         <Grid>
             <Body>
                 <H1>Here's your feed, enjoy!</H1>
-                <Navbar categories={getCategories()} />
+                <Navbar categories={getCategories()} channels={getChannels()} />
                 <Articles>
                     <ul>{filterFeeds()}</ul>
                 </Articles>
