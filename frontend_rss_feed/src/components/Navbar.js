@@ -11,7 +11,7 @@ const options = [
     { value: 'orchestra', label: 'Orchestra' } 
   ];
 
-function Navbar() {
+function Navbar(props) {
     return (
         <NavList>
             <NavItem><Anchor href="#">Sign Out</Anchor></NavItem>
@@ -26,7 +26,7 @@ function Navbar() {
                 </Anchor>
             </NavItem>
             <NavItem>
-                <Select className="nav-select" options={options} />
+                <Select className="nav-select" options={props.categories} />
             </NavItem>
             <NavItem>
                 <Select className="nav-select" options={options} />
