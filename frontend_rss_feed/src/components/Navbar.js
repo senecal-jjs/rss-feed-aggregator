@@ -26,7 +26,11 @@ function Navbar(props) {
                 </Anchor>
             </NavItem>
             <NavItem>
-                <Select className="nav-select" options={props.categories} />
+                <Select 
+                    className="nav-select" 
+                    options={props.categories} 
+                    onChange={props.setCategory}
+                />
             </NavItem>
             <NavItem>
                 <Select className="nav-select" options={props.channels} />

@@ -8,7 +8,8 @@ import Articles from "./styles/Articles";
 import Body from "./styles/Body";
 
 function Dashboard() {
-    const[currentCategory, setCategory] = useState("all");
+    const[currentCategory, setCategory] = useState( { label: "All", value: "all" } );
+    const[currentChannel, setChannel] = useState( { label: "All", value: "all" } );
     const[{ data, isLoading, isError }, doFetch] = useDataApi(
         '/get-feeds',
         { feeds: [] },
@@ -19,7 +20,7 @@ function Dashboard() {
     });
 
     function filterFeeds() {
-        if (currentCategory === "all") {
+        if (currentCategory.value === "all") {
             return data.feeds
                 .flatMap( 
                     (feed) => feed.channels.flatMap( (channel) => channel.items)
@@ -33,11 +34,27 @@ function Dashboard() {
                         pubDate={article.pub_date} 
                     />
                 )
+        } else if (currentChannel.value === "all") {
+            return data.feeds
+                .filter( (feed) => feed.category === currentCategory.value )
+                .flatMap( (feed) => feed.channels.flatMap( (channel) => channel.items) )
+                .map( (article, index) =>
+                    <ArticleCard 
+                        key={index} 
+                        title={article.title} 
+                        description={article.description} 
+                        author={article.author} 
+                        pubDate={article.pub_date} 
+                    />
+                )
         }
     };
 
     function getCategories() {
-        return data.feeds.map( (feed) => ({ value: feed.category, label: feed.category }) )
+        let cat = data.feeds
+            .map( (feed) => ({ value: feed.category, label: feed.category }) )
+        
+        return [ { label: "All", value: "all" }, ...cat ]
     };
 
     function getChannels() {
@@ -52,7 +69,7 @@ function Dashboard() {
         <Grid>
             <Body>
                 <H1>Here's your feed, enjoy!</H1>
-                <Navbar categories={getCategories()} channels={getChannels()} />
+                <Navbar categories={getCategories()} channels={getChannels()} setCategory={setCategory} />
                 <Articles>
                     <ul>{filterFeeds()}</ul>
                 </Articles>
