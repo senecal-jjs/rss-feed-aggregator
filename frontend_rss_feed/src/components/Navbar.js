@@ -33,6 +33,7 @@ function Navbar(props) {
                     className="nav-select" 
                     options={props.categories} 
                     onChange={onCategoryChange}
+                    value={props.currentCategory}
                 />
             </NavItem>
             <NavItem>
@@ -40,6 +41,7 @@ function Navbar(props) {
                     className="nav-select" 
                     options={props.channels} 
                     onChange={onChannelChange}
+                    value={props.currentChannel}
                 />
             </NavItem>
         </NavList>

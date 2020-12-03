@@ -93,7 +93,9 @@ function Dashboard() {
                     categories={getCategories()} 
                     channels={getChannels()} 
                     setCategory={setCategory} 
+                    currentCategory={currentCategory}
                     setChannel={setChannel}
+                    currentChannel={currentChannel}
                 />
                 <Articles>
                     <ul>{filterFeeds()}</ul>
