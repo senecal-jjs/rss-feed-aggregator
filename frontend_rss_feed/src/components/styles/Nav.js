@@ -33,6 +33,7 @@ const Anchor = styled.a`
     text-decoration: none;
     font-weight: bold;
     margin: 5px;
+    cursor: default;
 
     &:hover {
         color: #4342b2;

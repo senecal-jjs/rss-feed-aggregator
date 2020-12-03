@@ -19,7 +19,7 @@ function Navbar(props) {
         <NavList>
             <NavItem><Anchor href="#">Sign Out</Anchor></NavItem>
             <NavItem>
-                <Anchor href="#">
+                <Anchor href="#" onClick={props.setShowAddFeed(true)}>
                     <RefreshIcon />
                 </Anchor>
             </NavItem>

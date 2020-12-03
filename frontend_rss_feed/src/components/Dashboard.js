@@ -6,10 +6,13 @@ import Grid from "./styles/GridContainer";
 import ArticleCard from "./ArticleCard";
 import Articles from "./styles/Articles";
 import Body from "./styles/Body";
+import Modal from "./Modal";
 
 function Dashboard() {
     const[currentCategory, setCategory] = useState( { label: "All", value: "all" } );
     const[currentChannel, setChannel] = useState( { label: "All", value: "all" } );
+    const[showAddFeed, setShowAddFeed] = useState(false);
+    const[showArticle, setShowArticle] = useState(false);
     const[{ data, isLoading, isError }, doFetch] = useDataApi(
         '/get-feeds',
         { feeds: [] },
@@ -96,7 +99,11 @@ function Dashboard() {
                     currentCategory={currentCategory}
                     setChannel={setChannel}
                     currentChannel={currentChannel}
+                    setShowAddFeed={setShowAddFeed}
                 />
+                <Modal show={showAddFeed} setShow={setShowAddFeed}>
+                    <p>Modal</p>
+                </Modal> 
                 <Articles>
                     <ul>{filterFeeds()}</ul>
                 </Articles>
