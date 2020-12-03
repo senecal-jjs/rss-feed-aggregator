@@ -20,7 +20,24 @@ function Dashboard() {
     });
 
     function filterFeeds() {
-        if (currentCategory.value === "all") {
+        if (currentChannel.value !== "all") {
+            return data.feeds
+                .flatMap(
+                    (feed) => feed.channels
+                )
+                .filter( (channel) => channel.title === currentChannel.value)
+                .flatMap( (channel) => channel.items)
+                .map( (article, index) =>
+                    <ArticleCard 
+                        key={index} 
+                        title={article.title} 
+                        description={article.description} 
+                        author={article.author} 
+                        pubDate={article.pub_date} 
+                    />
+                )
+        }
+        else if (currentCategory.value === "all") {
             return data.feeds
                 .flatMap( 
                     (feed) => feed.channels.flatMap( (channel) => channel.items)
@@ -34,7 +51,8 @@ function Dashboard() {
                         pubDate={article.pub_date} 
                     />
                 )
-        } else if (currentChannel.value === "all") {
+        } 
+        else if (currentCategory.value !== "all") {
             return data.feeds
                 .filter( (feed) => feed.category === currentCategory.value )
                 .flatMap( (feed) => feed.channels.flatMap( (channel) => channel.items) )
@@ -58,10 +76,12 @@ function Dashboard() {
     };
 
     function getChannels() {
-        return data.feeds
+        let channels = data.feeds
             .flatMap( 
                 (feed) => feed.channels.flatMap( (channel) => ({ value: channel.title, label: channel.title }) )
             )
+
+        return [ { label: "All", value: "all" }, ...channels]
     }
 
     return (
@@ -69,7 +89,12 @@ function Dashboard() {
         <Grid>
             <Body>
                 <H1>Here's your feed, enjoy!</H1>
-                <Navbar categories={getCategories()} channels={getChannels()} setCategory={setCategory} />
+                <Navbar 
+                    categories={getCategories()} 
+                    channels={getChannels()} 
+                    setCategory={setCategory} 
+                    setChannel={setChannel}
+                />
                 <Articles>
                     <ul>{filterFeeds()}</ul>
                 </Articles>
