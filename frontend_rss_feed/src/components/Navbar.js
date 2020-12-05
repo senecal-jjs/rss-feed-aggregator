@@ -3,6 +3,7 @@ import NavList, { Anchor, NavItem } from "./styles/Nav";
 import RefreshIcon from "../assets/icons/components/RefreshIcon.js";
 import PlusIcon from "../assets/icons/components/PlusIcon.js";
 import HamburgerIcon from "../assets/icons/components/Hamburger.js";
+import ListIcon from "../assets/icons/components/ListIcon.js";
 import "../css/select.css";
 
 function Navbar(props) {
@@ -36,7 +37,7 @@ function Navbar(props) {
             </NavItem>
             <NavItem>
                 <Anchor onClick={onArticleDisplay}>
-                    <HamburgerIcon />
+                    <ListIcon />
                 </Anchor>
             </NavItem>
             <NavItem>
