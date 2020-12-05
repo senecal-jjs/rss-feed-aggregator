@@ -2,6 +2,7 @@ import Select from "react-select";
 import NavList, { Anchor, NavItem } from "./styles/Nav";
 import RefreshIcon from "../assets/icons/components/RefreshIcon.js";
 import PlusIcon from "../assets/icons/components/PlusIcon.js";
+import HamburgerIcon from "../assets/icons/components/Hamburger.js";
 import "../css/select.css";
 
 function Navbar(props) {
@@ -15,16 +16,31 @@ function Navbar(props) {
         props.setCategory( { label: "All", value: "all" } )
     }
 
+    const onAddFeed = () => {
+        console.log("add feed clicked")
+        props.setShow(true)
+    }
+
+    const onArticleDisplay = () => {
+        console.log("show articles clicked")
+        props.setShow(false)
+    }
+
     return (
         <NavList>
             <NavItem><Anchor href="#">Sign Out</Anchor></NavItem>
             <NavItem>
-                <Anchor href="#" onClick={props.setShowAddFeed(true)}>
+                <Anchor href="#" onClick={onAddFeed}>
                     <RefreshIcon />
                 </Anchor>
             </NavItem>
             <NavItem>
-                <Anchor href="#">
+                <Anchor onClick={onArticleDisplay}>
+                    <HamburgerIcon />
+                </Anchor>
+            </NavItem>
+            <NavItem>
+                <Anchor onClick={onAddFeed}>
                     <PlusIcon />
                 </Anchor>
             </NavItem>

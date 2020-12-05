@@ -6,7 +6,6 @@ import Grid from "./styles/GridContainer";
 import ArticleCard from "./ArticleCard";
 import Articles from "./styles/Articles";
 import Body from "./styles/Body";
-import Modal from "./Modal";
 
 function Dashboard() {
     const[currentCategory, setCategory] = useState( { label: "All", value: "all" } );
@@ -87,6 +86,12 @@ function Dashboard() {
         return [ { label: "All", value: "all" }, ...channels]
     }
 
+    function openAddFeedModal(e) {
+        e.preventDefault();
+        console.log("opening")
+        setShowAddFeed(true);
+    }
+
     return (
         !isLoading && (
         <Grid>
@@ -99,14 +104,14 @@ function Dashboard() {
                     currentCategory={currentCategory}
                     setChannel={setChannel}
                     currentChannel={currentChannel}
-                    setShowAddFeed={setShowAddFeed}
+                    setShow={setShowAddFeed}
                 />
-                <Modal show={showAddFeed} setShow={setShowAddFeed}>
-                    <p>Modal</p>
-                </Modal> 
-                <Articles>
-                    <ul>{filterFeeds()}</ul>
-                </Articles>
+                {
+                    showAddFeed ? <p>Modal</p> :
+                    <Articles>
+                        <ul>{filterFeeds()}</ul>
+                    </Articles>
+                }
             </Body>
         </Grid>
         )
