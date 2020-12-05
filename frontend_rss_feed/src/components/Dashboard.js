@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import useDataApi from "../hooks/useDataApi.js";
+import AddFeed from "./AddFeed";
 import Navbar from "./Navbar";
 import H1 from "./styles/Heading";
 import Grid from "./styles/GridContainer";
@@ -107,7 +108,7 @@ function Dashboard() {
                     setShow={setShowAddFeed}
                 />
                 {
-                    showAddFeed ? <p>Modal</p> :
+                    showAddFeed ? <AddFeed /> :
                     <Articles>
                         <ul>{filterFeeds()}</ul>
                     </Articles>
