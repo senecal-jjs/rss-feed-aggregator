@@ -1,0 +1,3566 @@
+[
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/music.png",
+        "updated": 1604848833928,
+        "feedIds": [
+            "feed/http://feeds.feedburner.com/stereogum/cBYa",
+            "feed/http://pitchfork.com/rss/news/",
+            "feed/http://www.npr.org/rss/rss.php?id=1039",
+            "feed/http://gorillavsbear.blogspot.com/atom.xml",
+            "feed/http://consequenceofsound.net/feed/",
+            "feed/http://www.rollingstone.com/siteServices/rss/allNews",
+            "feed/http://www.brooklynvegan.com/atom.xml",
+            "feed/http://www.nme.com/rss/news.xml",
+            "feed/http://www.factmag.com/feed/",
+            "feed/http://feeds.feedburner.com/TheFaderMagazine",
+            "feed/http://www.aquariumdrunkard.com/feed/",
+            "feed/http://thequietus.com/feed",
+            "feed/http://www.spin.com/rss.xml",
+            "feed/http://www.billboard.com/rss/the-feed",
+            "feed/http://noisey.vice.com/rss",
+            "feed/http://feeds.guardian.co.uk/theguardian/music/rss",
+            "feed/http://feeds.feedburner.com/prettymuchamazing",
+            "feed/http://www.residentadvisor.net/xml/rss_news.xml",
+            "feed/http://feeds.feedburner.com/createdigitalmusic",
+            "feed/http://www.metalsucks.net/feed/rss/",
+            "feed/http://loudwire.com/feed/",
+            "feed/http://blog.bandcamp.com/feed/",
+            "feed/http://rapradar.com/feed/",
+            "feed/http://www.metalhammer.co.uk/rss",
+            "feed/http://www.punknews.org/feeds/punknews.rdf",
+            "feed/http://cdnl.complex.com/feeds/channels/music.xml",
+            "feed/http://drownedinsound.com/feed",
+            "feed/http://feeds2.feedburner.com/earmilk",
+            "feed/http://feeds2.feedburner.com/metalinjection",
+            "feed/http://www.idolator.com/index.xml",
+            "feed/http://www.therestisnoise.com/atom.xml",
+            "feed/http://www.allmusic.com/rss",
+            "feed/http://feeds.indieshuffle.com/indieshuffle",
+            "feed/http://feeds.feedburner.com/2dopeboyz",
+            "feed/http://www.blabbermouth.net/feed.rss",
+            "feed/http://feeds2.feedburner.com/SlicingUpEyeballs",
+            "feed/http://www.mixmag.net/rss.xml",
+            "feed/http://www.okayplayer.com/feed",
+            "feed/http://feeds.feedburner.com/TheLineOfBestFit",
+            "feed/http://www.thevinylfactory.com/feed/",
+            "feed/http://www.synthtopia.com/feed/",
+            "feed/http://ultimateclassicrock.com/feed/",
+            "feed/http://feeds.feedburner.com/hiphopdx/news",
+            "feed/http://www.invisibleoranges.com/feed/",
+            "feed/http://www.dancingastronaut.com/feed/",
+            "feed/http://www.undertheradarmag.com/site/rss",
+            "feed/http://www.fluxblog.org/feed",
+            "feed/http://www.angrymetalguy.com/feed/",
+            "feed/http://feeds.feedburner.com/o-dub/dqRL",
+            "feed/http://feeds.feedburner.com/largeheartedboy",
+            "feed/http://feeds.feedburner.com/xlr8rnews",
+            "feed/http://www.metacritic.com/rss/music/album.xml",
+            "feed/http://feeds.feedburner.com/jambase",
+            "feed/http://www.themusicninja.com/feed/",
+            "feed/http://www.absolutepunk.net/rss",
+            "feed/http://www.soundonsound.com/news/sosrssfeed.php",
+            "feed/http://www.xxlmag.com/online/wp-rss2.php",
+            "feed/http://www.discobelle.net/feed/",
+            "feed/http://obscuresound.com/?feed=rss2",
+            "feed/http://thewire.co.uk/news/rss",
+            "feed/http://www.djtechtools.com/feed/",
+            "feed/http://feeds.feedburner.com/20JazzFunkGreats",
+            "feed/http://feeds.feedburner.com/superdeluxeedition",
+            "feed/http://www.covermesongs.com/feed",
+            "feed/http://www.heavyblogisheavy.com/feed/",
+            "feed/http://www.attackmagazine.com/feed/",
+            "feed/http://feeds.feedburner.com/Nyctaper",
+            "feed/http://www.digitalmusicnews.com/stories?func=viewRss",
+            "feed/http://adhoc.fm/feed/",
+            "feed/http://passionweiss.com/feed/",
+            "feed/http://www.popjustice.com/feed/",
+            "feed/http://wilfullyobscure.blogspot.com/feeds/posts/default",
+            "feed/http://www.theprp.com/feed/",
+            "feed/http://feeds.feedburner.com/realhotnewhiphop",
+            "feed/http://www.clashmusic.com/rss.xml",
+            "feed/http://www.rap-up.com/feed/",
+            "feed/http://www.musicthinktank.com/blog/rss.xml",
+            "feed/http://bedroomproducersblog.com/feed/",
+            "feed/http://www.nytimes.com/services/xml/rss/nyt/Music.xml",
+            "feed/http://reviews.headphonecommute.com/feed/",
+            "feed/http://www.metalunderground.com/tools/newsfeeds/news.cfm",
+            "feed/http://coverlaydown.com/feed/",
+            "feed/http://www.cvltnation.com/feed/",
+            "feed/http://www.avclub.com/feed/music/",
+            "feed/http://www.musicbusinessworldwide.com/feed/",
+            "feed/http://www.hearya.com/feed/",
+            "feed/http://lefsetz.com/wordpress/index.php/feed/",
+            "feed/http://www.ableton.com/blog/feeds/latest/",
+            "feed/http://www.electronicbeats.net/feed/",
+            "feed/http://pitchfork.com/rss/reviews/albums/",
+            "feed/http://pitchfork.com/rss/reviews/best/albums/",
+            "feed/http://pitchfork.com/rss/reviews/best/tracks/",
+            "feed/http://pitchfork.com/rss/features/",
+            "feed/http://www.residentadvisor.net/xml/features.xml",
+            "feed/http://www.rollingstone.com/music.rss",
+            "feed/http://www.residentadvisor.net/xml/review-album.xml",
+            "feed/http://www.residentadvisor.net/xml/reviews.xml",
+            "feed/http://pitchfork.com/rss/reviews/tracks/",
+            "feed/http://www.npr.org/rss/rss.php?id=15709577",
+            "feed/http://pitchfork.com/rss/thepitch/"
+        ],
+        "focusScore": 0.8470933866997472,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.06545876178631795,
+                "bestFeedId": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+                "size": 748,
+                "topic": "musica"
+            },
+            {
+                "focusScore": 0.08523962719470851,
+                "bestFeedId": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+                "size": 683,
+                "topic": "música"
+            },
+            {
+                "focusScore": 0.017333740967540204,
+                "bestFeedId": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+                "size": 465,
+                "topic": "musik"
+            },
+            {
+                "focusScore": 0.04263128066533621,
+                "bestFeedId": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+                "size": 355,
+                "topic": "musique"
+            }
+        ],
+        "bestFeedId": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1249.06,
+                "id": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+                "feedId": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1228.38,
+                "id": "feed/http://pitchfork.com/rss/news/",
+                "feedId": "feed/http://pitchfork.com/rss/news/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1164.63,
+                "id": "feed/http://www.npr.org/rss/rss.php?id=1039",
+                "feedId": "feed/http://www.npr.org/rss/rss.php?id=1039",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1138.53,
+                "id": "feed/http://gorillavsbear.blogspot.com/atom.xml",
+                "feedId": "feed/http://gorillavsbear.blogspot.com/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1132.61,
+                "id": "feed/http://consequenceofsound.net/feed/",
+                "feedId": "feed/http://consequenceofsound.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 1119.72,
+                "id": "feed/http://www.rollingstone.com/siteServices/rss/allNews",
+                "feedId": "feed/http://www.rollingstone.com/siteServices/rss/allNews",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1107.74,
+                "id": "feed/http://www.brooklynvegan.com/atom.xml",
+                "feedId": "feed/http://www.brooklynvegan.com/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1106.35,
+                "id": "feed/http://www.nme.com/rss/news.xml",
+                "feedId": "feed/http://www.nme.com/rss/news.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1074.22,
+                "id": "feed/http://www.factmag.com/feed/",
+                "feedId": "feed/http://www.factmag.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1073.45,
+                "id": "feed/http://feeds.feedburner.com/TheFaderMagazine",
+                "feedId": "feed/http://feeds.feedburner.com/TheFaderMagazine",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1052.22,
+                "id": "feed/http://www.aquariumdrunkard.com/feed/",
+                "feedId": "feed/http://www.aquariumdrunkard.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1043.47,
+                "id": "feed/http://thequietus.com/feed",
+                "feedId": "feed/http://thequietus.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1043.41,
+                "id": "feed/http://www.spin.com/rss.xml",
+                "feedId": "feed/http://www.spin.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 1026.62,
+                "id": "feed/http://www.billboard.com/rss/the-feed",
+                "feedId": "feed/http://www.billboard.com/rss/the-feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 1025.78,
+                "id": "feed/http://noisey.vice.com/rss",
+                "feedId": "feed/http://noisey.vice.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 996.84,
+                "id": "feed/http://feeds.guardian.co.uk/theguardian/music/rss",
+                "feedId": "feed/http://feeds.guardian.co.uk/theguardian/music/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 992.9,
+                "id": "feed/http://feeds.feedburner.com/prettymuchamazing",
+                "feedId": "feed/http://feeds.feedburner.com/prettymuchamazing",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 975.47,
+                "id": "feed/http://www.residentadvisor.net/xml/rss_news.xml",
+                "feedId": "feed/http://www.residentadvisor.net/xml/rss_news.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 968.85,
+                "id": "feed/http://feeds.feedburner.com/createdigitalmusic",
+                "feedId": "feed/http://feeds.feedburner.com/createdigitalmusic",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 966.72,
+                "id": "feed/http://www.metalsucks.net/feed/rss/",
+                "feedId": "feed/http://www.metalsucks.net/feed/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 954.61,
+                "id": "feed/http://loudwire.com/feed/",
+                "feedId": "feed/http://loudwire.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 939.93,
+                "id": "feed/http://blog.bandcamp.com/feed/",
+                "feedId": "feed/http://blog.bandcamp.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 936.21,
+                "id": "feed/http://rapradar.com/feed/",
+                "feedId": "feed/http://rapradar.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 935.62,
+                "id": "feed/http://www.metalhammer.co.uk/rss",
+                "feedId": "feed/http://www.metalhammer.co.uk/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 934.46,
+                "id": "feed/http://www.punknews.org/feeds/punknews.rdf",
+                "feedId": "feed/http://www.punknews.org/feeds/punknews.rdf",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 934.32,
+                "id": "feed/http://cdnl.complex.com/feeds/channels/music.xml",
+                "feedId": "feed/http://cdnl.complex.com/feeds/channels/music.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 931.97,
+                "id": "feed/http://drownedinsound.com/feed",
+                "feedId": "feed/http://drownedinsound.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 926.62,
+                "id": "feed/http://feeds2.feedburner.com/earmilk",
+                "feedId": "feed/http://feeds2.feedburner.com/earmilk",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 914.71,
+                "id": "feed/http://feeds2.feedburner.com/metalinjection",
+                "feedId": "feed/http://feeds2.feedburner.com/metalinjection",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 911.77,
+                "id": "feed/http://www.idolator.com/index.xml",
+                "feedId": "feed/http://www.idolator.com/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 907.87,
+                "id": "feed/http://www.therestisnoise.com/atom.xml",
+                "feedId": "feed/http://www.therestisnoise.com/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 906.76,
+                "id": "feed/http://www.allmusic.com/rss",
+                "feedId": "feed/http://www.allmusic.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 904.56,
+                "id": "feed/http://feeds.indieshuffle.com/indieshuffle",
+                "feedId": "feed/http://feeds.indieshuffle.com/indieshuffle",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 903.75,
+                "id": "feed/http://feeds.feedburner.com/2dopeboyz",
+                "feedId": "feed/http://feeds.feedburner.com/2dopeboyz",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 902.46,
+                "id": "feed/http://www.blabbermouth.net/feed.rss",
+                "feedId": "feed/http://www.blabbermouth.net/feed.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 897.91,
+                "id": "feed/http://feeds2.feedburner.com/SlicingUpEyeballs",
+                "feedId": "feed/http://feeds2.feedburner.com/SlicingUpEyeballs",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 883.49,
+                "id": "feed/http://www.mixmag.net/rss.xml",
+                "feedId": "feed/http://www.mixmag.net/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 881.46,
+                "id": "feed/http://www.okayplayer.com/feed",
+                "feedId": "feed/http://www.okayplayer.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 880.59,
+                "id": "feed/http://feeds.feedburner.com/TheLineOfBestFit",
+                "feedId": "feed/http://feeds.feedburner.com/TheLineOfBestFit",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 880.43,
+                "id": "feed/http://www.thevinylfactory.com/feed/",
+                "feedId": "feed/http://www.thevinylfactory.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 875.15,
+                "id": "feed/http://www.synthtopia.com/feed/",
+                "feedId": "feed/http://www.synthtopia.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 864.54,
+                "id": "feed/http://ultimateclassicrock.com/feed/",
+                "feedId": "feed/http://ultimateclassicrock.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 859.51,
+                "id": "feed/http://feeds.feedburner.com/hiphopdx/news",
+                "feedId": "feed/http://feeds.feedburner.com/hiphopdx/news",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 858.96,
+                "id": "feed/http://www.invisibleoranges.com/feed/",
+                "feedId": "feed/http://www.invisibleoranges.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 845.87,
+                "id": "feed/http://www.dancingastronaut.com/feed/",
+                "feedId": "feed/http://www.dancingastronaut.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 845.32,
+                "id": "feed/http://www.undertheradarmag.com/site/rss",
+                "feedId": "feed/http://www.undertheradarmag.com/site/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 843.16,
+                "id": "feed/http://www.fluxblog.org/feed",
+                "feedId": "feed/http://www.fluxblog.org/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 837.0,
+                "id": "feed/http://www.angrymetalguy.com/feed/",
+                "feedId": "feed/http://www.angrymetalguy.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 836.63,
+                "id": "feed/http://feeds.feedburner.com/o-dub/dqRL",
+                "feedId": "feed/http://feeds.feedburner.com/o-dub/dqRL",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 830.85,
+                "id": "feed/http://feeds.feedburner.com/largeheartedboy",
+                "feedId": "feed/http://feeds.feedburner.com/largeheartedboy",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 830.84,
+                "id": "feed/http://feeds.feedburner.com/xlr8rnews",
+                "feedId": "feed/http://feeds.feedburner.com/xlr8rnews",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 830.57,
+                "id": "feed/http://www.metacritic.com/rss/music/album.xml",
+                "feedId": "feed/http://www.metacritic.com/rss/music/album.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 814.66,
+                "id": "feed/http://feeds.feedburner.com/jambase",
+                "feedId": "feed/http://feeds.feedburner.com/jambase",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 808.21,
+                "id": "feed/http://www.themusicninja.com/feed/",
+                "feedId": "feed/http://www.themusicninja.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 802.33,
+                "id": "feed/http://www.absolutepunk.net/rss",
+                "feedId": "feed/http://www.absolutepunk.net/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 801.62,
+                "id": "feed/http://www.soundonsound.com/news/sosrssfeed.php",
+                "feedId": "feed/http://www.soundonsound.com/news/sosrssfeed.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 801.23,
+                "id": "feed/http://www.xxlmag.com/online/wp-rss2.php",
+                "feedId": "feed/http://www.xxlmag.com/online/wp-rss2.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 799.6,
+                "id": "feed/http://www.discobelle.net/feed/",
+                "feedId": "feed/http://www.discobelle.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 798.87,
+                "id": "feed/http://obscuresound.com/?feed=rss2",
+                "feedId": "feed/http://obscuresound.com/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 796.16,
+                "id": "feed/http://thewire.co.uk/news/rss",
+                "feedId": "feed/http://thewire.co.uk/news/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 795.43,
+                "id": "feed/http://www.djtechtools.com/feed/",
+                "feedId": "feed/http://www.djtechtools.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 794.76,
+                "id": "feed/http://feeds.feedburner.com/20JazzFunkGreats",
+                "feedId": "feed/http://feeds.feedburner.com/20JazzFunkGreats",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 791.44,
+                "id": "feed/http://feeds.feedburner.com/superdeluxeedition",
+                "feedId": "feed/http://feeds.feedburner.com/superdeluxeedition",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 791.0,
+                "id": "feed/http://www.covermesongs.com/feed",
+                "feedId": "feed/http://www.covermesongs.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 786.23,
+                "id": "feed/http://www.heavyblogisheavy.com/feed/",
+                "feedId": "feed/http://www.heavyblogisheavy.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 776.68,
+                "id": "feed/http://www.attackmagazine.com/feed/",
+                "feedId": "feed/http://www.attackmagazine.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 776.08,
+                "id": "feed/http://feeds.feedburner.com/Nyctaper",
+                "feedId": "feed/http://feeds.feedburner.com/Nyctaper",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 774.67,
+                "id": "feed/http://www.digitalmusicnews.com/stories?func=viewRss",
+                "feedId": "feed/http://www.digitalmusicnews.com/stories?func=viewRss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 770.74,
+                "id": "feed/http://adhoc.fm/feed/",
+                "feedId": "feed/http://adhoc.fm/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 769.08,
+                "id": "feed/http://passionweiss.com/feed/",
+                "feedId": "feed/http://passionweiss.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 765.21,
+                "id": "feed/http://www.popjustice.com/feed/",
+                "feedId": "feed/http://www.popjustice.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 763.03,
+                "id": "feed/http://wilfullyobscure.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://wilfullyobscure.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 762.12,
+                "id": "feed/http://www.theprp.com/feed/",
+                "feedId": "feed/http://www.theprp.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 761.52,
+                "id": "feed/http://feeds.feedburner.com/realhotnewhiphop",
+                "feedId": "feed/http://feeds.feedburner.com/realhotnewhiphop",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 759.32,
+                "id": "feed/http://www.clashmusic.com/rss.xml",
+                "feedId": "feed/http://www.clashmusic.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 758.95,
+                "id": "feed/http://www.rap-up.com/feed/",
+                "feedId": "feed/http://www.rap-up.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 755.53,
+                "id": "feed/http://www.musicthinktank.com/blog/rss.xml",
+                "feedId": "feed/http://www.musicthinktank.com/blog/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 752.66,
+                "id": "feed/http://bedroomproducersblog.com/feed/",
+                "feedId": "feed/http://bedroomproducersblog.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 744.25,
+                "id": "feed/http://www.nytimes.com/services/xml/rss/nyt/Music.xml",
+                "feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/Music.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 743.25,
+                "id": "feed/http://reviews.headphonecommute.com/feed/",
+                "feedId": "feed/http://reviews.headphonecommute.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 741.81,
+                "id": "feed/http://www.metalunderground.com/tools/newsfeeds/news.cfm",
+                "feedId": "feed/http://www.metalunderground.com/tools/newsfeeds/news.cfm",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 741.45,
+                "id": "feed/http://coverlaydown.com/feed/",
+                "feedId": "feed/http://coverlaydown.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 740.97,
+                "id": "feed/http://www.cvltnation.com/feed/",
+                "feedId": "feed/http://www.cvltnation.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 739.34,
+                "id": "feed/http://www.avclub.com/feed/music/",
+                "feedId": "feed/http://www.avclub.com/feed/music/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 738.84,
+                "id": "feed/http://www.musicbusinessworldwide.com/feed/",
+                "feedId": "feed/http://www.musicbusinessworldwide.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 738.37,
+                "id": "feed/http://www.hearya.com/feed/",
+                "feedId": "feed/http://www.hearya.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 76.0,
+                "leoScore": 736.97,
+                "id": "feed/http://lefsetz.com/wordpress/index.php/feed/",
+                "feedId": "feed/http://lefsetz.com/wordpress/index.php/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 736.88,
+                "id": "feed/http://www.ableton.com/blog/feeds/latest/",
+                "feedId": "feed/http://www.ableton.com/blog/feeds/latest/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 736.47,
+                "id": "feed/http://www.electronicbeats.net/feed/",
+                "feedId": "feed/http://www.electronicbeats.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": -1.0,
+                "id": "feed/http://pitchfork.com/rss/reviews/albums/",
+                "feedId": "feed/http://pitchfork.com/rss/reviews/albums/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": -2.0,
+                "id": "feed/http://pitchfork.com/rss/reviews/best/albums/",
+                "feedId": "feed/http://pitchfork.com/rss/reviews/best/albums/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": -3.0,
+                "id": "feed/http://pitchfork.com/rss/reviews/best/tracks/",
+                "feedId": "feed/http://pitchfork.com/rss/reviews/best/tracks/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": -4.0,
+                "id": "feed/http://pitchfork.com/rss/features/",
+                "feedId": "feed/http://pitchfork.com/rss/features/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": -5.0,
+                "id": "feed/http://www.residentadvisor.net/xml/features.xml",
+                "feedId": "feed/http://www.residentadvisor.net/xml/features.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": -6.0,
+                "id": "feed/http://www.rollingstone.com/music.rss",
+                "feedId": "feed/http://www.rollingstone.com/music.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": -7.0,
+                "id": "feed/http://www.residentadvisor.net/xml/review-album.xml",
+                "feedId": "feed/http://www.residentadvisor.net/xml/review-album.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -8.0,
+                "id": "feed/http://www.residentadvisor.net/xml/reviews.xml",
+                "feedId": "feed/http://www.residentadvisor.net/xml/reviews.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": -9.0,
+                "id": "feed/http://pitchfork.com/rss/reviews/tracks/",
+                "feedId": "feed/http://pitchfork.com/rss/reviews/tracks/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": -10.0,
+                "id": "feed/http://www.npr.org/rss/rss.php?id=15709577",
+                "feedId": "feed/http://www.npr.org/rss/rss.php?id=15709577",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": -11.0,
+                "id": "feed/http://pitchfork.com/rss/thepitch/",
+                "feedId": "feed/http://pitchfork.com/rss/thepitch/",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.38827512982577744,
+                "bestFeedId": "feed/http://www.stereophile.com/rss.xml",
+                "size": 3887,
+                "topic": "audio",
+                "topicId": "audio"
+            },
+            {
+                "focusScore": 0.21975314318765404,
+                "bestFeedId": "feed/http://feeds.feedburner.com/createdigitalmusic",
+                "size": 1866,
+                "topic": "music production",
+                "topicId": "music-production"
+            },
+            {
+                "focusScore": 0.633679757642962,
+                "bestFeedId": "feed/http://www.guitarworld.com/rss.xml",
+                "size": 1596,
+                "topic": "guitar",
+                "topicId": "guitar"
+            },
+            {
+                "focusScore": 0.18483601391379287,
+                "bestFeedId": "feed/http://feeds.feedburner.com/hiphopdx/news",
+                "size": 770,
+                "topic": "hip hop",
+                "topicId": "hip-hop"
+            },
+            {
+                "focusScore": 0.18489121578423723,
+                "bestFeedId": "feed/http://www.metalsucks.net/feed/rss/",
+                "size": 576,
+                "topic": "metal",
+                "topicId": "metal"
+            },
+            {
+                "focusScore": 0.3501715018264678,
+                "bestFeedId": "feed/http://www.musicthinktank.com/blog/rss.xml",
+                "size": 535,
+                "topic": "music business",
+                "topicId": "music-business"
+            },
+            {
+                "focusScore": 0.073951070655852,
+                "bestFeedId": "feed/http://www.discobelle.net/feed/",
+                "size": 495,
+                "topic": "mp3",
+                "topicId": "mp3"
+            },
+            {
+                "focusScore": 0.6308877413353388,
+                "bestFeedId": "feed/http://www.soompi.com/feed/",
+                "size": 490,
+                "topic": "kpop",
+                "topicId": "kpop"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "language": "en",
+        "size": 48151,
+        "topic": "music",
+        "topicId": "music"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/music-production.png",
+        "updated": 1604848852060,
+        "feedIds": [
+            "feed/http://feeds.feedburner.com/createdigitalmusic",
+            "feed/http://bedroomproducersblog.com/feed/",
+            "feed/http://www.synthtopia.com/feed/",
+            "feed/http://www.musictech.net/feed/",
+            "feed/http://www.soundonsound.com/news/sosrssfeed.php",
+            "feed/http://www.attackmagazine.com/feed/",
+            "feed/http://www.ableton.com/blog/feeds/latest/",
+            "feed/http://futuremusic.com/blog/feed/",
+            "feed/http://blog.landr.com/rss",
+            "feed/http://theproaudiofiles.com/feed/",
+            "feed/https://blog.native-instruments.com/feed/",
+            "feed/http://feeds.feedburner.com/SonicstatecomNews",
+            "feed/http://blog.splice.com/rss",
+            "feed/http://www.kvraudio.com/rss/kvr_news_main.rss",
+            "feed/https://feedity.com/musicradar-com/VFtaWlJW.rss",
+            "feed/http://therecordingrevolution.com/feed/",
+            "feed/http://bobbyowsinski.blogspot.com/feeds/posts/default",
+            "feed/http://feeds.feedburner.com/audiotuts",
+            "feed/http://audiocookbook.org/feed/",
+            "feed/http://edmprod.com/feed/",
+            "feed/http://www.adsrsounds.com/feed/",
+            "feed/http://www.sonicscoop.com/feed/",
+            "feed/https://ask.audio/rss",
+            "feed/http://sonicbloom.net/en/feed/",
+            "feed/http://rekkerd.org/feed/",
+            "feed/http://www.djtechtools.com/feed/",
+            "feed/http://www.producerspot.com/feed",
+            "feed/http://productionadvice.co.uk/feed/",
+            "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCzNleyBTjCeygAL3NaWwRig",
+            "feed/http://www.propellerheads.se/feeds/news.xml",
+            "feed/http://www.synthanatomy.com/feeds/posts/default",
+            "feed/http://www.loopmasters.com/article/rss",
+            "feed/http://www.pensadosplace.tv/feed/",
+            "feed/http://discchord.com/blog/atom.xml",
+            "feed/http://www.gearnews.com/feed/",
+            "feed/http://maschinetutorials.com/feed/",
+            "feed/http://feeds.feedburner.com/MaxForLiveComNewDevices",
+            "feed/http://getthatprosound.com/feed/",
+            "feed/http://matrixsynth.blogspot.com/feeds/posts/default",
+            "feed/http://hiphopmakers.com/feed",
+            "feed/https://www.masteringthemix.com/blogs/learn.atom",
+            "feed/https://www.blackghostaudio.com/blog/rss.xml",
+            "feed/http://www.gearslutz.com/board/external.php?type=RSS2&forumids=9",
+            "feed/http://outputsounds.com/feed/",
+            "feed/http://feeds.feedburner.com/afrodjmac/rss",
+            "feed/http://britishlibrary.typepad.co.uk/sound-and-vision/atom.xml",
+            "feed/http://soundsandgear.com/feed/",
+            "feed/http://resoundsound.com/feed/",
+            "feed/http://www.pro-tools-expert.com/home-page/atom.xml",
+            "feed/http://www.musicofsound.co.nz/blog/feed",
+            "feed/http://www.noizefield.com/wp/feed/",
+            "feed/https://hyperbitsmusic.com/feed/",
+            "feed/http://www.uaudio.com/blog/rss",
+            "feed/http://soundstudiesblog.com/feed/",
+            "feed/https://www.productionmusiclive.com/blogs/news.atom",
+            "feed/http://admiralbumblebee.com/feed.xml",
+            "feed/http://www.puremix.net/rss/puremix.net.html",
+            "feed/http://feeds.feedburner.com/audionewsroom",
+            "feed/http://feeds.feedburner.com/audioissues",
+            "feed/http://www.joshuacasper.com/feed/",
+            "feed/http://www.wirerealm.com/feed",
+            "feed/http://tapeop.com/feed/",
+            "feed/http://sonicfield.org/feed/",
+            "feed/http://feeds.feedburner.com/digitaldjtips",
+            "feed/http://www.flstudiomusic.com/feeds/posts/default",
+            "feed/http://thesounddesignprocess.wordpress.com/feed/",
+            "feed/https://iconcollective.com/feed/",
+            "feed/http://www.samplelibraryreview.com/feed/",
+            "feed/http://howtomakeelectronicmusic.com/feed",
+            "feed/http://www.presonus.com/blog/?feed=rss2",
+            "feed/http://www.waves.com/interviews-articles?rss=magazine",
+            "feed/http://soundslikenoise.wordpress.com/feed/",
+            "feed/http://soundexplorations.blogspot.com/feeds/posts/default",
+            "feed/http://www.logicprohelp.com/forum/feed.php",
+            "feed/http://www.chriswatson.net/atom.xml",
+            "feed/http://feeds2.feedburner.com/sibeliusblog",
+            "feed/http://blog.liveschool.net/feed/",
+            "feed/http://www.soundesign.info/feed",
+            "feed/http://reaperblog.net/feed/",
+            "feed/http://www.homestudiocenter.com/feed/",
+            "feed/http://www.u-he.com/PatchLib/rss.xml",
+            "feed/http://feeds.feedburner.com/creativefieldrecording",
+            "feed/http://www.reddit.com/r/edmproduction/.rss",
+            "feed/http://www.reddit.com/r/WeAreTheMusicMakers/.rss",
+            "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCwjiBFz7LuxYvmIRw5kChFA",
+            "feed/http://www.synthtopia.com/content/tag/ipad-music-software/feed/",
+            "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UC23xW9iC-ADQBLABJ9uIZww",
+            "feed/http://feeds.feedburner.com/Sonicstatevid",
+            "feed/http://www.synthtopia.com/content/category/computer-music/free-music-software/feed/",
+            "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCFYLFu6j4hxl5vEnpl7hw3w",
+            "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCJ7QbJQgJSSdd_v-VxdO6Gg",
+            "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UC5i1oUMFiBV6W4fu4CjXXAA",
+            "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCFw2zGrdiLLAwbNQra1vtnA",
+            "feed/http://www.attackmagazine.com/technique/feed/",
+            "feed/http://www.kvraudio.com/rss/kvr_news_sounds.rss",
+            "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCJvMfaTq0hJjvDotLq6xhRg",
+            "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCxV9Giax10UB9CoMbRU0ZSw",
+            "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCS972vXt4jnzkMlvHngalEg",
+            "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCIWNozFjO8yVdJFsGKVmPgg",
+            "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCkOvrKzWT6FW9DTSceCDoCA"
+        ],
+        "focusScore": 0.21975314318765404,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.16635333953446055,
+                "bestFeedId": "feed/http://feeds.feedburner.com/createdigitalmusic",
+                "size": 352,
+                "topic": "sound"
+            },
+            {
+                "focusScore": 0.05353988227389224,
+                "bestFeedId": "feed/http://feeds.feedburner.com/createdigitalmusic",
+                "size": 214,
+                "topic": "production"
+            },
+            {
+                "focusScore": 0.05679503436162248,
+                "bestFeedId": "feed/http://feeds.feedburner.com/createdigitalmusic",
+                "size": 203,
+                "topic": "music tech"
+            }
+        ],
+        "bestFeedId": "feed/http://feeds.feedburner.com/createdigitalmusic",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 900.46,
+                "id": "feed/http://feeds.feedburner.com/createdigitalmusic",
+                "feedId": "feed/http://feeds.feedburner.com/createdigitalmusic",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 860.18,
+                "id": "feed/http://bedroomproducersblog.com/feed/",
+                "feedId": "feed/http://bedroomproducersblog.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 854.06,
+                "id": "feed/http://www.synthtopia.com/feed/",
+                "feedId": "feed/http://www.synthtopia.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 825.0,
+                "id": "feed/http://www.musictech.net/feed/",
+                "feedId": "feed/http://www.musictech.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 801.62,
+                "id": "feed/http://www.soundonsound.com/news/sosrssfeed.php",
+                "feedId": "feed/http://www.soundonsound.com/news/sosrssfeed.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 795.62,
+                "id": "feed/http://www.attackmagazine.com/feed/",
+                "feedId": "feed/http://www.attackmagazine.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 794.3,
+                "id": "feed/http://www.ableton.com/blog/feeds/latest/",
+                "feedId": "feed/http://www.ableton.com/blog/feeds/latest/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 771.02,
+                "id": "feed/http://futuremusic.com/blog/feed/",
+                "feedId": "feed/http://futuremusic.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 738.06,
+                "id": "feed/http://blog.landr.com/rss",
+                "feedId": "feed/http://blog.landr.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 735.0,
+                "id": "feed/http://theproaudiofiles.com/feed/",
+                "feedId": "feed/http://theproaudiofiles.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 733.48,
+                "id": "feed/https://blog.native-instruments.com/feed/",
+                "feedId": "feed/https://blog.native-instruments.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 730.59,
+                "id": "feed/http://feeds.feedburner.com/SonicstatecomNews",
+                "feedId": "feed/http://feeds.feedburner.com/SonicstatecomNews",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 707.22,
+                "id": "feed/http://blog.splice.com/rss",
+                "feedId": "feed/http://blog.splice.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": 701.2,
+                "id": "feed/http://www.kvraudio.com/rss/kvr_news_main.rss",
+                "feedId": "feed/http://www.kvraudio.com/rss/kvr_news_main.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 695.69,
+                "id": "feed/https://feedity.com/musicradar-com/VFtaWlJW.rss",
+                "feedId": "feed/https://feedity.com/musicradar-com/VFtaWlJW.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 694.29,
+                "id": "feed/http://therecordingrevolution.com/feed/",
+                "feedId": "feed/http://therecordingrevolution.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 684.37,
+                "id": "feed/http://bobbyowsinski.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://bobbyowsinski.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 680.04,
+                "id": "feed/http://feeds.feedburner.com/audiotuts",
+                "feedId": "feed/http://feeds.feedburner.com/audiotuts",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 675.44,
+                "id": "feed/http://audiocookbook.org/feed/",
+                "feedId": "feed/http://audiocookbook.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 658.97,
+                "id": "feed/http://edmprod.com/feed/",
+                "feedId": "feed/http://edmprod.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 643.61,
+                "id": "feed/http://www.adsrsounds.com/feed/",
+                "feedId": "feed/http://www.adsrsounds.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 631.55,
+                "id": "feed/http://www.sonicscoop.com/feed/",
+                "feedId": "feed/http://www.sonicscoop.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 628.93,
+                "id": "feed/https://ask.audio/rss",
+                "feedId": "feed/https://ask.audio/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 627.92,
+                "id": "feed/http://sonicbloom.net/en/feed/",
+                "feedId": "feed/http://sonicbloom.net/en/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 627.89,
+                "id": "feed/http://rekkerd.org/feed/",
+                "feedId": "feed/http://rekkerd.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 62.0,
+                "leoScore": 624.26,
+                "id": "feed/http://www.djtechtools.com/feed/",
+                "feedId": "feed/http://www.djtechtools.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 613.65,
+                "id": "feed/http://www.producerspot.com/feed",
+                "feedId": "feed/http://www.producerspot.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 76.0,
+                "leoScore": 604.08,
+                "id": "feed/http://productionadvice.co.uk/feed/",
+                "feedId": "feed/http://productionadvice.co.uk/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 601.53,
+                "id": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCzNleyBTjCeygAL3NaWwRig",
+                "feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCzNleyBTjCeygAL3NaWwRig",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 595.25,
+                "id": "feed/http://www.propellerheads.se/feeds/news.xml",
+                "feedId": "feed/http://www.propellerheads.se/feeds/news.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 592.93,
+                "id": "feed/http://www.synthanatomy.com/feeds/posts/default",
+                "feedId": "feed/http://www.synthanatomy.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 564.15,
+                "id": "feed/http://www.loopmasters.com/article/rss",
+                "feedId": "feed/http://www.loopmasters.com/article/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 76.0,
+                "leoScore": 546.43,
+                "id": "feed/http://www.pensadosplace.tv/feed/",
+                "feedId": "feed/http://www.pensadosplace.tv/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 73.0,
+                "leoScore": 539.01,
+                "id": "feed/http://discchord.com/blog/atom.xml",
+                "feedId": "feed/http://discchord.com/blog/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 67.0,
+                "leoScore": 525.23,
+                "id": "feed/http://www.gearnews.com/feed/",
+                "feedId": "feed/http://www.gearnews.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 516.55,
+                "id": "feed/http://maschinetutorials.com/feed/",
+                "feedId": "feed/http://maschinetutorials.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 69.0,
+                "leoScore": 507.06,
+                "id": "feed/http://feeds.feedburner.com/MaxForLiveComNewDevices",
+                "feedId": "feed/http://feeds.feedburner.com/MaxForLiveComNewDevices",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 485.39,
+                "id": "feed/http://getthatprosound.com/feed/",
+                "feedId": "feed/http://getthatprosound.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 59.0,
+                "leoScore": 482.03,
+                "id": "feed/http://matrixsynth.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://matrixsynth.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 480.74,
+                "id": "feed/http://hiphopmakers.com/feed",
+                "feedId": "feed/http://hiphopmakers.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 476.49,
+                "id": "feed/https://www.masteringthemix.com/blogs/learn.atom",
+                "feedId": "feed/https://www.masteringthemix.com/blogs/learn.atom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 470.04,
+                "id": "feed/https://www.blackghostaudio.com/blog/rss.xml",
+                "feedId": "feed/https://www.blackghostaudio.com/blog/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 69.0,
+                "leoScore": 438.67,
+                "id": "feed/http://www.gearslutz.com/board/external.php?type=RSS2&forumids=9",
+                "feedId": "feed/http://www.gearslutz.com/board/external.php?type=RSS2&forumids=9",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 434.58,
+                "id": "feed/http://outputsounds.com/feed/",
+                "feedId": "feed/http://outputsounds.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 73.0,
+                "leoScore": 432.94,
+                "id": "feed/http://feeds.feedburner.com/afrodjmac/rss",
+                "feedId": "feed/http://feeds.feedburner.com/afrodjmac/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 416.99,
+                "id": "feed/http://britishlibrary.typepad.co.uk/sound-and-vision/atom.xml",
+                "feedId": "feed/http://britishlibrary.typepad.co.uk/sound-and-vision/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 412.26,
+                "id": "feed/http://soundsandgear.com/feed/",
+                "feedId": "feed/http://soundsandgear.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 70.0,
+                "leoScore": 411.79,
+                "id": "feed/http://resoundsound.com/feed/",
+                "feedId": "feed/http://resoundsound.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 54.0,
+                "leoScore": 406.69,
+                "id": "feed/http://www.pro-tools-expert.com/home-page/atom.xml",
+                "feedId": "feed/http://www.pro-tools-expert.com/home-page/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 59.0,
+                "leoScore": 405.35,
+                "id": "feed/http://www.musicofsound.co.nz/blog/feed",
+                "feedId": "feed/http://www.musicofsound.co.nz/blog/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 71.0,
+                "leoScore": 400.71,
+                "id": "feed/http://www.noizefield.com/wp/feed/",
+                "feedId": "feed/http://www.noizefield.com/wp/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 400.0,
+                "id": "feed/https://hyperbitsmusic.com/feed/",
+                "feedId": "feed/https://hyperbitsmusic.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 60.0,
+                "leoScore": 393.28,
+                "id": "feed/http://www.uaudio.com/blog/rss",
+                "feedId": "feed/http://www.uaudio.com/blog/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 70.0,
+                "leoScore": 390.95,
+                "id": "feed/http://soundstudiesblog.com/feed/",
+                "feedId": "feed/http://soundstudiesblog.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 390.69,
+                "id": "feed/https://www.productionmusiclive.com/blogs/news.atom",
+                "feedId": "feed/https://www.productionmusiclive.com/blogs/news.atom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 390.69,
+                "id": "feed/http://admiralbumblebee.com/feed.xml",
+                "feedId": "feed/http://admiralbumblebee.com/feed.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 388.25,
+                "id": "feed/http://www.puremix.net/rss/puremix.net.html",
+                "feedId": "feed/http://www.puremix.net/rss/puremix.net.html",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 65.0,
+                "leoScore": 387.02,
+                "id": "feed/http://feeds.feedburner.com/audionewsroom",
+                "feedId": "feed/http://feeds.feedburner.com/audionewsroom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 63.0,
+                "leoScore": 384.84,
+                "id": "feed/http://feeds.feedburner.com/audioissues",
+                "feedId": "feed/http://feeds.feedburner.com/audioissues",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 384.59,
+                "id": "feed/http://www.joshuacasper.com/feed/",
+                "feedId": "feed/http://www.joshuacasper.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 380.74,
+                "id": "feed/http://www.wirerealm.com/feed",
+                "feedId": "feed/http://www.wirerealm.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 52.0,
+                "leoScore": 360.4,
+                "id": "feed/http://tapeop.com/feed/",
+                "feedId": "feed/http://tapeop.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 358.5,
+                "id": "feed/http://sonicfield.org/feed/",
+                "feedId": "feed/http://sonicfield.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 40.0,
+                "leoScore": 346.61,
+                "id": "feed/http://feeds.feedburner.com/digitaldjtips",
+                "feedId": "feed/http://feeds.feedburner.com/digitaldjtips",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 332.79,
+                "id": "feed/http://www.flstudiomusic.com/feeds/posts/default",
+                "feedId": "feed/http://www.flstudiomusic.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/http://thesounddesignprocess.wordpress.com/feed/",
+                "feedId": "feed/http://thesounddesignprocess.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/https://iconcollective.com/feed/",
+                "feedId": "feed/https://iconcollective.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/http://www.samplelibraryreview.com/feed/",
+                "feedId": "feed/http://www.samplelibraryreview.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 57.0,
+                "leoScore": 331.02,
+                "id": "feed/http://howtomakeelectronicmusic.com/feed",
+                "feedId": "feed/http://howtomakeelectronicmusic.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 58.0,
+                "leoScore": 329.0,
+                "id": "feed/http://www.presonus.com/blog/?feed=rss2",
+                "feedId": "feed/http://www.presonus.com/blog/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 66.0,
+                "leoScore": 326.98,
+                "id": "feed/http://www.waves.com/interviews-articles?rss=magazine",
+                "feedId": "feed/http://www.waves.com/interviews-articles?rss=magazine",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 316.99,
+                "id": "feed/http://soundslikenoise.wordpress.com/feed/",
+                "feedId": "feed/http://soundslikenoise.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 300.0,
+                "id": "feed/http://soundexplorations.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://soundexplorations.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 300.0,
+                "id": "feed/http://www.logicprohelp.com/forum/feed.php",
+                "feedId": "feed/http://www.logicprohelp.com/forum/feed.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 300.0,
+                "id": "feed/http://www.chriswatson.net/atom.xml",
+                "feedId": "feed/http://www.chriswatson.net/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": 298.86,
+                "id": "feed/http://feeds2.feedburner.com/sibeliusblog",
+                "feedId": "feed/http://feeds2.feedburner.com/sibeliusblog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 52.0,
+                "leoScore": 293.48,
+                "id": "feed/http://blog.liveschool.net/feed/",
+                "feedId": "feed/http://blog.liveschool.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 52.0,
+                "leoScore": 290.42,
+                "id": "feed/http://www.soundesign.info/feed",
+                "feedId": "feed/http://www.soundesign.info/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 40.0,
+                "leoScore": 289.92,
+                "id": "feed/http://reaperblog.net/feed/",
+                "feedId": "feed/http://reaperblog.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 63.0,
+                "leoScore": 288.85,
+                "id": "feed/http://www.homestudiocenter.com/feed/",
+                "feedId": "feed/http://www.homestudiocenter.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 280.74,
+                "id": "feed/http://www.u-he.com/PatchLib/rss.xml",
+                "feedId": "feed/http://www.u-he.com/PatchLib/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 46.0,
+                "leoScore": 279.04,
+                "id": "feed/http://feeds.feedburner.com/creativefieldrecording",
+                "feedId": "feed/http://feeds.feedburner.com/creativefieldrecording",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -1.0,
+                "id": "feed/http://www.reddit.com/r/edmproduction/.rss",
+                "feedId": "feed/http://www.reddit.com/r/edmproduction/.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -2.0,
+                "id": "feed/http://www.reddit.com/r/WeAreTheMusicMakers/.rss",
+                "feedId": "feed/http://www.reddit.com/r/WeAreTheMusicMakers/.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 68.0,
+                "leoScore": -3.0,
+                "id": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCwjiBFz7LuxYvmIRw5kChFA",
+                "feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCwjiBFz7LuxYvmIRw5kChFA",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -4.0,
+                "id": "feed/http://www.synthtopia.com/content/tag/ipad-music-software/feed/",
+                "feedId": "feed/http://www.synthtopia.com/content/tag/ipad-music-software/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 64.0,
+                "leoScore": -5.0,
+                "id": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UC23xW9iC-ADQBLABJ9uIZww",
+                "feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UC23xW9iC-ADQBLABJ9uIZww",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 66.0,
+                "leoScore": -6.0,
+                "id": "feed/http://feeds.feedburner.com/Sonicstatevid",
+                "feedId": "feed/http://feeds.feedburner.com/Sonicstatevid",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -7.0,
+                "id": "feed/http://www.synthtopia.com/content/category/computer-music/free-music-software/feed/",
+                "feedId": "feed/http://www.synthtopia.com/content/category/computer-music/free-music-software/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 59.0,
+                "leoScore": -8.0,
+                "id": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCFYLFu6j4hxl5vEnpl7hw3w",
+                "feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCFYLFu6j4hxl5vEnpl7hw3w",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": -9.0,
+                "id": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCJ7QbJQgJSSdd_v-VxdO6Gg",
+                "feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCJ7QbJQgJSSdd_v-VxdO6Gg",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -10.0,
+                "id": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UC5i1oUMFiBV6W4fu4CjXXAA",
+                "feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UC5i1oUMFiBV6W4fu4CjXXAA",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 57.0,
+                "leoScore": -11.0,
+                "id": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCFw2zGrdiLLAwbNQra1vtnA",
+                "feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCFw2zGrdiLLAwbNQra1vtnA",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 58.0,
+                "leoScore": -12.0,
+                "id": "feed/http://www.attackmagazine.com/technique/feed/",
+                "feedId": "feed/http://www.attackmagazine.com/technique/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -13.0,
+                "id": "feed/http://www.kvraudio.com/rss/kvr_news_sounds.rss",
+                "feedId": "feed/http://www.kvraudio.com/rss/kvr_news_sounds.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 58.0,
+                "leoScore": -14.0,
+                "id": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCJvMfaTq0hJjvDotLq6xhRg",
+                "feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCJvMfaTq0hJjvDotLq6xhRg",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": -15.0,
+                "id": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCxV9Giax10UB9CoMbRU0ZSw",
+                "feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCxV9Giax10UB9CoMbRU0ZSw",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 63.0,
+                "leoScore": -16.0,
+                "id": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCS972vXt4jnzkMlvHngalEg",
+                "feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCS972vXt4jnzkMlvHngalEg",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": -17.0,
+                "id": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCIWNozFjO8yVdJFsGKVmPgg",
+                "feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCIWNozFjO8yVdJFsGKVmPgg",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 58.0,
+                "leoScore": -18.0,
+                "id": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCkOvrKzWT6FW9DTSceCDoCA",
+                "feedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCkOvrKzWT6FW9DTSceCDoCA",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.8470933866997472,
+                "bestFeedId": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+                "size": 48151,
+                "topic": "music",
+                "topicId": "music"
+            },
+            {
+                "focusScore": 0.13262311589793274,
+                "bestFeedId": "feed/http://www.synthtopia.com/feed/",
+                "size": 192,
+                "topic": "synth",
+                "topicId": "synth"
+            },
+            {
+                "focusScore": 0.10205601792163331,
+                "bestFeedId": "feed/http://therecordingrevolution.com/feed/",
+                "size": 141,
+                "topic": "recording",
+                "topicId": "recording"
+            },
+            {
+                "focusScore": 0.20401820932069456,
+                "bestFeedId": "feed/http://www.ableton.com/blog/feeds/latest/",
+                "size": 94,
+                "topic": "ableton",
+                "topicId": "ableton"
+            },
+            {
+                "focusScore": 0.295399918318033,
+                "bestFeedId": "feed/http://feeds.feedburner.com/ASoundEffect",
+                "size": 75,
+                "topic": "sound design",
+                "topicId": "sound-design"
+            },
+            {
+                "focusScore": 0.38827512982577744,
+                "bestFeedId": "feed/http://www.stereophile.com/rss.xml",
+                "size": 3887,
+                "topic": "audio",
+                "topicId": "audio"
+            },
+            {
+                "focusScore": 0.3501715018264678,
+                "bestFeedId": "feed/http://www.musicthinktank.com/blog/rss.xml",
+                "size": 535,
+                "topic": "music business",
+                "topicId": "music-business"
+            },
+            {
+                "focusScore": 0.1782612663085622,
+                "bestFeedId": "feed/http://feeds.feedburner.com/digitaldjtips",
+                "size": 384,
+                "topic": "dj",
+                "topicId": "dj"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "music",
+            "topicId": "music"
+        },
+        "language": "en",
+        "size": 1866,
+        "topic": "music production",
+        "topicId": "music-production"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/music-business.png",
+        "updated": 1604848871826,
+        "feedIds": [
+            "feed/http://www.musicthinktank.com/blog/rss.xml",
+            "feed/http://www.musicbusinessworldwide.com/feed/",
+            "feed/http://www.digitalmusicnews.com/stories?func=viewRss",
+            "feed/http://diymusician.cdbaby.com/feed/",
+            "feed/http://musicindustryblog.wordpress.com/feed/",
+            "feed/http://musically.com/blog/feed/",
+            "feed/http://music3point0.blogspot.com/feeds/posts/default",
+            "feed/http://www.guardian.co.uk/business/musicindustry/rss",
+            "feed/http://www.kingsofar.com/feed/",
+            "feed/http://www.thecmuwebsite.com/feed/atom/",
+            "feed/http://blog.sonicbids.com/rss.xml",
+            "feed/http://www.thembj.org/feed/",
+            "feed/http://thetrichordist.wordpress.com/feed/",
+            "feed/http://feeds.feedburner.com/MidemnetBlog",
+            "feed/http://www.musicindustryhowto.com/feed/",
+            "feed/http://feeds.bmi.com/bmicom/",
+            "feed/http://www.musicmarketingmanifesto.com/feed/",
+            "feed/http://blog.bandcamp.com/feed/",
+            "feed/http://feeds.feedburner.com/DottedMusic",
+            "feed/http://arielpublicity.com/feed/",
+            "feed/http://blog.tunecore.com/feed",
+            "feed/https://blog.chartmetric.io/feed",
+            "feed/http://feeds.feedburner.com/passivepromotion",
+            "feed/http://www.musicmarketing.com/atom.xml",
+            "feed/https://www.hypebot.com/feed",
+            "feed/http://www.themusicnetwork.com/rss",
+            "feed/http://blog.reverbnation.com/feed/",
+            "feed/https://artists.spotify.com/blog.rss",
+            "feed/http://musicbusinessresearch.wordpress.com/feed/",
+            "feed/http://feeds.feedburner.com/cdbabydiymusicpodcast",
+            "feed/http://feeds.feedburner.com/Bandzoogle",
+            "feed/http://blog.symphonicdistribution.com/feed/",
+            "feed/http://lefsetz.com/wordpress/index.php/feed/",
+            "feed/http://www.pollstar.com/pollstarRSS.aspx?feed=concertwire",
+            "feed/http://www.dailyrindblog.com/?feed=atom",
+            "feed/http://musicconnection.com/feed/",
+            "feed/http://www.billboard.com/rss/the-feed",
+            "feed/http://michaelbrandvold.com/blog/feed/",
+            "feed/http://www.theindustryobserver.com.au/feed/",
+            "feed/https://www.awal.com/blog/rss.xml",
+            "feed/http://soundexchange.com/feed/",
+            "feed/http://www.musicxtechxfuture.com/feed/",
+            "feed/http://musiciancoaching.com/feed/",
+            "feed/http://routenote.com/blog/feed/",
+            "feed/http://www.musicentrepreneurhq.com/feed/",
+            "feed/http://www.prescriptionmusicpruk.com/the-prescription/rss.xml",
+            "feed/http://www.independentmusicpromotions.com/feed/",
+            "feed/http://musicandcopyright.wordpress.com/feed/",
+            "feed/http://celebrityaccess.com/feed/",
+            "feed/http://feeds.feedburner.com/musicbizblogs",
+            "feed/http://feeds.feedburner.com/tightmixblog",
+            "feed/http://a2im.org/feed/",
+            "feed/http://buzzworthy.mtv.com/feed/",
+            "feed/http://www.musicrow.com/feed/",
+            "feed/http://www.digitaltrends.com/music/feed/",
+            "feed/http://www.pias.com/feed/",
+            "feed/http://musictechpolicy.wordpress.com/feed/",
+            "feed/http://www.forbes.com/sites/bobbyowsinski/feed/",
+            "feed/http://blog.discmakers.com/feed/",
+            "feed/http://flypaper.soundfly.com/feed/",
+            "feed/https://www.rollingstone.com/author/ethan-millman/feed/",
+            "feed/http://www.iq-mag.net/feed/",
+            "feed/http://www.theguardian.com/technology/digital-music-and-audio/rss",
+            "feed/http://feeds.feedburner.com/musicthinktankprimaryrss",
+            "feed/https://www.rollingstone.com/author/tim-ingham/feed/",
+            "feed/http://www.musicmarketing.com/music_business/index.rdf",
+            "feed/http://www.forbes.com/sites/zackomalleygreenburg/feed/"
+        ],
+        "focusScore": 0.3501715018264678,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.1689178143385729,
+                "bestFeedId": "feed/http://www.musicthinktank.com/blog/rss.xml",
+                "size": 183,
+                "topic": "music industry"
+            },
+            {
+                "focusScore": 0.06759103876689701,
+                "bestFeedId": "feed/http://www.musicthinktank.com/blog/rss.xml",
+                "size": 84,
+                "topic": "music biz"
+            }
+        ],
+        "bestFeedId": "feed/http://www.musicthinktank.com/blog/rss.xml",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 845.47,
+                "id": "feed/http://www.musicthinktank.com/blog/rss.xml",
+                "feedId": "feed/http://www.musicthinktank.com/blog/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 820.94,
+                "id": "feed/http://www.musicbusinessworldwide.com/feed/",
+                "feedId": "feed/http://www.musicbusinessworldwide.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 820.24,
+                "id": "feed/http://www.digitalmusicnews.com/stories?func=viewRss",
+                "feedId": "feed/http://www.digitalmusicnews.com/stories?func=viewRss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 794.8,
+                "id": "feed/http://diymusician.cdbaby.com/feed/",
+                "feedId": "feed/http://diymusician.cdbaby.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 786.22,
+                "id": "feed/http://musicindustryblog.wordpress.com/feed/",
+                "feedId": "feed/http://musicindustryblog.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 784.89,
+                "id": "feed/http://musically.com/blog/feed/",
+                "feedId": "feed/http://musically.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 721.99,
+                "id": "feed/http://music3point0.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://music3point0.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 719.31,
+                "id": "feed/http://www.guardian.co.uk/business/musicindustry/rss",
+                "feedId": "feed/http://www.guardian.co.uk/business/musicindustry/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 693.07,
+                "id": "feed/http://www.kingsofar.com/feed/",
+                "feedId": "feed/http://www.kingsofar.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 685.8,
+                "id": "feed/http://www.thecmuwebsite.com/feed/atom/",
+                "feedId": "feed/http://www.thecmuwebsite.com/feed/atom/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 661.56,
+                "id": "feed/http://blog.sonicbids.com/rss.xml",
+                "feedId": "feed/http://blog.sonicbids.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 656.99,
+                "id": "feed/http://www.thembj.org/feed/",
+                "feedId": "feed/http://www.thembj.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 644.29,
+                "id": "feed/http://thetrichordist.wordpress.com/feed/",
+                "feedId": "feed/http://thetrichordist.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 642.63,
+                "id": "feed/http://feeds.feedburner.com/MidemnetBlog",
+                "feedId": "feed/http://feeds.feedburner.com/MidemnetBlog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 608.75,
+                "id": "feed/http://www.musicindustryhowto.com/feed/",
+                "feedId": "feed/http://www.musicindustryhowto.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 607.94,
+                "id": "feed/http://feeds.bmi.com/bmicom/",
+                "feedId": "feed/http://feeds.bmi.com/bmicom/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 572.79,
+                "id": "feed/http://www.musicmarketingmanifesto.com/feed/",
+                "feedId": "feed/http://www.musicmarketingmanifesto.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 59.0,
+                "leoScore": 571.71,
+                "id": "feed/http://blog.bandcamp.com/feed/",
+                "feedId": "feed/http://blog.bandcamp.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 567.24,
+                "id": "feed/http://feeds.feedburner.com/DottedMusic",
+                "feedId": "feed/http://feeds.feedburner.com/DottedMusic",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 554.12,
+                "id": "feed/http://arielpublicity.com/feed/",
+                "feedId": "feed/http://arielpublicity.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 549.19,
+                "id": "feed/http://blog.tunecore.com/feed",
+                "feedId": "feed/http://blog.tunecore.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 549.19,
+                "id": "feed/https://blog.chartmetric.io/feed",
+                "feedId": "feed/https://blog.chartmetric.io/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 529.44,
+                "id": "feed/http://feeds.feedburner.com/passivepromotion",
+                "feedId": "feed/http://feeds.feedburner.com/passivepromotion",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 504.44,
+                "id": "feed/http://www.musicmarketing.com/atom.xml",
+                "feedId": "feed/http://www.musicmarketing.com/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 500.0,
+                "id": "feed/https://www.hypebot.com/feed",
+                "feedId": "feed/https://www.hypebot.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 495.42,
+                "id": "feed/http://www.themusicnetwork.com/rss",
+                "feedId": "feed/http://www.themusicnetwork.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 490.69,
+                "id": "feed/http://blog.reverbnation.com/feed/",
+                "feedId": "feed/http://blog.reverbnation.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 489.62,
+                "id": "feed/https://artists.spotify.com/blog.rss",
+                "feedId": "feed/https://artists.spotify.com/blog.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 485.8,
+                "id": "feed/http://musicbusinessresearch.wordpress.com/feed/",
+                "feedId": "feed/http://musicbusinessresearch.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 480.74,
+                "id": "feed/http://feeds.feedburner.com/cdbabydiymusicpodcast",
+                "feedId": "feed/http://feeds.feedburner.com/cdbabydiymusicpodcast",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 475.49,
+                "id": "feed/http://feeds.feedburner.com/Bandzoogle",
+                "feedId": "feed/http://feeds.feedburner.com/Bandzoogle",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 475.49,
+                "id": "feed/http://blog.symphonicdistribution.com/feed/",
+                "feedId": "feed/http://blog.symphonicdistribution.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 49.0,
+                "leoScore": 475.15,
+                "id": "feed/http://lefsetz.com/wordpress/index.php/feed/",
+                "feedId": "feed/http://lefsetz.com/wordpress/index.php/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 470.82,
+                "id": "feed/http://www.pollstar.com/pollstarRSS.aspx?feed=concertwire",
+                "feedId": "feed/http://www.pollstar.com/pollstarRSS.aspx?feed=concertwire",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 458.5,
+                "id": "feed/http://www.dailyrindblog.com/?feed=atom",
+                "feedId": "feed/http://www.dailyrindblog.com/?feed=atom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 458.5,
+                "id": "feed/http://musicconnection.com/feed/",
+                "feedId": "feed/http://musicconnection.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 41.0,
+                "leoScore": 452.6,
+                "id": "feed/http://www.billboard.com/rss/the-feed",
+                "feedId": "feed/http://www.billboard.com/rss/the-feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 432.19,
+                "id": "feed/http://michaelbrandvold.com/blog/feed/",
+                "feedId": "feed/http://michaelbrandvold.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 432.19,
+                "id": "feed/http://www.theindustryobserver.com.au/feed/",
+                "feedId": "feed/http://www.theindustryobserver.com.au/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 432.19,
+                "id": "feed/https://www.awal.com/blog/rss.xml",
+                "feedId": "feed/https://www.awal.com/blog/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 390.69,
+                "id": "feed/http://soundexchange.com/feed/",
+                "feedId": "feed/http://soundexchange.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 370.04,
+                "id": "feed/http://www.musicxtechxfuture.com/feed/",
+                "feedId": "feed/http://www.musicxtechxfuture.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 345.94,
+                "id": "feed/http://musiciancoaching.com/feed/",
+                "feedId": "feed/http://musiciancoaching.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 345.94,
+                "id": "feed/http://routenote.com/blog/feed/",
+                "feedId": "feed/http://routenote.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/http://www.musicentrepreneurhq.com/feed/",
+                "feedId": "feed/http://www.musicentrepreneurhq.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/http://www.prescriptionmusicpruk.com/the-prescription/rss.xml",
+                "feedId": "feed/http://www.prescriptionmusicpruk.com/the-prescription/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/http://www.independentmusicpromotions.com/feed/",
+                "feedId": "feed/http://www.independentmusicpromotions.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 316.99,
+                "id": "feed/http://musicandcopyright.wordpress.com/feed/",
+                "feedId": "feed/http://musicandcopyright.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 316.99,
+                "id": "feed/http://celebrityaccess.com/feed/",
+                "feedId": "feed/http://celebrityaccess.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 300.0,
+                "id": "feed/http://feeds.feedburner.com/musicbizblogs",
+                "feedId": "feed/http://feeds.feedburner.com/musicbizblogs",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 258.5,
+                "id": "feed/http://feeds.feedburner.com/tightmixblog",
+                "feedId": "feed/http://feeds.feedburner.com/tightmixblog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 258.5,
+                "id": "feed/http://a2im.org/feed/",
+                "feedId": "feed/http://a2im.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 38.0,
+                "leoScore": 254.09,
+                "id": "feed/http://buzzworthy.mtv.com/feed/",
+                "feedId": "feed/http://buzzworthy.mtv.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 41.0,
+                "leoScore": 253.78,
+                "id": "feed/http://www.musicrow.com/feed/",
+                "feedId": "feed/http://www.musicrow.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": 226.18,
+                "id": "feed/http://www.digitaltrends.com/music/feed/",
+                "feedId": "feed/http://www.digitaltrends.com/music/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 200.0,
+                "id": "feed/http://www.pias.com/feed/",
+                "feedId": "feed/http://www.pias.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 42.0,
+                "leoScore": 195.04,
+                "id": "feed/http://musictechpolicy.wordpress.com/feed/",
+                "feedId": "feed/http://musictechpolicy.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": 190.37,
+                "id": "feed/http://www.forbes.com/sites/bobbyowsinski/feed/",
+                "feedId": "feed/http://www.forbes.com/sites/bobbyowsinski/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": 172.97,
+                "id": "feed/http://blog.discmakers.com/feed/",
+                "feedId": "feed/http://blog.discmakers.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 27.0,
+                "leoScore": 162.0,
+                "id": "feed/http://flypaper.soundfly.com/feed/",
+                "feedId": "feed/http://flypaper.soundfly.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 158.5,
+                "id": "feed/https://www.rollingstone.com/author/ethan-millman/feed/",
+                "feedId": "feed/https://www.rollingstone.com/author/ethan-millman/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 20.0,
+                "leoScore": 91.7,
+                "id": "feed/http://www.iq-mag.net/feed/",
+                "feedId": "feed/http://www.iq-mag.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -1.0,
+                "id": "feed/http://www.theguardian.com/technology/digital-music-and-audio/rss",
+                "feedId": "feed/http://www.theguardian.com/technology/digital-music-and-audio/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -2.0,
+                "id": "feed/http://feeds.feedburner.com/musicthinktankprimaryrss",
+                "feedId": "feed/http://feeds.feedburner.com/musicthinktankprimaryrss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -3.0,
+                "id": "feed/https://www.rollingstone.com/author/tim-ingham/feed/",
+                "feedId": "feed/https://www.rollingstone.com/author/tim-ingham/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -4.0,
+                "id": "feed/http://www.musicmarketing.com/music_business/index.rdf",
+                "feedId": "feed/http://www.musicmarketing.com/music_business/index.rdf",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -5.0,
+                "id": "feed/http://www.forbes.com/sites/zackomalleygreenburg/feed/",
+                "feedId": "feed/http://www.forbes.com/sites/zackomalleygreenburg/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.8470933866997472,
+                "bestFeedId": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+                "size": 48151,
+                "topic": "music",
+                "topicId": "music"
+            },
+            {
+                "focusScore": 0.20401820932069456,
+                "bestFeedId": "feed/http://www.ableton.com/blog/feeds/latest/",
+                "size": 94,
+                "topic": "ableton",
+                "topicId": "ableton"
+            },
+            {
+                "focusScore": 0.21975314318765404,
+                "bestFeedId": "feed/http://feeds.feedburner.com/createdigitalmusic",
+                "size": 1866,
+                "topic": "music production",
+                "topicId": "music-production"
+            },
+            {
+                "focusScore": 0.4943234721307235,
+                "bestFeedId": "feed/http://www.americansongwriter.com/feed/",
+                "size": 70,
+                "topic": "songwriting",
+                "topicId": "songwriting"
+            },
+            {
+                "focusScore": 0.295399918318033,
+                "bestFeedId": "feed/http://feeds.feedburner.com/ASoundEffect",
+                "size": 75,
+                "topic": "sound design",
+                "topicId": "sound-design"
+            },
+            {
+                "focusScore": 0.13972486514068896,
+                "bestFeedId": "feed/http://www.dancingastronaut.com/feed/",
+                "size": 216,
+                "topic": "edm",
+                "topicId": "edm"
+            },
+            {
+                "focusScore": 0.1782612663085622,
+                "bestFeedId": "feed/http://feeds.feedburner.com/digitaldjtips",
+                "size": 384,
+                "topic": "dj",
+                "topicId": "dj"
+            },
+            {
+                "focusScore": 0.10205601792163331,
+                "bestFeedId": "feed/http://therecordingrevolution.com/feed/",
+                "size": 141,
+                "topic": "recording",
+                "topicId": "recording"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "music",
+            "topicId": "music"
+        },
+        "language": "en",
+        "size": 535,
+        "topic": "music business",
+        "topicId": "music-business"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/music-education.png",
+        "updated": 1604848905738,
+        "feedIds": [
+            "feed/http://techinmusiced.wordpress.com/feed/",
+            "feed/http://nafme.org/feed/",
+            "feed/http://mustech.net/feed/",
+            "feed/http://ipadmusiced.wordpress.com/feed/",
+            "feed/http://mrskingrocks.blogspot.com/feeds/posts/default",
+            "feed/http://pursuitofjoyfulness.blogspot.com/feeds/posts/default",
+            "feed/http://caldwellorganizedchaos.blogspot.com/feeds/posts/default",
+            "feed/http://teachingwithorff.com/feed/",
+            "feed/http://ofortunaorff.blogspot.com/feeds/posts/default",
+            "feed/http://musicwithmrsdennis.blogspot.com/feeds/posts/default",
+            "feed/http://www.midnightmusic.com.au/feed/",
+            "feed/http://musicmattersblog.com/feed/",
+            "feed/http://abbottmusic.blogspot.com/feeds/posts/default",
+            "feed/http://elementaryetudes.blogspot.com/feeds/posts/default",
+            "feed/http://soundeducators.org/feed/",
+            "feed/http://herdingcatsgeorge.blogspot.com/feeds/posts/default",
+            "feed/http://www.smartmusic.com/feed/",
+            "feed/http://mrstanenblatt.blogspot.com/feeds/posts/default",
+            "feed/http://sweetsoundsfromthemusicroom.blogspot.com/feeds/posts/default",
+            "feed/http://emilyskodalymusic.blogspot.com/feeds/posts/default",
+            "feed/http://www.musicteachershelper.com/blog/feed/",
+            "feed/https://singtokids.com/feed/",
+            "feed/http://bretzko.wordpress.com/feed/"
+        ],
+        "focusScore": 0.8642181324804564,
+        "duplicateTopics": [],
+        "bestFeedId": "feed/http://techinmusiced.wordpress.com/feed/",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 463.74,
+                "id": "feed/http://techinmusiced.wordpress.com/feed/",
+                "feedId": "feed/http://techinmusiced.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 458.5,
+                "id": "feed/http://nafme.org/feed/",
+                "feedId": "feed/http://nafme.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 439.23,
+                "id": "feed/http://mustech.net/feed/",
+                "feedId": "feed/http://mustech.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 435.0,
+                "id": "feed/http://ipadmusiced.wordpress.com/feed/",
+                "feedId": "feed/http://ipadmusiced.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 416.99,
+                "id": "feed/http://mrskingrocks.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://mrskingrocks.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 370.04,
+                "id": "feed/http://pursuitofjoyfulness.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://pursuitofjoyfulness.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 345.94,
+                "id": "feed/http://caldwellorganizedchaos.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://caldwellorganizedchaos.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/http://teachingwithorff.com/feed/",
+                "feedId": "feed/http://teachingwithorff.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 316.99,
+                "id": "feed/http://ofortunaorff.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://ofortunaorff.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 300.0,
+                "id": "feed/http://musicwithmrsdennis.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://musicwithmrsdennis.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 300.0,
+                "id": "feed/http://www.midnightmusic.com.au/feed/",
+                "feedId": "feed/http://www.midnightmusic.com.au/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 46.0,
+                "leoScore": 282.89,
+                "id": "feed/http://musicmattersblog.com/feed/",
+                "feedId": "feed/http://musicmattersblog.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 280.74,
+                "id": "feed/http://abbottmusic.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://abbottmusic.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 280.74,
+                "id": "feed/http://elementaryetudes.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://elementaryetudes.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 258.5,
+                "id": "feed/http://soundeducators.org/feed/",
+                "feedId": "feed/http://soundeducators.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 258.5,
+                "id": "feed/http://herdingcatsgeorge.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://herdingcatsgeorge.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 258.5,
+                "id": "feed/http://www.smartmusic.com/feed/",
+                "feedId": "feed/http://www.smartmusic.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 232.19,
+                "id": "feed/http://mrstanenblatt.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://mrstanenblatt.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 232.19,
+                "id": "feed/http://sweetsoundsfromthemusicroom.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://sweetsoundsfromthemusicroom.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 232.19,
+                "id": "feed/http://emilyskodalymusic.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://emilyskodalymusic.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 38.0,
+                "leoScore": 218.69,
+                "id": "feed/http://www.musicteachershelper.com/blog/feed/",
+                "feedId": "feed/http://www.musicteachershelper.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 200.0,
+                "id": "feed/https://singtokids.com/feed/",
+                "feedId": "feed/https://singtokids.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 158.5,
+                "id": "feed/http://bretzko.wordpress.com/feed/",
+                "feedId": "feed/http://bretzko.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.8470933866997472,
+                "bestFeedId": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+                "size": 48151,
+                "topic": "music",
+                "topicId": "music"
+            },
+            {
+                "focusScore": 0.295399918318033,
+                "bestFeedId": "feed/http://feeds.feedburner.com/ASoundEffect",
+                "size": 75,
+                "topic": "sound design",
+                "topicId": "sound-design"
+            },
+            {
+                "focusScore": 0.747463842477185,
+                "bestFeedId": "feed/http://practisingthepiano.com/?feed=rss2",
+                "size": 174,
+                "topic": "piano",
+                "topicId": "piano"
+            },
+            {
+                "focusScore": 0.6964586291449342,
+                "bestFeedId": "feed/http://www.moderndrummer.com/feed/",
+                "size": 180,
+                "topic": "drums",
+                "topicId": "drums"
+            },
+            {
+                "focusScore": 0.20401820932069456,
+                "bestFeedId": "feed/http://www.ableton.com/blog/feeds/latest/",
+                "size": 94,
+                "topic": "ableton",
+                "topicId": "ableton"
+            },
+            {
+                "focusScore": 0.21975314318765404,
+                "bestFeedId": "feed/http://feeds.feedburner.com/createdigitalmusic",
+                "size": 1866,
+                "topic": "music production",
+                "topicId": "music-production"
+            },
+            {
+                "focusScore": 0.38600746150592136,
+                "bestFeedId": "feed/http://feeds.feedburner.com/bassistscom",
+                "size": 135,
+                "topic": "bass",
+                "topicId": "bass"
+            },
+            {
+                "focusScore": 0.6214984159533031,
+                "bestFeedId": "feed/http://minimatisse.blogspot.com/feeds/posts/default",
+                "size": 73,
+                "topic": "art education",
+                "topicId": "art-education"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "music",
+            "topicId": "music"
+        },
+        "language": "en",
+        "size": 99,
+        "topic": "music education",
+        "topicId": "music-education"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/mp3.png",
+        "updated": 1604848873742,
+        "feedIds": [
+            "feed/http://www.discobelle.net/feed/",
+            "feed/http://feeds.feedburner.com/20JazzFunkGreats",
+            "feed/http://wilfullyobscure.blogspot.com/feeds/posts/default",
+            "feed/http://opiumhum.blogspot.com/feeds/posts/default",
+            "feed/http://www.thesirenssound.com/feed/",
+            "feed/http://newalbumreleases.net/?feed=rss2",
+            "feed/http://www.impactus.info/?feed=rss2",
+            "feed/http://ihatethe90s.blogspot.com/feeds/posts/default",
+            "feed/http://powerpopcriminals.blogspot.com/feeds/posts/default",
+            "feed/http://dieordiy2.blogspot.com/feeds/posts/default",
+            "feed/http://433rpm.blogspot.com/feeds/posts/default",
+            "feed/http://nodata.tv/feed",
+            "feed/http://downunderground.blogspot.com/feeds/posts/default",
+            "feed/http://exystence.net/?feed=rss2",
+            "feed/http://bleakbliss.blogspot.com/feeds/posts/default",
+            "feed/http://dariuschrisgoes.blogspot.com/feeds/posts/default",
+            "feed/http://www.dirrtyremixes.com/feed/",
+            "feed/http://glorybeats.com/feed/",
+            "feed/http://powerpopoverdose.blogspot.com/feeds/posts/default?alt=rss",
+            "feed/http://mp3rally.com/feed/",
+            "feed/http://keytarsandviolins.blogspot.com/feeds/posts/default",
+            "feed/http://feeds.feedburner.com/bolachas/2010",
+            "feed/http://musicalcoma.vlsweb.net.br/?feed=rss2",
+            "feed/http://www.fluxblog.org/feed",
+            "feed/http://www.realmofmetal.org/feeds/posts/default",
+            "feed/http://www.funkmysoul.gr/?feed=rss2",
+            "feed/http://feeds.feedburner.com/Popdose",
+            "feed/http://psychedelicobscurities.blogspot.com/feeds/posts/default",
+            "feed/http://inconstantsol.blogspot.com/feeds/posts/default",
+            "feed/http://feeds.feedburner.com/Disquiet",
+            "feed/http://www.slashleaks.com/feed",
+            "feed/http://newalbumreleases.net/category/indie/feed/",
+            "feed/http://newalbumreleases.net/category/electronic/feed/",
+            "feed/http://newalbumreleases.net/category/rock/feed/",
+            "feed/http://newalbumreleases.net/category/metal/feed/"
+        ],
+        "focusScore": 0.073951070655852,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.06310475594278137,
+                "bestFeedId": "feed/http://www.discobelle.net/feed/",
+                "size": 106,
+                "topic": "music downloads"
+            }
+        ],
+        "bestFeedId": "feed/http://www.discobelle.net/feed/",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 807.68,
+                "id": "feed/http://www.discobelle.net/feed/",
+                "feedId": "feed/http://www.discobelle.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 802.79,
+                "id": "feed/http://feeds.feedburner.com/20JazzFunkGreats",
+                "feedId": "feed/http://feeds.feedburner.com/20JazzFunkGreats",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 770.74,
+                "id": "feed/http://wilfullyobscure.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://wilfullyobscure.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 701.12,
+                "id": "feed/http://opiumhum.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://opiumhum.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 688.26,
+                "id": "feed/http://www.thesirenssound.com/feed/",
+                "feedId": "feed/http://www.thesirenssound.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 671.42,
+                "id": "feed/http://newalbumreleases.net/?feed=rss2",
+                "feedId": "feed/http://newalbumreleases.net/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 661.47,
+                "id": "feed/http://www.impactus.info/?feed=rss2",
+                "feedId": "feed/http://www.impactus.info/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 659.99,
+                "id": "feed/http://ihatethe90s.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://ihatethe90s.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 655.46,
+                "id": "feed/http://powerpopcriminals.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://powerpopcriminals.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 650.78,
+                "id": "feed/http://dieordiy2.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://dieordiy2.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 649.19,
+                "id": "feed/http://433rpm.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://433rpm.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 647.57,
+                "id": "feed/http://nodata.tv/feed",
+                "feedId": "feed/http://nodata.tv/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 618.98,
+                "id": "feed/http://downunderground.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://downunderground.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 616.99,
+                "id": "feed/http://exystence.net/?feed=rss2",
+                "feedId": "feed/http://exystence.net/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 597.73,
+                "id": "feed/http://bleakbliss.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://bleakbliss.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 585.8,
+                "id": "feed/http://dariuschrisgoes.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://dariuschrisgoes.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 583.29,
+                "id": "feed/http://www.dirrtyremixes.com/feed/",
+                "feedId": "feed/http://www.dirrtyremixes.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 580.74,
+                "id": "feed/http://glorybeats.com/feed/",
+                "feedId": "feed/http://glorybeats.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 561.47,
+                "id": "feed/http://powerpopoverdose.blogspot.com/feeds/posts/default?alt=rss",
+                "feedId": "feed/http://powerpopoverdose.blogspot.com/feeds/posts/default?alt=rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 549.19,
+                "id": "feed/http://mp3rally.com/feed/",
+                "feedId": "feed/http://mp3rally.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 532.19,
+                "id": "feed/http://keytarsandviolins.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://keytarsandviolins.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 524.79,
+                "id": "feed/http://feeds.feedburner.com/bolachas/2010",
+                "feedId": "feed/http://feeds.feedburner.com/bolachas/2010",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 516.99,
+                "id": "feed/http://musicalcoma.vlsweb.net.br/?feed=rss2",
+                "feedId": "feed/http://musicalcoma.vlsweb.net.br/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 57.0,
+                "leoScore": 490.41,
+                "id": "feed/http://www.fluxblog.org/feed",
+                "feedId": "feed/http://www.fluxblog.org/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 432.19,
+                "id": "feed/http://www.realmofmetal.org/feeds/posts/default",
+                "feedId": "feed/http://www.realmofmetal.org/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 57.0,
+                "leoScore": 420.87,
+                "id": "feed/http://www.funkmysoul.gr/?feed=rss2",
+                "feedId": "feed/http://www.funkmysoul.gr/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": 301.12,
+                "id": "feed/http://feeds.feedburner.com/Popdose",
+                "feedId": "feed/http://feeds.feedburner.com/Popdose",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 15.0,
+                "leoScore": 104.66,
+                "id": "feed/http://psychedelicobscurities.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://psychedelicobscurities.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 15.0,
+                "leoScore": 101.32,
+                "id": "feed/http://inconstantsol.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://inconstantsol.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 14.0,
+                "leoScore": 99.95,
+                "id": "feed/http://feeds.feedburner.com/Disquiet",
+                "feedId": "feed/http://feeds.feedburner.com/Disquiet",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 4.0,
+                "leoScore": 27.18,
+                "id": "feed/http://www.slashleaks.com/feed",
+                "feedId": "feed/http://www.slashleaks.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -1.0,
+                "id": "feed/http://newalbumreleases.net/category/indie/feed/",
+                "feedId": "feed/http://newalbumreleases.net/category/indie/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -2.0,
+                "id": "feed/http://newalbumreleases.net/category/electronic/feed/",
+                "feedId": "feed/http://newalbumreleases.net/category/electronic/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -3.0,
+                "id": "feed/http://newalbumreleases.net/category/rock/feed/",
+                "feedId": "feed/http://newalbumreleases.net/category/rock/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 38.0,
+                "leoScore": -4.0,
+                "id": "feed/http://newalbumreleases.net/category/metal/feed/",
+                "feedId": "feed/http://newalbumreleases.net/category/metal/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.8470933866997472,
+                "bestFeedId": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+                "size": 48151,
+                "topic": "music",
+                "topicId": "music"
+            },
+            {
+                "focusScore": 0.35068687531917997,
+                "bestFeedId": "feed/http://www.belleandsebastian.com/feed",
+                "size": 178,
+                "topic": "bands",
+                "topicId": "bands"
+            },
+            {
+                "focusScore": 0.03553910622126346,
+                "bestFeedId": "feed/http://consequenceofsound.net/category/reviews/album-reviews/feed/",
+                "size": 236,
+                "topic": "pitchfork",
+                "topicId": "pitchfork"
+            },
+            {
+                "focusScore": 0.13262311589793274,
+                "bestFeedId": "feed/http://www.synthtopia.com/feed/",
+                "size": 192,
+                "topic": "synth",
+                "topicId": "synth"
+            },
+            {
+                "focusScore": 0.21975314318765404,
+                "bestFeedId": "feed/http://feeds.feedburner.com/createdigitalmusic",
+                "size": 1866,
+                "topic": "music production",
+                "topicId": "music-production"
+            },
+            {
+                "focusScore": 0.25703300963623726,
+                "bestFeedId": "feed/http://www.thevinylfactory.com/feed/",
+                "size": 259,
+                "topic": "vinyl",
+                "topicId": "vinyl"
+            },
+            {
+                "focusScore": 0.10205601792163331,
+                "bestFeedId": "feed/http://therecordingrevolution.com/feed/",
+                "size": 141,
+                "topic": "recording",
+                "topicId": "recording"
+            },
+            {
+                "focusScore": 0.7711731439336496,
+                "bestFeedId": "feed/http://blog.flickr.net/en/feed/",
+                "size": 923,
+                "topic": "flickr",
+                "topicId": "flickr"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "music",
+            "topicId": "music"
+        },
+        "language": "en",
+        "size": 495,
+        "topic": "music downloads",
+        "topicId": "mp3"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/pitchfork.png",
+        "updated": 1604848887550,
+        "feedIds": [
+            "feed/http://consequenceofsound.net/category/reviews/album-reviews/feed/",
+            "feed/http://pitchfork.com/rss/reviews/albums/",
+            "feed/http://www.nme.com/reviews/feed/",
+            "feed/http://thequietus.com/reviews.atom",
+            "feed/http://pitchfork.com/rss/reviews/tracks/",
+            "feed/http://pitchfork.com/rss/tv/",
+            "feed/http://pitchfork.com/rss/reviews/best/tracks/",
+            "feed/http://pitchfork.com/rss/reviews/best/albums/",
+            "feed/http://pitchfork.com/rss/features/",
+            "feed/http://pitchfork.com/rss/reviews/best/reissues/",
+            "feed/http://pitchfork.com/rss/thepitch/"
+        ],
+        "focusScore": 0.03553910622126346,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.017895424311320993,
+                "bestFeedId": "feed/http://consequenceofsound.net/category/reviews/album-reviews/feed/",
+                "size": 77,
+                "topic": "music reviews"
+            }
+        ],
+        "bestFeedId": "feed/http://consequenceofsound.net/category/reviews/album-reviews/feed/",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 702.24,
+                "id": "feed/http://consequenceofsound.net/category/reviews/album-reviews/feed/",
+                "feedId": "feed/http://consequenceofsound.net/category/reviews/album-reviews/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 53.0,
+                "leoScore": 633.09,
+                "id": "feed/http://pitchfork.com/rss/reviews/albums/",
+                "feedId": "feed/http://pitchfork.com/rss/reviews/albums/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 508.75,
+                "id": "feed/http://www.nme.com/reviews/feed/",
+                "feedId": "feed/http://www.nme.com/reviews/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 40.0,
+                "leoScore": 297.39,
+                "id": "feed/http://thequietus.com/reviews.atom",
+                "feedId": "feed/http://thequietus.com/reviews.atom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": -1.0,
+                "id": "feed/http://pitchfork.com/rss/reviews/tracks/",
+                "feedId": "feed/http://pitchfork.com/rss/reviews/tracks/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -2.0,
+                "id": "feed/http://pitchfork.com/rss/tv/",
+                "feedId": "feed/http://pitchfork.com/rss/tv/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 56.0,
+                "leoScore": -3.0,
+                "id": "feed/http://pitchfork.com/rss/reviews/best/tracks/",
+                "feedId": "feed/http://pitchfork.com/rss/reviews/best/tracks/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 49.0,
+                "leoScore": -4.0,
+                "id": "feed/http://pitchfork.com/rss/reviews/best/albums/",
+                "feedId": "feed/http://pitchfork.com/rss/reviews/best/albums/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 59.0,
+                "leoScore": -5.0,
+                "id": "feed/http://pitchfork.com/rss/features/",
+                "feedId": "feed/http://pitchfork.com/rss/features/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 64.0,
+                "leoScore": -6.0,
+                "id": "feed/http://pitchfork.com/rss/reviews/best/reissues/",
+                "feedId": "feed/http://pitchfork.com/rss/reviews/best/reissues/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 36.0,
+                "leoScore": -7.0,
+                "id": "feed/http://pitchfork.com/rss/thepitch/",
+                "feedId": "feed/http://pitchfork.com/rss/thepitch/",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.8470933866997472,
+                "bestFeedId": "feed/http://feeds.feedburner.com/stereogum/cBYa",
+                "size": 48151,
+                "topic": "music",
+                "topicId": "music"
+            },
+            {
+                "focusScore": 0.21975314318765404,
+                "bestFeedId": "feed/http://feeds.feedburner.com/createdigitalmusic",
+                "size": 1866,
+                "topic": "music production",
+                "topicId": "music-production"
+            },
+            {
+                "focusScore": 0.073951070655852,
+                "bestFeedId": "feed/http://www.discobelle.net/feed/",
+                "size": 495,
+                "topic": "mp3",
+                "topicId": "mp3"
+            },
+            {
+                "focusScore": 0.042282292006208866,
+                "bestFeedId": "feed/http://www.vice.com/rss",
+                "size": 706,
+                "topic": "vice",
+                "topicId": "vice"
+            },
+            {
+                "focusScore": 0.3641085045700241,
+                "bestFeedId": "feed/http://www.jazzwax.com/atom.xml",
+                "size": 341,
+                "topic": "jazz",
+                "topicId": "jazz"
+            },
+            {
+                "focusScore": 0.127779986261731,
+                "bestFeedId": "feed/http://www.npr.org/rss/rss.php?id=2",
+                "size": 1057,
+                "topic": "npr",
+                "topicId": "npr"
+            },
+            {
+                "focusScore": 0.13262311589793274,
+                "bestFeedId": "feed/http://www.synthtopia.com/feed/",
+                "size": 192,
+                "topic": "synth",
+                "topicId": "synth"
+            },
+            {
+                "focusScore": 0.1805523321035609,
+                "bestFeedId": "feed/http://www.newyorker.com/services/rss/feeds/everything.xml",
+                "size": 539,
+                "topic": "new yorker",
+                "topicId": "new-yorker"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "music",
+            "topicId": "music"
+        },
+        "language": "en",
+        "size": 236,
+        "topic": "music reviews",
+        "topicId": "pitchfork"
+    }
+]

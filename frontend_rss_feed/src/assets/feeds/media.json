@@ -1,0 +1,1410 @@
+[
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/media.png",
+        "updated": 1604848840692,
+        "feedIds": [
+            "feed/http://www.theguardian.com/media/rss",
+            "feed/http://www.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml",
+            "feed/http://www.niemanlab.org/feed/",
+            "feed/http://www.cjr.org/index.xml",
+            "feed/http://www.poynter.org/feed/",
+            "feed/http://www.pressgazette.co.uk/rssfeed.xml",
+            "feed/https://techcrunch.com/media-2/feed/",
+            "feed/https://digiday.com/category/media/feed/",
+            "feed/http://www.nscreenmedia.com/feed/",
+            "feed/http://www.huffingtonpost.com/feeds/verticals/media/index.xml",
+            "feed/http://www.v-net.tv/feed/",
+            "feed/http://mediagazer.com/feed.xml",
+            "feed/http://www.whatsnewinpublishing.co.uk/rss.xml",
+            "feed/http://www.fiercecable.com/rss/xml",
+            "feed/http://cnnpressroom.blogs.cnn.com/feed/",
+            "feed/http://feeds.feedburner.com/AdvancedTelevision",
+            "feed/http://feeds.washingtonpost.com/rss/rss_erik-wemple",
+            "feed/http://www.mediabistro.com/tvnewser/rss",
+            "feed/http://nypost.com/media/feed/",
+            "feed/http://www.independent.co.uk/news/media/rss",
+            "feed/http://www.ft.com/rss/companies/media",
+            "feed/http://www.mediaite.com/feed/",
+            "feed/http://www.journalism.org/rss.xml",
+            "feed/http://www.mondaynote.com/feed/",
+            "feed/http://journalism.nyu.edu/pubzone/weblogs/pressthink/index.rdf",
+            "feed/http://www.current.org/feed/",
+            "feed/http://pressthink.org/feed/",
+            "feed/http://feeds.feedburner.com/Newsonomics",
+            "feed/http://rss.feedsportal.com/feed/journalism/News",
+            "feed/http://jimromenesko.com/?feed=rss2",
+            "feed/https://www.mediaplaynews.com/feed/",
+            "feed/http://www.foliomag.com/rss",
+            "feed/http://www.variety.com/rss.asp?categoryid=10",
+            "feed/http://www.americanpressinstitute.org/feed/",
+            "feed/http://mesalliance.org/feed/",
+            "feed/http://www.businessinsider.com/media/rss",
+            "feed/http://www.mediabistro.com/news/rss/",
+            "feed/http://insidecablenews.wordpress.com/feed/",
+            "feed/http://mediamythalert.wordpress.com/feed/",
+            "feed/http://www.dankennedy.net/feed/",
+            "feed/http://www.talkingbiznews.com/?feed=rss2",
+            "feed/http://cnncommentary.com/feed/",
+            "feed/http://www.newscaststudio.com/feed/",
+            "feed/http://www.buzzmachine.com/feed/",
+            "feed/http://www.freepress.net/rss.xml",
+            "feed/http://www.ftvlive.com/sqsp-test?format=RSS",
+            "feed/http://feeds.wnyc.org/onthemedia",
+            "feed/http://feeds.feedburner.com/ProbloggerHelpingBloggersEarnMoney",
+            "feed/http://www.abc.net.au/mediawatch/mediawatch.xml",
+            "feed/http://onlinejournalismblog.com/feed/",
+            "feed/http://feeds.marketingland.com/mktingland",
+            "feed/http://journalists.org/feed/",
+            "feed/http://www.mediaweek.com.au/feed/",
+            "feed/http://feeds.copyblogger.com/Copyblogger",
+            "feed/http://www.avclub.com/feed/rss/",
+            "feed/http://feeds.mediapost.com/mediadailynews",
+            "feed/http://feeds.feedburner.com/radiotoday",
+            "feed/http://mrmagazine.wordpress.com/feed/",
+            "feed/http://www.deadline.com/feed/",
+            "feed/http://www.observer.com/media/rss",
+            "feed/http://mumbrella.com.au/feed/",
+            "feed/http://www.holdthefrontpage.co.uk/feed/",
+            "feed/http://themediabusiness.blogspot.com/feeds/posts/default",
+            "feed/http://subscraft.blogspot.com/feeds/posts/default",
+            "feed/http://tradingaswdr.blogspot.com/feeds/posts/default",
+            "feed/http://feeds.feedburner.com/journalistsresource",
+            "feed/http://feeds.feedburner.com/com/YTJp",
+            "feed/http://j-source.ca/feed/",
+            "feed/http://tbivision.com/feed/",
+            "feed/http://nymag.com/daily/entertainment/index.xml",
+            "feed/http://feeds.feedburner.com/TheBivingsReport",
+            "feed/http://adage.com/rss-feed?section_id=269",
+            "feed/http://www.thedrum.com/rss.xml",
+            "feed/http://cpj.org/atom.xml",
+            "feed/http://firstdraftnews.com/feed/",
+            "feed/http://www.npr.org/rss/rss.php?id=1020",
+            "feed/http://feeds2.feedburner.com/shorensteincenter/all",
+            "feed/http://knightlab.northwestern.edu/feed/",
+            "feed/http://feeds.feedburner.com/MastersOfMedia",
+            "feed/http://www.digitaltveurope.net/feed/rss/",
+            "feed/http://www.pewresearch.org/topics/news-media-trends/feed/",
+            "feed/http://www.thewrap.com/feed/",
+            "feed/http://johnlrobinson.com/feed/",
+            "feed/http://www.cynopsis.com/editions/cynopsis/-/rss",
+            "feed/http://civic.mit.edu/rss/feed",
+            "feed/https://tvnewscheck.com/feed/",
+            "feed/http://news.tubefilter.tv/feed/",
+            "feed/http://www.guardian.co.uk/media/digital-media/rss",
+            "feed/http://www.mediabistro.com/tvspy/rss/",
+            "feed/http://www.niemanlab.org/reading/feed/",
+            "feed/http://www.digiday.com/feed/",
+            "feed/http://www.journalism.org/daily-briefings/feed/",
+            "feed/https://www.theguardian.com/uk/media/rss",
+            "feed/http://www.theguardian.com/uk/media/rss",
+            "feed/https://www.washingtonpost.com/pb/people/margaret-sullivan?outputType=rss",
+            "feed/http://feeds.feedburner.com/NiemanLabFuego",
+            "feed/http://deadline.com/v/business/feed/",
+            "feed/http://www.mediabistro.com/tvspy/feed",
+            "feed/http://variety.com/v/digital/feed/",
+            "feed/https://www.cjr.org/./the_new_gatekeepers/feed"
+        ],
+        "focusScore": 0.10563524339319982,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.010958904109589041,
+                "bestFeedId": "feed/http://www.theguardian.com/media/rss",
+                "size": 187,
+                "topic": "medien"
+            }
+        ],
+        "bestFeedId": "feed/http://www.theguardian.com/media/rss",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 861.49,
+                "id": "feed/http://www.theguardian.com/media/rss",
+                "feedId": "feed/http://www.theguardian.com/media/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 73.0,
+                "leoScore": 834.08,
+                "id": "feed/http://www.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml",
+                "feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/MediaandAdvertising.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 73.0,
+                "leoScore": 804.38,
+                "id": "feed/http://www.niemanlab.org/feed/",
+                "feedId": "feed/http://www.niemanlab.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 800.79,
+                "id": "feed/http://www.cjr.org/index.xml",
+                "feedId": "feed/http://www.cjr.org/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 780.23,
+                "id": "feed/http://www.poynter.org/feed/",
+                "feedId": "feed/http://www.poynter.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 743.97,
+                "id": "feed/http://www.pressgazette.co.uk/rssfeed.xml",
+                "feedId": "feed/http://www.pressgazette.co.uk/rssfeed.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 738.72,
+                "id": "feed/https://techcrunch.com/media-2/feed/",
+                "feedId": "feed/https://techcrunch.com/media-2/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 733.18,
+                "id": "feed/https://digiday.com/category/media/feed/",
+                "feedId": "feed/https://digiday.com/category/media/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 721.79,
+                "id": "feed/http://www.nscreenmedia.com/feed/",
+                "feedId": "feed/http://www.nscreenmedia.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 720.19,
+                "id": "feed/http://www.huffingtonpost.com/feeds/verticals/media/index.xml",
+                "feedId": "feed/http://www.huffingtonpost.com/feeds/verticals/media/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 716.8,
+                "id": "feed/http://www.v-net.tv/feed/",
+                "feedId": "feed/http://www.v-net.tv/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 715.13,
+                "id": "feed/http://mediagazer.com/feed.xml",
+                "feedId": "feed/http://mediagazer.com/feed.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 714.86,
+                "id": "feed/http://www.whatsnewinpublishing.co.uk/rss.xml",
+                "feedId": "feed/http://www.whatsnewinpublishing.co.uk/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 713.27,
+                "id": "feed/http://www.fiercecable.com/rss/xml",
+                "feedId": "feed/http://www.fiercecable.com/rss/xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 709.99,
+                "id": "feed/http://cnnpressroom.blogs.cnn.com/feed/",
+                "feedId": "feed/http://cnnpressroom.blogs.cnn.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 709.85,
+                "id": "feed/http://feeds.feedburner.com/AdvancedTelevision",
+                "feedId": "feed/http://feeds.feedburner.com/AdvancedTelevision",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 696.56,
+                "id": "feed/http://feeds.washingtonpost.com/rss/rss_erik-wemple",
+                "feedId": "feed/http://feeds.washingtonpost.com/rss/rss_erik-wemple",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 692.66,
+                "id": "feed/http://www.mediabistro.com/tvnewser/rss",
+                "feedId": "feed/http://www.mediabistro.com/tvnewser/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 676.85,
+                "id": "feed/http://nypost.com/media/feed/",
+                "feedId": "feed/http://nypost.com/media/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 671.73,
+                "id": "feed/http://www.independent.co.uk/news/media/rss",
+                "feedId": "feed/http://www.independent.co.uk/news/media/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 626.12,
+                "id": "feed/http://www.ft.com/rss/companies/media",
+                "feedId": "feed/http://www.ft.com/rss/companies/media",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 65.0,
+                "leoScore": 613.79,
+                "id": "feed/http://www.mediaite.com/feed/",
+                "feedId": "feed/http://www.mediaite.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 70.0,
+                "leoScore": 606.82,
+                "id": "feed/http://www.journalism.org/rss.xml",
+                "feedId": "feed/http://www.journalism.org/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 52.0,
+                "leoScore": 569.69,
+                "id": "feed/http://www.mondaynote.com/feed/",
+                "feedId": "feed/http://www.mondaynote.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 71.0,
+                "leoScore": 547.22,
+                "id": "feed/http://journalism.nyu.edu/pubzone/weblogs/pressthink/index.rdf",
+                "feedId": "feed/http://journalism.nyu.edu/pubzone/weblogs/pressthink/index.rdf",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 543.69,
+                "id": "feed/http://www.current.org/feed/",
+                "feedId": "feed/http://www.current.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 62.0,
+                "leoScore": 541.76,
+                "id": "feed/http://pressthink.org/feed/",
+                "feedId": "feed/http://pressthink.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": 530.57,
+                "id": "feed/http://feeds.feedburner.com/Newsonomics",
+                "feedId": "feed/http://feeds.feedburner.com/Newsonomics",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 64.0,
+                "leoScore": 522.55,
+                "id": "feed/http://rss.feedsportal.com/feed/journalism/News",
+                "feedId": "feed/http://rss.feedsportal.com/feed/journalism/News",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 65.0,
+                "leoScore": 521.09,
+                "id": "feed/http://jimromenesko.com/?feed=rss2",
+                "feedId": "feed/http://jimromenesko.com/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 519.35,
+                "id": "feed/https://www.mediaplaynews.com/feed/",
+                "feedId": "feed/https://www.mediaplaynews.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 510.55,
+                "id": "feed/http://www.foliomag.com/rss",
+                "feedId": "feed/http://www.foliomag.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 41.0,
+                "leoScore": 509.51,
+                "id": "feed/http://www.variety.com/rss.asp?categoryid=10",
+                "feedId": "feed/http://www.variety.com/rss.asp?categoryid=10",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 68.0,
+                "leoScore": 500.31,
+                "id": "feed/http://www.americanpressinstitute.org/feed/",
+                "feedId": "feed/http://www.americanpressinstitute.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 500.0,
+                "id": "feed/http://mesalliance.org/feed/",
+                "feedId": "feed/http://mesalliance.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 489.27,
+                "id": "feed/http://www.businessinsider.com/media/rss",
+                "feedId": "feed/http://www.businessinsider.com/media/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 65.0,
+                "leoScore": 478.81,
+                "id": "feed/http://www.mediabistro.com/news/rss/",
+                "feedId": "feed/http://www.mediabistro.com/news/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 478.22,
+                "id": "feed/http://insidecablenews.wordpress.com/feed/",
+                "feedId": "feed/http://insidecablenews.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 477.69,
+                "id": "feed/http://mediamythalert.wordpress.com/feed/",
+                "feedId": "feed/http://mediamythalert.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 476.26,
+                "id": "feed/http://www.dankennedy.net/feed/",
+                "feedId": "feed/http://www.dankennedy.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 471.46,
+                "id": "feed/http://www.talkingbiznews.com/?feed=rss2",
+                "feedId": "feed/http://www.talkingbiznews.com/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 470.04,
+                "id": "feed/http://cnncommentary.com/feed/",
+                "feedId": "feed/http://cnncommentary.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 453.13,
+                "id": "feed/http://www.newscaststudio.com/feed/",
+                "feedId": "feed/http://www.newscaststudio.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 45.0,
+                "leoScore": 451.75,
+                "id": "feed/http://www.buzzmachine.com/feed/",
+                "feedId": "feed/http://www.buzzmachine.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 447.41,
+                "id": "feed/http://www.freepress.net/rss.xml",
+                "feedId": "feed/http://www.freepress.net/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 442.21,
+                "id": "feed/http://www.ftvlive.com/sqsp-test?format=RSS",
+                "feedId": "feed/http://www.ftvlive.com/sqsp-test?format=RSS",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 49.0,
+                "leoScore": 438.04,
+                "id": "feed/http://feeds.wnyc.org/onthemedia",
+                "feedId": "feed/http://feeds.wnyc.org/onthemedia",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 34.0,
+                "leoScore": 416.87,
+                "id": "feed/http://feeds.feedburner.com/ProbloggerHelpingBloggersEarnMoney",
+                "feedId": "feed/http://feeds.feedburner.com/ProbloggerHelpingBloggersEarnMoney",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 70.0,
+                "leoScore": 395.07,
+                "id": "feed/http://www.abc.net.au/mediawatch/mediawatch.xml",
+                "feedId": "feed/http://www.abc.net.au/mediawatch/mediawatch.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 45.0,
+                "leoScore": 378.42,
+                "id": "feed/http://onlinejournalismblog.com/feed/",
+                "feedId": "feed/http://onlinejournalismblog.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 28.0,
+                "leoScore": 370.09,
+                "id": "feed/http://feeds.marketingland.com/mktingland",
+                "feedId": "feed/http://feeds.marketingland.com/mktingland",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 61.0,
+                "leoScore": 368.71,
+                "id": "feed/http://journalists.org/feed/",
+                "feedId": "feed/http://journalists.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 70.0,
+                "leoScore": 361.89,
+                "id": "feed/http://www.mediaweek.com.au/feed/",
+                "feedId": "feed/http://www.mediaweek.com.au/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 26.0,
+                "leoScore": 352.31,
+                "id": "feed/http://feeds.copyblogger.com/Copyblogger",
+                "feedId": "feed/http://feeds.copyblogger.com/Copyblogger",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 27.0,
+                "leoScore": 350.17,
+                "id": "feed/http://www.avclub.com/feed/rss/",
+                "feedId": "feed/http://www.avclub.com/feed/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 39.0,
+                "leoScore": 344.61,
+                "id": "feed/http://feeds.mediapost.com/mediadailynews",
+                "feedId": "feed/http://feeds.mediapost.com/mediadailynews",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 58.0,
+                "leoScore": 329.0,
+                "id": "feed/http://feeds.feedburner.com/radiotoday",
+                "feedId": "feed/http://feeds.feedburner.com/radiotoday",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 328.18,
+                "id": "feed/http://mrmagazine.wordpress.com/feed/",
+                "feedId": "feed/http://mrmagazine.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 26.0,
+                "leoScore": 310.84,
+                "id": "feed/http://www.deadline.com/feed/",
+                "feedId": "feed/http://www.deadline.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 300.0,
+                "id": "feed/http://www.observer.com/media/rss",
+                "feedId": "feed/http://www.observer.com/media/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 36.0,
+                "leoScore": 299.26,
+                "id": "feed/http://mumbrella.com.au/feed/",
+                "feedId": "feed/http://mumbrella.com.au/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 61.0,
+                "leoScore": 290.05,
+                "id": "feed/http://www.holdthefrontpage.co.uk/feed/",
+                "feedId": "feed/http://www.holdthefrontpage.co.uk/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 280.74,
+                "id": "feed/http://themediabusiness.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://themediabusiness.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 258.5,
+                "id": "feed/http://subscraft.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://subscraft.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 258.5,
+                "id": "feed/http://tradingaswdr.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://tradingaswdr.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 37.0,
+                "leoScore": 249.43,
+                "id": "feed/http://feeds.feedburner.com/journalistsresource",
+                "feedId": "feed/http://feeds.feedburner.com/journalistsresource",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 34.0,
+                "leoScore": 241.33,
+                "id": "feed/http://feeds.feedburner.com/com/YTJp",
+                "feedId": "feed/http://feeds.feedburner.com/com/YTJp",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 63.0,
+                "leoScore": 233.13,
+                "id": "feed/http://j-source.ca/feed/",
+                "feedId": "feed/http://j-source.ca/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": 222.97,
+                "id": "feed/http://tbivision.com/feed/",
+                "feedId": "feed/http://tbivision.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 18.0,
+                "leoScore": 217.77,
+                "id": "feed/http://nymag.com/daily/entertainment/index.xml",
+                "feedId": "feed/http://nymag.com/daily/entertainment/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 67.0,
+                "leoScore": 212.38,
+                "id": "feed/http://feeds.feedburner.com/TheBivingsReport",
+                "feedId": "feed/http://feeds.feedburner.com/TheBivingsReport",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 58.0,
+                "leoScore": 207.93,
+                "id": "feed/http://adage.com/rss-feed?section_id=269",
+                "feedId": "feed/http://adage.com/rss-feed?section_id=269",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 18.0,
+                "leoScore": 200.07,
+                "id": "feed/http://www.thedrum.com/rss.xml",
+                "feedId": "feed/http://www.thedrum.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 36.0,
+                "leoScore": 197.71,
+                "id": "feed/http://cpj.org/atom.xml",
+                "feedId": "feed/http://cpj.org/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 35.0,
+                "leoScore": 196.51,
+                "id": "feed/http://firstdraftnews.com/feed/",
+                "feedId": "feed/http://firstdraftnews.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 39.0,
+                "leoScore": 191.37,
+                "id": "feed/http://www.npr.org/rss/rss.php?id=1020",
+                "feedId": "feed/http://www.npr.org/rss/rss.php?id=1020",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 55.0,
+                "leoScore": 190.27,
+                "id": "feed/http://feeds2.feedburner.com/shorensteincenter/all",
+                "feedId": "feed/http://feeds2.feedburner.com/shorensteincenter/all",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 36.0,
+                "leoScore": 187.54,
+                "id": "feed/http://knightlab.northwestern.edu/feed/",
+                "feedId": "feed/http://knightlab.northwestern.edu/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 62.0,
+                "leoScore": 186.0,
+                "id": "feed/http://feeds.feedburner.com/MastersOfMedia",
+                "feedId": "feed/http://feeds.feedburner.com/MastersOfMedia",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 24.0,
+                "leoScore": 184.98,
+                "id": "feed/http://www.digitaltveurope.net/feed/rss/",
+                "feedId": "feed/http://www.digitaltveurope.net/feed/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 43.0,
+                "leoScore": 182.66,
+                "id": "feed/http://www.pewresearch.org/topics/news-media-trends/feed/",
+                "feedId": "feed/http://www.pewresearch.org/topics/news-media-trends/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 19.0,
+                "leoScore": 181.97,
+                "id": "feed/http://www.thewrap.com/feed/",
+                "feedId": "feed/http://www.thewrap.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": 179.25,
+                "id": "feed/http://johnlrobinson.com/feed/",
+                "feedId": "feed/http://johnlrobinson.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 38.0,
+                "leoScore": 178.62,
+                "id": "feed/http://www.cynopsis.com/editions/cynopsis/-/rss",
+                "feedId": "feed/http://www.cynopsis.com/editions/cynopsis/-/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 35.0,
+                "leoScore": 178.06,
+                "id": "feed/http://civic.mit.edu/rss/feed",
+                "feedId": "feed/http://civic.mit.edu/rss/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 44.0,
+                "leoScore": 176.0,
+                "id": "feed/https://tvnewscheck.com/feed/",
+                "feedId": "feed/https://tvnewscheck.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 22.0,
+                "leoScore": 171.48,
+                "id": "feed/http://news.tubefilter.tv/feed/",
+                "feedId": "feed/http://news.tubefilter.tv/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": -1.0,
+                "id": "feed/http://www.guardian.co.uk/media/digital-media/rss",
+                "feedId": "feed/http://www.guardian.co.uk/media/digital-media/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 71.0,
+                "leoScore": -2.0,
+                "id": "feed/http://www.mediabistro.com/tvspy/rss/",
+                "feedId": "feed/http://www.mediabistro.com/tvspy/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 64.0,
+                "leoScore": -3.0,
+                "id": "feed/http://www.niemanlab.org/reading/feed/",
+                "feedId": "feed/http://www.niemanlab.org/reading/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 28.0,
+                "leoScore": -4.0,
+                "id": "feed/http://www.digiday.com/feed/",
+                "feedId": "feed/http://www.digiday.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 66.0,
+                "leoScore": -5.0,
+                "id": "feed/http://www.journalism.org/daily-briefings/feed/",
+                "feedId": "feed/http://www.journalism.org/daily-briefings/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -6.0,
+                "id": "feed/https://www.theguardian.com/uk/media/rss",
+                "feedId": "feed/https://www.theguardian.com/uk/media/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": -7.0,
+                "id": "feed/http://www.theguardian.com/uk/media/rss",
+                "feedId": "feed/http://www.theguardian.com/uk/media/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 53.0,
+                "leoScore": -8.0,
+                "id": "feed/https://www.washingtonpost.com/pb/people/margaret-sullivan?outputType=rss",
+                "feedId": "feed/https://www.washingtonpost.com/pb/people/margaret-sullivan?outputType=rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 46.0,
+                "leoScore": -9.0,
+                "id": "feed/http://feeds.feedburner.com/NiemanLabFuego",
+                "feedId": "feed/http://feeds.feedburner.com/NiemanLabFuego",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -10.0,
+                "id": "feed/http://deadline.com/v/business/feed/",
+                "feedId": "feed/http://deadline.com/v/business/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -11.0,
+                "id": "feed/http://www.mediabistro.com/tvspy/feed",
+                "feedId": "feed/http://www.mediabistro.com/tvspy/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 40.0,
+                "leoScore": -12.0,
+                "id": "feed/http://variety.com/v/digital/feed/",
+                "feedId": "feed/http://variety.com/v/digital/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 45.0,
+                "leoScore": -13.0,
+                "id": "feed/https://www.cjr.org/./the_new_gatekeepers/feed",
+                "feedId": "feed/https://www.cjr.org/./the_new_gatekeepers/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.3306032001367312,
+                "bestFeedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+                "size": 216144,
+                "topic": "news",
+                "topicId": "news"
+            },
+            {
+                "focusScore": 0.27334204513129384,
+                "bestFeedId": "feed/http://www.niemanlab.org/feed/",
+                "size": 2089,
+                "topic": "journalism",
+                "topicId": "journalism"
+            },
+            {
+                "focusScore": 0.22741109249110447,
+                "bestFeedId": "feed/http://feeds.feedburner.com/osxbmc",
+                "size": 125,
+                "topic": "plex",
+                "topicId": "plex"
+            },
+            {
+                "focusScore": 0.11691950585655707,
+                "bestFeedId": "feed/https://zapier.com/engine/rss/768213/hsjhdoiouw822",
+                "size": 1792,
+                "topic": "alerts",
+                "topicId": "alerts"
+            },
+            {
+                "focusScore": 0.01661603529675427,
+                "bestFeedId": "feed/http://feeds.feedburner.com/uncrate",
+                "size": 4187,
+                "topic": "cool",
+                "topicId": "cool"
+            },
+            {
+                "focusScore": 0.538548363861959,
+                "bestFeedId": "feed/http://feeds.feedburner.com/EventManagementBlog",
+                "size": 1943,
+                "topic": "events",
+                "topicId": "events"
+            },
+            {
+                "focusScore": 0.19493028693781494,
+                "bestFeedId": "feed/http://www.tmz.com/rss.xml",
+                "size": 28997,
+                "topic": "entertainment",
+                "topicId": "entertainment"
+            },
+            {
+                "focusScore": 0.05926189588986844,
+                "bestFeedId": "feed/http://www.vanityfair.com/services/rss/feeds/everything.xml",
+                "size": 5353,
+                "topic": "magazines",
+                "topicId": "magazines"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "news",
+            "topicId": "news"
+        },
+        "language": "en",
+        "size": 6927,
+        "topic": "media",
+        "topicId": "media"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/kodi.png",
+        "updated": 1604848861902,
+        "feedIds": [
+            "feed/http://xbmc.org/feed/",
+            "feed/http://koditips.com/feed/",
+            "feed/https://seo-michael.co.uk/rss/",
+            "feed/http://feeds.feedburner.com/thedigitallifestyle/ian",
+            "feed/http://forum.xbmc.org/syndication.php",
+            "feed/http://tutorial-iptv-xbmc.blogspot.com/feeds/posts/default",
+            "feed/http://windowsmediacenter.blogspot.com/feeds/posts/default",
+            "feed/http://feeds.missingremote.com/missingremote",
+            "feed/http://feeds.feedburner.com/htpc_webzine/",
+            "feed/http://www.wirelesshack.org/category/kodi-media-center/feed",
+            "feed/http://www.husham.com/?feed=rss2",
+            "feed/https://libreelec.tv/feed/",
+            "feed/http://www.dimitrology.com/feed/",
+            "feed/http://www.ehomeupgrade.com/syndication.xml",
+            "feed/http://feeds2.feedburner.com/TheDmz",
+            "feed/http://www.ares-project-blog.com/feed/",
+            "feed/http://www.iptvsaga.com/feed/",
+            "feed/http://kodifiretvstick.com/feed/",
+            "feed/http://addonhq.com/feed/",
+            "feed/http://troypoint.com/feed/",
+            "feed/http://iptvxbmc.com/feed/",
+            "feed/http://feeds.feedburner.com/osxbmc",
+            "feed/http://kodiapps.com/rss",
+            "feed/http://www.raspbmc.com/feed/",
+            "feed/https://www.firesticktricks.com/feed",
+            "feed/http://mymce.wordpress.com/feed/",
+            "feed/http://www.mediabrowser3.com/feed/",
+            "feed/https://mykodiaddons.com/feed/",
+            "feed/http://www.aftvnews.com/feed/",
+            "feed/https://www.reddit.com/r/Addons4Kodi/.rss",
+            "feed/http://www.reddit.com/r/kodi/.rss",
+            "feed/http://www.reddit.com/r/xbmc/.rss",
+            "feed/http://forum.xbmc.org/syndication.php?fid=109&limit=15",
+            "feed/http://news.google.com/news?hl=en&gl=us&q=xbmc&um=1&ie=UTF-8&output=rss",
+            "feed/http://www.husham.com/feed/",
+            "feed/http://feeds.feedburner.com/TheMediaCenterShowPodcast"
+        ],
+        "focusScore": 0.5070657793148854,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.14065265153387485,
+                "bestFeedId": "feed/http://xbmc.org/feed/",
+                "size": 207,
+                "topic": "htpc"
+            },
+            {
+                "focusScore": 0.09970175407386897,
+                "bestFeedId": "feed/http://xbmc.org/feed/",
+                "size": 147,
+                "topic": "xbmc"
+            },
+            {
+                "focusScore": 0.3476585458484528,
+                "bestFeedId": "feed/http://xbmc.org/feed/",
+                "size": 129,
+                "topic": "media center"
+            }
+        ],
+        "bestFeedId": "feed/http://xbmc.org/feed/",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 76.0,
+                "leoScore": 821.36,
+                "id": "feed/http://xbmc.org/feed/",
+                "feedId": "feed/http://xbmc.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 819.44,
+                "id": "feed/http://koditips.com/feed/",
+                "feedId": "feed/http://koditips.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 677.69,
+                "id": "feed/https://seo-michael.co.uk/rss/",
+                "feedId": "feed/https://seo-michael.co.uk/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 660.73,
+                "id": "feed/http://feeds.feedburner.com/thedigitallifestyle/ian",
+                "feedId": "feed/http://feeds.feedburner.com/thedigitallifestyle/ian",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 643.85,
+                "id": "feed/http://forum.xbmc.org/syndication.php",
+                "feedId": "feed/http://forum.xbmc.org/syndication.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 574.89,
+                "id": "feed/http://tutorial-iptv-xbmc.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://tutorial-iptv-xbmc.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 504.44,
+                "id": "feed/http://windowsmediacenter.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://windowsmediacenter.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 66.0,
+                "leoScore": 491.23,
+                "id": "feed/http://feeds.missingremote.com/missingremote",
+                "feedId": "feed/http://feeds.missingremote.com/missingremote",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 484.3,
+                "id": "feed/http://feeds.feedburner.com/htpc_webzine/",
+                "feedId": "feed/http://feeds.feedburner.com/htpc_webzine/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 452.36,
+                "id": "feed/http://www.wirelesshack.org/category/kodi-media-center/feed",
+                "feedId": "feed/http://www.wirelesshack.org/category/kodi-media-center/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 442.2,
+                "id": "feed/http://www.husham.com/?feed=rss2",
+                "feedId": "feed/http://www.husham.com/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 57.0,
+                "leoScore": 438.53,
+                "id": "feed/https://libreelec.tv/feed/",
+                "feedId": "feed/https://libreelec.tv/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 432.19,
+                "id": "feed/http://www.dimitrology.com/feed/",
+                "feedId": "feed/http://www.dimitrology.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 63.0,
+                "leoScore": 421.25,
+                "id": "feed/http://www.ehomeupgrade.com/syndication.xml",
+                "feedId": "feed/http://www.ehomeupgrade.com/syndication.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": 382.57,
+                "id": "feed/http://feeds2.feedburner.com/TheDmz",
+                "feedId": "feed/http://feeds2.feedburner.com/TheDmz",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 345.94,
+                "id": "feed/http://www.ares-project-blog.com/feed/",
+                "feedId": "feed/http://www.ares-project-blog.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 334.46,
+                "id": "feed/http://www.iptvsaga.com/feed/",
+                "feedId": "feed/http://www.iptvsaga.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/http://kodifiretvstick.com/feed/",
+                "feedId": "feed/http://kodifiretvstick.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 58.0,
+                "leoScore": 281.76,
+                "id": "feed/http://addonhq.com/feed/",
+                "feedId": "feed/http://addonhq.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 58.0,
+                "leoScore": 265.93,
+                "id": "feed/http://troypoint.com/feed/",
+                "feedId": "feed/http://troypoint.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 63.0,
+                "leoScore": 257.51,
+                "id": "feed/http://iptvxbmc.com/feed/",
+                "feedId": "feed/http://iptvxbmc.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 24.0,
+                "leoScore": 241.2,
+                "id": "feed/http://feeds.feedburner.com/osxbmc",
+                "feedId": "feed/http://feeds.feedburner.com/osxbmc",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 232.19,
+                "id": "feed/http://kodiapps.com/rss",
+                "feedId": "feed/http://kodiapps.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 25.0,
+                "leoScore": 217.34,
+                "id": "feed/http://www.raspbmc.com/feed/",
+                "feedId": "feed/http://www.raspbmc.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 55.0,
+                "leoScore": 214.88,
+                "id": "feed/https://www.firesticktricks.com/feed",
+                "feedId": "feed/https://www.firesticktricks.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 200.0,
+                "id": "feed/http://mymce.wordpress.com/feed/",
+                "feedId": "feed/http://mymce.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 33.0,
+                "leoScore": 173.18,
+                "id": "feed/http://www.mediabrowser3.com/feed/",
+                "feedId": "feed/http://www.mediabrowser3.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 158.5,
+                "id": "feed/https://mykodiaddons.com/feed/",
+                "feedId": "feed/https://mykodiaddons.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 11.0,
+                "leoScore": 94.84,
+                "id": "feed/http://www.aftvnews.com/feed/",
+                "feedId": "feed/http://www.aftvnews.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -1.0,
+                "id": "feed/https://www.reddit.com/r/Addons4Kodi/.rss",
+                "feedId": "feed/https://www.reddit.com/r/Addons4Kodi/.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -2.0,
+                "id": "feed/http://www.reddit.com/r/kodi/.rss",
+                "feedId": "feed/http://www.reddit.com/r/kodi/.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -3.0,
+                "id": "feed/http://www.reddit.com/r/xbmc/.rss",
+                "feedId": "feed/http://www.reddit.com/r/xbmc/.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -4.0,
+                "id": "feed/http://forum.xbmc.org/syndication.php?fid=109&limit=15",
+                "feedId": "feed/http://forum.xbmc.org/syndication.php?fid=109&limit=15",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -5.0,
+                "id": "feed/http://news.google.com/news?hl=en&gl=us&q=xbmc&um=1&ie=UTF-8&output=rss",
+                "feedId": "feed/http://news.google.com/news?hl=en&gl=us&q=xbmc&um=1&ie=UTF-8&output=rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -6.0,
+                "id": "feed/http://www.husham.com/feed/",
+                "feedId": "feed/http://www.husham.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 33.0,
+                "leoScore": -7.0,
+                "id": "feed/http://feeds.feedburner.com/TheMediaCenterShowPodcast",
+                "feedId": "feed/http://feeds.feedburner.com/TheMediaCenterShowPodcast",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.32919167610818073,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 297365,
+                "topic": "tech",
+                "topicId": "tech"
+            },
+            {
+                "focusScore": 0.41701541465639497,
+                "bestFeedId": "feed/http://tutorial-iptv-xbmc.blogspot.com/feeds/posts/default",
+                "size": 109,
+                "topic": "iptv",
+                "topicId": "iptv"
+            },
+            {
+                "focusScore": 0.6023519804001634,
+                "bestFeedId": "feed/http://allaboutchromecast.com/feed/",
+                "size": 48,
+                "topic": "chromecast",
+                "topicId": "chromecast"
+            },
+            {
+                "focusScore": 0.7298941798941799,
+                "bestFeedId": "feed/http://joaoapps.com/feed/",
+                "size": 66,
+                "topic": "tasker",
+                "topicId": "tasker"
+            },
+            {
+                "focusScore": 0.22741109249110447,
+                "bestFeedId": "feed/http://feeds.feedburner.com/osxbmc",
+                "size": 125,
+                "topic": "plex",
+                "topicId": "plex"
+            },
+            {
+                "focusScore": 0.3022607022607023,
+                "bestFeedId": "feed/http://www.androidcentral.com/node/36678/topic-feed",
+                "size": 57,
+                "topic": "android wear",
+                "topicId": "android-wear"
+            },
+            {
+                "focusScore": 0.1590913259364916,
+                "bestFeedId": "feed/http://blog.us.playstation.com/category/ps4/feed/",
+                "size": 1092,
+                "topic": "playstation",
+                "topicId": "playstation"
+            },
+            {
+                "focusScore": 0.5678313399503196,
+                "bestFeedId": "feed/http://feeds.feedburner.com/AutomatedHome",
+                "size": 1882,
+                "topic": "home automation",
+                "topicId": "home-automation"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "tech",
+            "topicId": "tech"
+        },
+        "language": "en",
+        "size": 966,
+        "topic": "media center",
+        "topicId": "kodi"
+    }
+]
