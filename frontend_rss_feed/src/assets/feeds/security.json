@@ -1,0 +1,1158 @@
+[
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/security.png",
+        "updated": 1604848834013,
+        "feedIds": [
+            "feed/http://krebsonsecurity.com/feed/",
+            "feed/http://www.schneier.com/blog/index.rdf",
+            "feed/http://thehackernews.com/feeds/posts/default",
+            "feed/http://www.darkreading.com/rss/all.xml",
+            "feed/http://nakedsecurity.sophos.com/feed/",
+            "feed/http://feeds.feedburner.com/darknethackers",
+            "feed/http://iscxml.sans.org/rssfeed.xml",
+            "feed/http://www.theregister.co.uk/security/headlines.atom",
+            "feed/http://threatpost.com/feed",
+            "feed/http://www.us-cert.gov/current/index.rdf",
+            "feed/http://googleonlinesecurity.blogspot.com/atom.xml",
+            "feed/http://packetstormsecurity.org/headlines.xml",
+            "feed/http://www.fireeye.com/blog/feed",
+            "feed/http://www.bleepingcomputer.com/feed/",
+            "feed/http://feeds.feedburner.com/Securityweek",
+            "feed/http://taosecurity.blogspot.com/atom.xml",
+            "feed/http://blog.malwarebytes.org/feed/",
+            "feed/http://securityaffairs.co/wordpress/feed",
+            "feed/http://blogs.technet.com/mmpc/rss.xml",
+            "feed/http://www.zdnet.com/blog/security/rss",
+            "feed/http://feeds.feedburner.com/GrahamCluleysBlog",
+            "feed/http://feeds.trendmicro.com/Anti-MalwareBlog/",
+            "feed/http://erratasec.blogspot.com/feeds/posts/default",
+            "feed/http://feeds.feedburner.com/TroyHunt",
+            "feed/http://www.infosecurity-magazine.com/rss/news/",
+            "feed/http://googleprojectzero.blogspot.com/feeds/posts/default",
+            "feed/http://vrt-sourcefire.blogspot.com/feeds/posts/default",
+            "feed/http://feeds2.feedburner.com/HelpNetSecurity",
+            "feed/http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches",
+            "feed/http://itsecurityguru.org/feed/",
+            "feed/https://www.cyberscoop.com/feed/",
+            "feed/http://feeds.feedburner.com/tripwire-state-of-security",
+            "feed/http://www.exploit-db.com/rss.php",
+            "feed/http://feeds.feedburner.com/infosecResources",
+            "feed/http://blogs.cisco.com/rss/security/",
+            "feed/http://www.securelist.com/en/rss/allupdates",
+            "feed/http://blog.eset.com/feed",
+            "feed/http://seclists.org/rss/fulldisclosure.rss",
+            "feed/http://www.csoonline.com/index.rss",
+            "feed/http://securityintelligence.com/feed/",
+            "feed/http://feeds.feedburner.com/hackread",
+            "feed/http://researchcenter.paloaltonetworks.com/feed/",
+            "feed/http://news.softpedia.com/newsRSS/Security-5.xml",
+            "feed/http://carnal0wnage.attackresearch.com/rss.xml",
+            "feed/http://blog.kaspersky.com/feed/",
+            "feed/http://blogs.technet.com/msrc/rss.xml",
+            "feed/http://www.infosecisland.com/rss.html",
+            "feed/http://feeds.feedburner.com/pauldotcom/XBIC",
+            "feed/http://feeds.feedblitz.com/alienvault-blogs&x=1",
+            "feed/http://gizmodo.com/tag/security/rss",
+            "feed/http://www.ehackingnews.com/feeds/posts/default",
+            "feed/http://securosis.com/feeds/blog-complete",
+            "feed/http://www.eff.org/rss/updates.xml",
+            "feed/http://feeds.danielmiessler.com/danielmiessler",
+            "feed/http://www.kb.cert.org/vulfeed/",
+            "feed/https://blogs.sans.org/computer-forensics/feed/",
+            "feed/http://feeds.feedburner.com/Imperviews?format=xml",
+            "feed/http://blog.cryptographyengineering.com/feeds/posts/default",
+            "feed/http://blog.didierstevens.com/feed/",
+            "feed/http://www.lightbluetouchpaper.org/feed/",
+            "feed/http://research.zscaler.com/feeds/posts/default",
+            "feed/http://blog.tenablesecurity.com/atom.xml",
+            "feed/http://blog.crowdstrike.com/feed",
+            "feed/http://blog.zeltser.com/rss",
+            "feed/http://garwarner.blogspot.com/feeds/posts/default",
+            "feed/http://www.securitybloggersnetwork.com/feed/",
+            "feed/https://www.recordedfuture.com/feed/",
+            "feed/http://www.veracode.com/blog/feed/",
+            "feed/http://blog.trailofbits.com/feed/",
+            "feed/http://blog.fox-it.com/feed/",
+            "feed/http://feeds.feedburner.com/CyberArms",
+            "feed/http://www.offensive-security.com/feed/",
+            "feed/http://www.virusbtn.com/library/feeds/news.rdf",
+            "feed/https://community.qualys.com/blogs/securitylabs/feeds/posts",
+            "feed/http://blog.webroot.com/feed/",
+            "feed/http://www.ethicalhacker.net/index2.php?option=com_rss&feed=RSS2.0&no_html=1",
+            "feed/http://hackmageddon.com/feed/",
+            "feed/http://feeds.feedblitz.com/thesecurityledger",
+            "feed/http://www.riskiq.com/resources/blog/rss",
+            "feed/http://null-byte.wonderhowto.com/rss.xml",
+            "feed/http://blog.portswigger.net/feeds/posts/default",
+            "feed/http://www.imperialviolet.org/iv-rss.xml",
+            "feed/http://feeds.feedburner.com/Room362com",
+            "feed/http://feeds.feedburner.com/HOTforSecurity",
+            "feed/http://www.blackhillsinfosec.com/?feed=rss2",
+            "feed/https://scotthelme.co.uk/feed/",
+            "feed/http://nvd.nist.gov/download/nvd-rss.xml",
+            "feed/http://www.hackinthebox.org/backend.php",
+            "feed/http://feeds.feedburner.com/isc2Blog",
+            "feed/http://www.us-cert.gov/channels/techalerts.rdf",
+            "feed/http://feeds.trendmicro.com/TrendMicroSimplySecurity",
+            "feed/http://www.us-cert.gov/channels/bulletins.rdf",
+            "feed/http://www.reddit.com/r/netsec/.rss",
+            "feed/http://labs.alienvault.com/labs/index.php/feed/",
+            "feed/https://securelist.com/feed/",
+            "feed/http://www.us-cert.gov/control_systems/xml/rss.xml",
+            "feed/http://blogs.technet.com/b/srd/rss.aspx",
+            "feed/http://feeds.feedburner.com/security-awareness-tip-of-the-day",
+            "feed/http://www.darkreading.com/rss_simple.asp?f_n=644&f_ln=Attacks/Breaches",
+            "feed/http://www.csoonline.com/feed/attribute/41014"
+        ],
+        "focusScore": 0.6855366764220115,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.2021150933364683,
+                "bestFeedId": "feed/http://krebsonsecurity.com/feed/",
+                "size": 1658,
+                "topic": "infosec"
+            },
+            {
+                "focusScore": 0.07803303354269638,
+                "bestFeedId": "feed/http://krebsonsecurity.com/feed/",
+                "size": 1403,
+                "topic": "cyber security"
+            },
+            {
+                "focusScore": 0.10665920550140758,
+                "bestFeedId": "feed/http://krebsonsecurity.com/feed/",
+                "size": 1161,
+                "topic": "cybersecurity"
+            },
+            {
+                "focusScore": 0.04621463784510177,
+                "bestFeedId": "feed/http://krebsonsecurity.com/feed/",
+                "size": 666,
+                "topic": "cyber"
+            },
+            {
+                "focusScore": 0.015099982484826257,
+                "bestFeedId": "feed/http://krebsonsecurity.com/feed/",
+                "size": 443,
+                "topic": "it security"
+            },
+            {
+                "focusScore": 0.08772307985136776,
+                "bestFeedId": "feed/http://krebsonsecurity.com/feed/",
+                "size": 430,
+                "topic": "sec"
+            }
+        ],
+        "bestFeedId": "feed/http://krebsonsecurity.com/feed/",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1407.1,
+                "id": "feed/http://krebsonsecurity.com/feed/",
+                "feedId": "feed/http://krebsonsecurity.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1368.44,
+                "id": "feed/http://www.schneier.com/blog/index.rdf",
+                "feedId": "feed/http://www.schneier.com/blog/index.rdf",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1347.76,
+                "id": "feed/http://thehackernews.com/feeds/posts/default",
+                "feedId": "feed/http://thehackernews.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1324.52,
+                "id": "feed/http://www.darkreading.com/rss/all.xml",
+                "feedId": "feed/http://www.darkreading.com/rss/all.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1316.83,
+                "id": "feed/http://nakedsecurity.sophos.com/feed/",
+                "feedId": "feed/http://nakedsecurity.sophos.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1279.77,
+                "id": "feed/http://feeds.feedburner.com/darknethackers",
+                "feedId": "feed/http://feeds.feedburner.com/darknethackers",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1247.8,
+                "id": "feed/http://iscxml.sans.org/rssfeed.xml",
+                "feedId": "feed/http://iscxml.sans.org/rssfeed.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1244.86,
+                "id": "feed/http://www.theregister.co.uk/security/headlines.atom",
+                "feedId": "feed/http://www.theregister.co.uk/security/headlines.atom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1236.79,
+                "id": "feed/http://threatpost.com/feed",
+                "feedId": "feed/http://threatpost.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1235.41,
+                "id": "feed/http://www.us-cert.gov/current/index.rdf",
+                "feedId": "feed/http://www.us-cert.gov/current/index.rdf",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1234.79,
+                "id": "feed/http://googleonlinesecurity.blogspot.com/atom.xml",
+                "feedId": "feed/http://googleonlinesecurity.blogspot.com/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1217.85,
+                "id": "feed/http://packetstormsecurity.org/headlines.xml",
+                "feedId": "feed/http://packetstormsecurity.org/headlines.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1217.75,
+                "id": "feed/http://www.fireeye.com/blog/feed",
+                "feedId": "feed/http://www.fireeye.com/blog/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1202.17,
+                "id": "feed/http://www.bleepingcomputer.com/feed/",
+                "feedId": "feed/http://www.bleepingcomputer.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1196.17,
+                "id": "feed/http://feeds.feedburner.com/Securityweek",
+                "feedId": "feed/http://feeds.feedburner.com/Securityweek",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1173.43,
+                "id": "feed/http://taosecurity.blogspot.com/atom.xml",
+                "feedId": "feed/http://taosecurity.blogspot.com/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1164.85,
+                "id": "feed/http://blog.malwarebytes.org/feed/",
+                "feedId": "feed/http://blog.malwarebytes.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1162.74,
+                "id": "feed/http://securityaffairs.co/wordpress/feed",
+                "feedId": "feed/http://securityaffairs.co/wordpress/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 1162.19,
+                "id": "feed/http://blogs.technet.com/mmpc/rss.xml",
+                "feedId": "feed/http://blogs.technet.com/mmpc/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1160.43,
+                "id": "feed/http://www.zdnet.com/blog/security/rss",
+                "feedId": "feed/http://www.zdnet.com/blog/security/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1154.87,
+                "id": "feed/http://feeds.feedburner.com/GrahamCluleysBlog",
+                "feedId": "feed/http://feeds.feedburner.com/GrahamCluleysBlog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1152.21,
+                "id": "feed/http://feeds.trendmicro.com/Anti-MalwareBlog/",
+                "feedId": "feed/http://feeds.trendmicro.com/Anti-MalwareBlog/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1144.38,
+                "id": "feed/http://erratasec.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://erratasec.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 1126.58,
+                "id": "feed/http://feeds.feedburner.com/TroyHunt",
+                "feedId": "feed/http://feeds.feedburner.com/TroyHunt",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1125.81,
+                "id": "feed/http://www.infosecurity-magazine.com/rss/news/",
+                "feedId": "feed/http://www.infosecurity-magazine.com/rss/news/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1124.86,
+                "id": "feed/http://googleprojectzero.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://googleprojectzero.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1105.68,
+                "id": "feed/http://vrt-sourcefire.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://vrt-sourcefire.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1094.74,
+                "id": "feed/http://feeds2.feedburner.com/HelpNetSecurity",
+                "feedId": "feed/http://feeds2.feedburner.com/HelpNetSecurity",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1091.35,
+                "id": "feed/http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches",
+                "feedId": "feed/http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1088.44,
+                "id": "feed/http://itsecurityguru.org/feed/",
+                "feedId": "feed/http://itsecurityguru.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1087.25,
+                "id": "feed/https://www.cyberscoop.com/feed/",
+                "feedId": "feed/https://www.cyberscoop.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1085.29,
+                "id": "feed/http://feeds.feedburner.com/tripwire-state-of-security",
+                "feedId": "feed/http://feeds.feedburner.com/tripwire-state-of-security",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 1074.35,
+                "id": "feed/http://www.exploit-db.com/rss.php",
+                "feedId": "feed/http://www.exploit-db.com/rss.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1069.9,
+                "id": "feed/http://feeds.feedburner.com/infosecResources",
+                "feedId": "feed/http://feeds.feedburner.com/infosecResources",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1069.76,
+                "id": "feed/http://blogs.cisco.com/rss/security/",
+                "feedId": "feed/http://blogs.cisco.com/rss/security/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1069.64,
+                "id": "feed/http://www.securelist.com/en/rss/allupdates",
+                "feedId": "feed/http://www.securelist.com/en/rss/allupdates",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1066.73,
+                "id": "feed/http://blog.eset.com/feed",
+                "feedId": "feed/http://blog.eset.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 1059.04,
+                "id": "feed/http://seclists.org/rss/fulldisclosure.rss",
+                "feedId": "feed/http://seclists.org/rss/fulldisclosure.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1051.0,
+                "id": "feed/http://www.csoonline.com/index.rss",
+                "feedId": "feed/http://www.csoonline.com/index.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1047.61,
+                "id": "feed/http://securityintelligence.com/feed/",
+                "feedId": "feed/http://securityintelligence.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1043.89,
+                "id": "feed/http://feeds.feedburner.com/hackread",
+                "feedId": "feed/http://feeds.feedburner.com/hackread",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1041.76,
+                "id": "feed/http://researchcenter.paloaltonetworks.com/feed/",
+                "feedId": "feed/http://researchcenter.paloaltonetworks.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1040.76,
+                "id": "feed/http://news.softpedia.com/newsRSS/Security-5.xml",
+                "feedId": "feed/http://news.softpedia.com/newsRSS/Security-5.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1039.88,
+                "id": "feed/http://carnal0wnage.attackresearch.com/rss.xml",
+                "feedId": "feed/http://carnal0wnage.attackresearch.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1035.4,
+                "id": "feed/http://blog.kaspersky.com/feed/",
+                "feedId": "feed/http://blog.kaspersky.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 1033.64,
+                "id": "feed/http://blogs.technet.com/msrc/rss.xml",
+                "feedId": "feed/http://blogs.technet.com/msrc/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1032.1,
+                "id": "feed/http://www.infosecisland.com/rss.html",
+                "feedId": "feed/http://www.infosecisland.com/rss.html",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1028.89,
+                "id": "feed/http://feeds.feedburner.com/pauldotcom/XBIC",
+                "feedId": "feed/http://feeds.feedburner.com/pauldotcom/XBIC",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1018.87,
+                "id": "feed/http://feeds.feedblitz.com/alienvault-blogs&x=1",
+                "feedId": "feed/http://feeds.feedblitz.com/alienvault-blogs&x=1",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1009.77,
+                "id": "feed/http://gizmodo.com/tag/security/rss",
+                "feedId": "feed/http://gizmodo.com/tag/security/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1007.43,
+                "id": "feed/http://www.ehackingnews.com/feeds/posts/default",
+                "feedId": "feed/http://www.ehackingnews.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 999.44,
+                "id": "feed/http://securosis.com/feeds/blog-complete",
+                "feedId": "feed/http://securosis.com/feeds/blog-complete",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 981.41,
+                "id": "feed/http://www.eff.org/rss/updates.xml",
+                "feedId": "feed/http://www.eff.org/rss/updates.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 977.78,
+                "id": "feed/http://feeds.danielmiessler.com/danielmiessler",
+                "feedId": "feed/http://feeds.danielmiessler.com/danielmiessler",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 973.11,
+                "id": "feed/http://www.kb.cert.org/vulfeed/",
+                "feedId": "feed/http://www.kb.cert.org/vulfeed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 966.08,
+                "id": "feed/https://blogs.sans.org/computer-forensics/feed/",
+                "feedId": "feed/https://blogs.sans.org/computer-forensics/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 964.0,
+                "id": "feed/http://feeds.feedburner.com/Imperviews?format=xml",
+                "feedId": "feed/http://feeds.feedburner.com/Imperviews?format=xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 957.78,
+                "id": "feed/http://blog.cryptographyengineering.com/feeds/posts/default",
+                "feedId": "feed/http://blog.cryptographyengineering.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 951.68,
+                "id": "feed/http://blog.didierstevens.com/feed/",
+                "feedId": "feed/http://blog.didierstevens.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 946.85,
+                "id": "feed/http://www.lightbluetouchpaper.org/feed/",
+                "feedId": "feed/http://www.lightbluetouchpaper.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 945.2,
+                "id": "feed/http://research.zscaler.com/feeds/posts/default",
+                "feedId": "feed/http://research.zscaler.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 939.01,
+                "id": "feed/http://blog.tenablesecurity.com/atom.xml",
+                "feedId": "feed/http://blog.tenablesecurity.com/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 932.07,
+                "id": "feed/http://blog.crowdstrike.com/feed",
+                "feedId": "feed/http://blog.crowdstrike.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 930.93,
+                "id": "feed/http://blog.zeltser.com/rss",
+                "feedId": "feed/http://blog.zeltser.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 925.74,
+                "id": "feed/http://garwarner.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://garwarner.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 918.8,
+                "id": "feed/http://www.securitybloggersnetwork.com/feed/",
+                "feedId": "feed/http://www.securitybloggersnetwork.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 917.36,
+                "id": "feed/https://www.recordedfuture.com/feed/",
+                "feedId": "feed/https://www.recordedfuture.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 915.54,
+                "id": "feed/http://www.veracode.com/blog/feed/",
+                "feedId": "feed/http://www.veracode.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 901.73,
+                "id": "feed/http://blog.trailofbits.com/feed/",
+                "feedId": "feed/http://blog.trailofbits.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 900.58,
+                "id": "feed/http://blog.fox-it.com/feed/",
+                "feedId": "feed/http://blog.fox-it.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 899.78,
+                "id": "feed/http://feeds.feedburner.com/CyberArms",
+                "feedId": "feed/http://feeds.feedburner.com/CyberArms",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 895.1,
+                "id": "feed/http://www.offensive-security.com/feed/",
+                "feedId": "feed/http://www.offensive-security.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 894.34,
+                "id": "feed/http://www.virusbtn.com/library/feeds/news.rdf",
+                "feedId": "feed/http://www.virusbtn.com/library/feeds/news.rdf",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 891.0,
+                "id": "feed/https://community.qualys.com/blogs/securitylabs/feeds/posts",
+                "feedId": "feed/https://community.qualys.com/blogs/securitylabs/feeds/posts",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 890.06,
+                "id": "feed/http://blog.webroot.com/feed/",
+                "feedId": "feed/http://blog.webroot.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 887.32,
+                "id": "feed/http://www.ethicalhacker.net/index2.php?option=com_rss&feed=RSS2.0&no_html=1",
+                "feedId": "feed/http://www.ethicalhacker.net/index2.php?option=com_rss&feed=RSS2.0&no_html=1",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 884.73,
+                "id": "feed/http://hackmageddon.com/feed/",
+                "feedId": "feed/http://hackmageddon.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 884.73,
+                "id": "feed/http://feeds.feedblitz.com/thesecurityledger",
+                "feedId": "feed/http://feeds.feedblitz.com/thesecurityledger",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 882.68,
+                "id": "feed/http://www.riskiq.com/resources/blog/rss",
+                "feedId": "feed/http://www.riskiq.com/resources/blog/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 882.11,
+                "id": "feed/http://null-byte.wonderhowto.com/rss.xml",
+                "feedId": "feed/http://null-byte.wonderhowto.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 879.93,
+                "id": "feed/http://blog.portswigger.net/feeds/posts/default",
+                "feedId": "feed/http://blog.portswigger.net/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 879.73,
+                "id": "feed/http://www.imperialviolet.org/iv-rss.xml",
+                "feedId": "feed/http://www.imperialviolet.org/iv-rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 879.45,
+                "id": "feed/http://feeds.feedburner.com/Room362com",
+                "feedId": "feed/http://feeds.feedburner.com/Room362com",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 878.93,
+                "id": "feed/http://feeds.feedburner.com/HOTforSecurity",
+                "feedId": "feed/http://feeds.feedburner.com/HOTforSecurity",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 876.84,
+                "id": "feed/http://www.blackhillsinfosec.com/?feed=rss2",
+                "feedId": "feed/http://www.blackhillsinfosec.com/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 876.51,
+                "id": "feed/https://scotthelme.co.uk/feed/",
+                "feedId": "feed/https://scotthelme.co.uk/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 876.33,
+                "id": "feed/http://nvd.nist.gov/download/nvd-rss.xml",
+                "feedId": "feed/http://nvd.nist.gov/download/nvd-rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 874.9,
+                "id": "feed/http://www.hackinthebox.org/backend.php",
+                "feedId": "feed/http://www.hackinthebox.org/backend.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 874.05,
+                "id": "feed/http://feeds.feedburner.com/isc2Blog",
+                "feedId": "feed/http://feeds.feedburner.com/isc2Blog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": -1.0,
+                "id": "feed/http://www.us-cert.gov/channels/techalerts.rdf",
+                "feedId": "feed/http://www.us-cert.gov/channels/techalerts.rdf",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": -2.0,
+                "id": "feed/http://feeds.trendmicro.com/TrendMicroSimplySecurity",
+                "feedId": "feed/http://feeds.trendmicro.com/TrendMicroSimplySecurity",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": -3.0,
+                "id": "feed/http://www.us-cert.gov/channels/bulletins.rdf",
+                "feedId": "feed/http://www.us-cert.gov/channels/bulletins.rdf",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": -4.0,
+                "id": "feed/http://www.reddit.com/r/netsec/.rss",
+                "feedId": "feed/http://www.reddit.com/r/netsec/.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": -5.0,
+                "id": "feed/http://labs.alienvault.com/labs/index.php/feed/",
+                "feedId": "feed/http://labs.alienvault.com/labs/index.php/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": -6.0,
+                "id": "feed/https://securelist.com/feed/",
+                "feedId": "feed/https://securelist.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": -7.0,
+                "id": "feed/http://www.us-cert.gov/control_systems/xml/rss.xml",
+                "feedId": "feed/http://www.us-cert.gov/control_systems/xml/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": -8.0,
+                "id": "feed/http://blogs.technet.com/b/srd/rss.aspx",
+                "feedId": "feed/http://blogs.technet.com/b/srd/rss.aspx",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -9.0,
+                "id": "feed/http://feeds.feedburner.com/security-awareness-tip-of-the-day",
+                "feedId": "feed/http://feeds.feedburner.com/security-awareness-tip-of-the-day",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": -10.0,
+                "id": "feed/http://www.darkreading.com/rss_simple.asp?f_n=644&f_ln=Attacks/Breaches",
+                "feedId": "feed/http://www.darkreading.com/rss_simple.asp?f_n=644&f_ln=Attacks/Breaches",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": -11.0,
+                "id": "feed/http://www.csoonline.com/feed/attribute/41014",
+                "feedId": "feed/http://www.csoonline.com/feed/attribute/41014",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.32919167610818073,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 297365,
+                "topic": "tech",
+                "topicId": "tech"
+            },
+            {
+                "focusScore": 0.2758845933944135,
+                "bestFeedId": "feed/http://news.ycombinator.com/rss",
+                "size": 1390,
+                "topic": "hacker",
+                "topicId": "hacker"
+            },
+            {
+                "focusScore": 0.16563243730884117,
+                "bestFeedId": "feed/http://nvd.nist.gov/download/nvd-rss.xml",
+                "size": 949,
+                "topic": "vulnerabilities",
+                "topicId": "vulnerabilities"
+            },
+            {
+                "focusScore": 0.34561569707957246,
+                "bestFeedId": "feed/http://feeds.feedburner.com/OfficeOfInadequateSecurity",
+                "size": 891,
+                "topic": "privacy",
+                "topicId": "privacy"
+            },
+            {
+                "focusScore": 0.533525463571413,
+                "bestFeedId": "feed/https://blogs.sans.org/computer-forensics/feed/",
+                "size": 827,
+                "topic": "forensics",
+                "topicId": "forensics"
+            },
+            {
+                "focusScore": 0.21011661424403166,
+                "bestFeedId": "feed/http://www.malware-traffic-analysis.net/blog-entries.rss",
+                "size": 525,
+                "topic": "malware",
+                "topicId": "malware"
+            },
+            {
+                "focusScore": 0.120158297627804,
+                "bestFeedId": "feed/http://feeds.feedblitz.com/alienvault-blogs&x=1",
+                "size": 496,
+                "topic": "vendors",
+                "topicId": "vendors"
+            },
+            {
+                "focusScore": 0.22899998543338074,
+                "bestFeedId": "feed/http://publicintelligence.net/feed/rss/",
+                "size": 389,
+                "topic": "intelligence",
+                "topicId": "intelligence"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "tech",
+            "topicId": "tech"
+        },
+        "language": "en",
+        "size": 31995,
+        "topic": "security",
+        "topicId": "security"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/sec-tools.png",
+        "updated": 1604848904974,
+        "feedIds": [
+            "feed/http://createfeed.fivefilters.org/extract.php?url=n0where.net&in_id_or_class=&url_contains=",
+            "feed/http://www.toolswatch.org/feed/",
+            "feed/http://packetstormsecurity.org/tools.xml",
+            "feed/http://feeds.feedburner.com/PentestTools",
+            "feed/http://feeds2.feedburner.com/PenTestIT",
+            "feed/http://releases.portswigger.net/feeds/posts/default"
+        ],
+        "focusScore": 0.13390720130642667,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.030342148296109275,
+                "bestFeedId": "feed/http://createfeed.fivefilters.org/extract.php?url=n0where.net&in_id_or_class=&url_contains=",
+                "size": 44,
+                "topic": "security tools"
+            }
+        ],
+        "bestFeedId": "feed/http://createfeed.fivefilters.org/extract.php?url=n0where.net&in_id_or_class=&url_contains=",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 502.6,
+                "id": "feed/http://createfeed.fivefilters.org/extract.php?url=n0where.net&in_id_or_class=&url_contains=",
+                "feedId": "feed/http://createfeed.fivefilters.org/extract.php?url=n0where.net&in_id_or_class=&url_contains=",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 51.0,
+                "leoScore": 452.7,
+                "id": "feed/http://www.toolswatch.org/feed/",
+                "feedId": "feed/http://www.toolswatch.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 48.0,
+                "leoScore": 411.35,
+                "id": "feed/http://packetstormsecurity.org/tools.xml",
+                "feedId": "feed/http://packetstormsecurity.org/tools.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 43.0,
+                "leoScore": 400.45,
+                "id": "feed/http://feeds.feedburner.com/PentestTools",
+                "feedId": "feed/http://feeds.feedburner.com/PentestTools",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 38.0,
+                "leoScore": 315.37,
+                "id": "feed/http://feeds2.feedburner.com/PenTestIT",
+                "feedId": "feed/http://feeds2.feedburner.com/PenTestIT",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 33.0,
+                "leoScore": 219.25,
+                "id": "feed/http://releases.portswigger.net/feeds/posts/default",
+                "feedId": "feed/http://releases.portswigger.net/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.6855366764220115,
+                "bestFeedId": "feed/http://krebsonsecurity.com/feed/",
+                "size": 31995,
+                "topic": "security",
+                "topicId": "security"
+            },
+            {
+                "focusScore": 0.18651159034636366,
+                "bestFeedId": "feed/http://www.millersmiles.co.uk/millersmiles.xml",
+                "size": 50,
+                "topic": "phishing",
+                "topicId": "phishing"
+            },
+            {
+                "focusScore": 0.21011661424403166,
+                "bestFeedId": "feed/http://www.malware-traffic-analysis.net/blog-entries.rss",
+                "size": 525,
+                "topic": "malware",
+                "topicId": "malware"
+            },
+            {
+                "focusScore": 0.18329481230116249,
+                "bestFeedId": "feed/http://www.exploit-db.com/rss.php",
+                "size": 255,
+                "topic": "exploits",
+                "topicId": "exploits"
+            },
+            {
+                "focusScore": 0.402191804271021,
+                "bestFeedId": "feed/http://ctftime.org/writeups/rss/",
+                "size": 92,
+                "topic": "ctf",
+                "topicId": "ctf"
+            },
+            {
+                "focusScore": 0.14251038469172994,
+                "bestFeedId": "feed/http://feeds.feedburner.com/SANSPenTesting",
+                "size": 292,
+                "topic": "pentest",
+                "topicId": "pentest"
+            },
+            {
+                "focusScore": 0.13642523950548546,
+                "bestFeedId": "feed/http://software-security.sans.org/blog/feed/",
+                "size": 49,
+                "topic": "appsec",
+                "topicId": "appsec"
+            },
+            {
+                "focusScore": 0.08065952575727708,
+                "bestFeedId": "feed/http://seclists.org/rss/dailydave.rss",
+                "size": 85,
+                "topic": "mailing lists",
+                "topicId": "mailing-lists"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "security",
+            "topicId": "security"
+        },
+        "language": "en",
+        "size": 103,
+        "topic": "security tools",
+        "topicId": "sec-tools"
+    }
+]

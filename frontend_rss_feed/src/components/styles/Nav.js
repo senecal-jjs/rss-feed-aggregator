@@ -28,8 +28,8 @@ const NavItem = styled.li`
 
 const Anchor = styled.a`
     color: #b24342;
-    stroke: #b24342;
-    fill: #b24342;
+    stroke: slateblue;
+    fill: slateblue;
     text-decoration: none;
     font-weight: bold;
     margin: 5px;

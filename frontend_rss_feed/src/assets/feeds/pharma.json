@@ -1,0 +1,1436 @@
+[
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/pharma.png",
+        "updated": 1604848849649,
+        "feedIds": [
+            "feed/http://www.fiercepharma.com/feed",
+            "feed/http://www.fiercebiotech.com/feed",
+            "feed/http://rss.biospace.com/newsstory.rss",
+            "feed/http://www.pharmatimes.com/worldnews.rss.ashx",
+            "feed/http://endpts.com/feed/",
+            "feed/http://blogs.sciencemag.org/pipeline/feed",
+            "feed/http://www.ft.com/rss/companies/pharmaceuticals",
+            "feed/http://feeds.feedburner.com/LifeSciVC",
+            "feed/http://www.biopharmadive.com/feeds/news/",
+            "feed/http://feeds.feedburner.com/worldpharmanews",
+            "feed/http://www.sciencedaily.com/rss/plants_animals/biotechnology.xml",
+            "feed/http://feeds.feedburner.com/Xconomy_Life_Sciences",
+            "feed/http://topics.nytimes.com/top/news/health/diseasesconditionsandhealthtopics/drugspharmaceuticals/?rss=1",
+            "feed/http://www.pharmaceutical-business-review.com/rss",
+            "feed/http://feeds.feedburner.com/Cafepharma",
+            "feed/http://www.fda.gov/bbs/topics/news/rssPress.xml",
+            "feed/http://feeds.feedburner.com/eyeonfda/lpWT",
+            "feed/https://www.genengnews.com/feed/",
+            "feed/http://www.biocentury.com/rss/biotech-pharma-news",
+            "feed/http://www.outsourcing-pharma.com/feed/view/213220",
+            "feed/http://labiotech.eu/feed/",
+            "feed/https://feeds.feedblitz.com/scrip",
+            "feed/http://www.biopharma-reporter.com/feed/view/781372",
+            "feed/http://feeds.feedburner.com/BiotechBlog",
+            "feed/https://feeds.feedblitz.com/pink",
+            "feed/http://www.fdalawblog.net/fda_law_blog_hyman_phelps/atom.xml",
+            "feed/http://feeds.drugs.com/Drugscom-ClinicalTrials",
+            "feed/http://www.plengegen.com/feed/",
+            "feed/http://feeds.feedburner.com/EuropeanPharmaceuticalReview",
+            "feed/http://social.eyeforpharma.com/rss.xml",
+            "feed/http://biotechstrategyblog.com/feed/",
+            "feed/http://www.forbes.com/healthcare/index.xml",
+            "feed/http://feeds.feedburner.com/DrugChannels",
+            "feed/http://feeds.feedburner.com/pharmaphorum",
+            "feed/https://www.drugdeliverybusiness.com/feed/",
+            "feed/http://feeds.feedburner.com/ContractPharmaBreakingNews",
+            "feed/http://feeds.feedburner.com/ScienceblogsChannelLifeScience",
+            "feed/http://www.guardian.co.uk/business/pharmaceuticals-industry/rss",
+            "feed/http://blog.addgene.org/rss.xml",
+            "feed/http://www.chinabiotoday.com/feed.rdf",
+            "feed/http://www.statnews.com/feed/",
+            "feed/http://www.thepharmaletter.com/media/www/rss/all_news__articles_rss.xml",
+            "feed/http://www.pharmabiz.com/Includes/xmlInclude/Pharmabizrss.xml",
+            "feed/http://www.gabionline.net/rss/feed/general",
+            "feed/http://www.roche.com/med_news_xml.xml",
+            "feed/http://www.pmlive.com/rss/news",
+            "feed/http://www.pharmafile.com/rssfeed",
+            "feed/http://www.nature.com/nbt/current_issue/rss/",
+            "feed/http://medicalfutility.blogspot.com/feeds/posts/default",
+            "feed/http://www.novartis.com/rss/en.xml",
+            "feed/http://bioengineer.org/feed/",
+            "feed/http://synbiobeta.com/feed/",
+            "feed/https://www.ema.europa.eu/en/whats-new.xml",
+            "feed/http://pharmaceuticalcommerce.com/feed/",
+            "feed/http://www.pharmalive.com/feed/",
+            "feed/https://drug-hunter.com/feed/",
+            "feed/http://medicalxpress.com/rss-feed/",
+            "feed/http://www.physorg.com/rss-feed/biology-news/microbiology/",
+            "feed/http://www.pharmavoice.com/feed/",
+            "feed/http://www.fdanews.com/rss/topic/115-regulatory-affairs",
+            "feed/https://www.genomeweb.com/breaking-news/rss",
+            "feed/http://www.pharmamanufacturing.com/?mode=rss",
+            "feed/http://www.bio-itworld.com/RSS/BioIT_WorldNews_RSS.aspx",
+            "feed/http://catalyst.phrma.org/rss.xml",
+            "feed/http://feeds.feedburner.com/TheLifeSciencesReport-StreetwiseExclusiveArticles",
+            "feed/http://www.genetherapynet.com/index.php?format=feed&type=rss",
+            "feed/https://www.pharmaceutical-technology.com/feed/",
+            "feed/https://www.astrazeneca.com/rss.xml",
+            "feed/http://feeds.businesswire.com/BW/Pharmaceutical-rss",
+            "feed/http://www.raps.org/RSSFeed.aspx",
+            "feed/http://web.mit.edu/newsoffice/topic/mitbio-bioeng-biotech-rss.xml",
+            "feed/http://epigenie.com/feed/",
+            "feed/http://sanofi.mediaroom.com/index.php?s=33507&pagetemplate=rss",
+            "feed/http://www.nature.com/subjects/biotechnology.rss",
+            "feed/http://www.regulations.gov/rssstreamer?id=FDA",
+            "feed/https://www.gsk.com/en-gb/media/rss/",
+            "feed/http://www.bioprocessintl.com/feed/",
+            "feed/https://feeds.feedblitz.com/invivo",
+            "feed/http://www.fiercebiotechresearch.com/feed",
+            "feed/https://feedity.com/biospace-com/WlpaVlNQ.rss",
+            "feed/http://www.forbes.com/sites/johnlamattina/feed/",
+            "feed/http://feeds.drugs.com/Drugscom-NewDrugApplications",
+            "feed/https://endpts.com/feed/",
+            "feed/http://feeds.feedburner.com/Xconomy_Full",
+            "feed/http://www.fiercebiotech.com/rss/xml",
+            "feed/http://www.fiercepharmamarketing.com/feed",
+            "feed/http://feeds.drugs.com/Drugscom-HeadlineNews",
+            "feed/http://www.fiercepharma.com/rss/xml",
+            "feed/http://www.ema.europa.eu/ema/pages/rss/news.xml",
+            "feed/http://www.cafepharma.com/rss.xml",
+            "feed/http://www.biocentury.com/rss/dailynews",
+            "feed/http://feeds.drugs.com/Drugscom-FdaMedwatchAlerts",
+            "feed/http://www.physorg.com/rss-feed/biology-news/biotechnology/",
+            "feed/http://www.pmlive.com/rss/sitewide",
+            "feed/http://www.fiercepharmamanufacturing.com/feed",
+            "feed/http://feeds.drugs.com/Drugscom-NewDrugApprovals",
+            "feed/http://www.forbes.com/sites/brucebooth/feed/",
+            "feed/http://www.fiercevaccines.com/feed",
+            "feed/http://www.fiercedrugdelivery.com/feed",
+            "feed/https://rss.sciencedaily.com/health_medicine/pharmaceuticals.xml"
+        ],
+        "focusScore": 0.445594713015352,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.2548026824363719,
+                "bestFeedId": "feed/http://www.fiercepharma.com/feed",
+                "size": 795,
+                "topic": "biotech"
+            }
+        ],
+        "bestFeedId": "feed/http://www.fiercepharma.com/feed",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 904.6,
+                "id": "feed/http://www.fiercepharma.com/feed",
+                "feedId": "feed/http://www.fiercepharma.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 890.18,
+                "id": "feed/http://www.fiercebiotech.com/feed",
+                "feedId": "feed/http://www.fiercebiotech.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 857.25,
+                "id": "feed/http://rss.biospace.com/newsstory.rss",
+                "feedId": "feed/http://rss.biospace.com/newsstory.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 791.81,
+                "id": "feed/http://www.pharmatimes.com/worldnews.rss.ashx",
+                "feedId": "feed/http://www.pharmatimes.com/worldnews.rss.ashx",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 758.11,
+                "id": "feed/http://endpts.com/feed/",
+                "feedId": "feed/http://endpts.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 68.0,
+                "leoScore": 733.85,
+                "id": "feed/http://blogs.sciencemag.org/pipeline/feed",
+                "feedId": "feed/http://blogs.sciencemag.org/pipeline/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 719.62,
+                "id": "feed/http://www.ft.com/rss/companies/pharmaceuticals",
+                "feedId": "feed/http://www.ft.com/rss/companies/pharmaceuticals",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 708.89,
+                "id": "feed/http://feeds.feedburner.com/LifeSciVC",
+                "feedId": "feed/http://feeds.feedburner.com/LifeSciVC",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 696.99,
+                "id": "feed/http://www.biopharmadive.com/feeds/news/",
+                "feedId": "feed/http://www.biopharmadive.com/feeds/news/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 686.48,
+                "id": "feed/http://feeds.feedburner.com/worldpharmanews",
+                "feedId": "feed/http://feeds.feedburner.com/worldpharmanews",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 684.06,
+                "id": "feed/http://www.sciencedaily.com/rss/plants_animals/biotechnology.xml",
+                "feedId": "feed/http://www.sciencedaily.com/rss/plants_animals/biotechnology.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 677.03,
+                "id": "feed/http://feeds.feedburner.com/Xconomy_Life_Sciences",
+                "feedId": "feed/http://feeds.feedburner.com/Xconomy_Life_Sciences",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 656.92,
+                "id": "feed/http://topics.nytimes.com/top/news/health/diseasesconditionsandhealthtopics/drugspharmaceuticals/?rss=1",
+                "feedId": "feed/http://topics.nytimes.com/top/news/health/diseasesconditionsandhealthtopics/drugspharmaceuticals/?rss=1",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 649.73,
+                "id": "feed/http://www.pharmaceutical-business-review.com/rss",
+                "feedId": "feed/http://www.pharmaceutical-business-review.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 648.47,
+                "id": "feed/http://feeds.feedburner.com/Cafepharma",
+                "feedId": "feed/http://feeds.feedburner.com/Cafepharma",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 68.0,
+                "leoScore": 632.81,
+                "id": "feed/http://www.fda.gov/bbs/topics/news/rssPress.xml",
+                "feedId": "feed/http://www.fda.gov/bbs/topics/news/rssPress.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 619.84,
+                "id": "feed/http://feeds.feedburner.com/eyeonfda/lpWT",
+                "feedId": "feed/http://feeds.feedburner.com/eyeonfda/lpWT",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 599.06,
+                "id": "feed/https://www.genengnews.com/feed/",
+                "feedId": "feed/https://www.genengnews.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 599.06,
+                "id": "feed/http://www.biocentury.com/rss/biotech-pharma-news",
+                "feedId": "feed/http://www.biocentury.com/rss/biotech-pharma-news",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 582.94,
+                "id": "feed/http://www.outsourcing-pharma.com/feed/view/213220",
+                "feedId": "feed/http://www.outsourcing-pharma.com/feed/view/213220",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 572.22,
+                "id": "feed/http://labiotech.eu/feed/",
+                "feedId": "feed/http://labiotech.eu/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 563.39,
+                "id": "feed/https://feeds.feedblitz.com/scrip",
+                "feedId": "feed/https://feeds.feedblitz.com/scrip",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 560.59,
+                "id": "feed/http://www.biopharma-reporter.com/feed/view/781372",
+                "feedId": "feed/http://www.biopharma-reporter.com/feed/view/781372",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 547.87,
+                "id": "feed/http://feeds.feedburner.com/BiotechBlog",
+                "feedId": "feed/http://feeds.feedburner.com/BiotechBlog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 536.21,
+                "id": "feed/https://feeds.feedblitz.com/pink",
+                "feedId": "feed/https://feeds.feedblitz.com/pink",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 69.0,
+                "leoScore": 536.0,
+                "id": "feed/http://www.fdalawblog.net/fda_law_blog_hyman_phelps/atom.xml",
+                "feedId": "feed/http://www.fdalawblog.net/fda_law_blog_hyman_phelps/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 534.7,
+                "id": "feed/http://feeds.drugs.com/Drugscom-ClinicalTrials",
+                "feedId": "feed/http://feeds.drugs.com/Drugscom-ClinicalTrials",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 522.66,
+                "id": "feed/http://www.plengegen.com/feed/",
+                "feedId": "feed/http://www.plengegen.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 522.17,
+                "id": "feed/http://feeds.feedburner.com/EuropeanPharmaceuticalReview",
+                "feedId": "feed/http://feeds.feedburner.com/EuropeanPharmaceuticalReview",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 521.86,
+                "id": "feed/http://social.eyeforpharma.com/rss.xml",
+                "feedId": "feed/http://social.eyeforpharma.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 521.86,
+                "id": "feed/http://biotechstrategyblog.com/feed/",
+                "feedId": "feed/http://biotechstrategyblog.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 47.0,
+                "leoScore": 518.44,
+                "id": "feed/http://www.forbes.com/healthcare/index.xml",
+                "feedId": "feed/http://www.forbes.com/healthcare/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 66.0,
+                "leoScore": 516.55,
+                "id": "feed/http://feeds.feedburner.com/DrugChannels",
+                "feedId": "feed/http://feeds.feedburner.com/DrugChannels",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 70.0,
+                "leoScore": 511.9,
+                "id": "feed/http://feeds.feedburner.com/pharmaphorum",
+                "feedId": "feed/http://feeds.feedburner.com/pharmaphorum",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 509.78,
+                "id": "feed/https://www.drugdeliverybusiness.com/feed/",
+                "feedId": "feed/https://www.drugdeliverybusiness.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 507.73,
+                "id": "feed/http://feeds.feedburner.com/ContractPharmaBreakingNews",
+                "feedId": "feed/http://feeds.feedburner.com/ContractPharmaBreakingNews",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 504.44,
+                "id": "feed/http://feeds.feedburner.com/ScienceblogsChannelLifeScience",
+                "feedId": "feed/http://feeds.feedburner.com/ScienceblogsChannelLifeScience",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 503.49,
+                "id": "feed/http://www.guardian.co.uk/business/pharmaceuticals-industry/rss",
+                "feedId": "feed/http://www.guardian.co.uk/business/pharmaceuticals-industry/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 500.0,
+                "id": "feed/http://blog.addgene.org/rss.xml",
+                "feedId": "feed/http://blog.addgene.org/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 498.18,
+                "id": "feed/http://www.chinabiotoday.com/feed.rdf",
+                "feedId": "feed/http://www.chinabiotoday.com/feed.rdf",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 48.0,
+                "leoScore": 494.31,
+                "id": "feed/http://www.statnews.com/feed/",
+                "feedId": "feed/http://www.statnews.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 480.91,
+                "id": "feed/http://www.thepharmaletter.com/media/www/rss/all_news__articles_rss.xml",
+                "feedId": "feed/http://www.thepharmaletter.com/media/www/rss/all_news__articles_rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 480.74,
+                "id": "feed/http://www.pharmabiz.com/Includes/xmlInclude/Pharmabizrss.xml",
+                "feedId": "feed/http://www.pharmabiz.com/Includes/xmlInclude/Pharmabizrss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 480.55,
+                "id": "feed/http://www.gabionline.net/rss/feed/general",
+                "feedId": "feed/http://www.gabionline.net/rss/feed/general",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 476.49,
+                "id": "feed/http://www.roche.com/med_news_xml.xml",
+                "feedId": "feed/http://www.roche.com/med_news_xml.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 458.5,
+                "id": "feed/http://www.pmlive.com/rss/news",
+                "feedId": "feed/http://www.pmlive.com/rss/news",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 440.0,
+                "id": "feed/http://www.pharmafile.com/rssfeed",
+                "feedId": "feed/http://www.pharmafile.com/rssfeed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 41.0,
+                "leoScore": 429.26,
+                "id": "feed/http://www.nature.com/nbt/current_issue/rss/",
+                "feedId": "feed/http://www.nature.com/nbt/current_issue/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 427.53,
+                "id": "feed/http://medicalfutility.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://medicalfutility.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 415.0,
+                "id": "feed/http://www.novartis.com/rss/en.xml",
+                "feedId": "feed/http://www.novartis.com/rss/en.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 380.74,
+                "id": "feed/http://bioengineer.org/feed/",
+                "feedId": "feed/http://bioengineer.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 70.0,
+                "leoScore": 377.46,
+                "id": "feed/http://synbiobeta.com/feed/",
+                "feedId": "feed/http://synbiobeta.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 66.0,
+                "leoScore": 360.32,
+                "id": "feed/https://www.ema.europa.eu/en/whats-new.xml",
+                "feedId": "feed/https://www.ema.europa.eu/en/whats-new.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 358.5,
+                "id": "feed/http://pharmaceuticalcommerce.com/feed/",
+                "feedId": "feed/http://pharmaceuticalcommerce.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/http://www.pharmalive.com/feed/",
+                "feedId": "feed/http://www.pharmalive.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/https://drug-hunter.com/feed/",
+                "feedId": "feed/https://drug-hunter.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 41.0,
+                "leoScore": 330.93,
+                "id": "feed/http://medicalxpress.com/rss-feed/",
+                "feedId": "feed/http://medicalxpress.com/rss-feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 316.99,
+                "id": "feed/http://www.physorg.com/rss-feed/biology-news/microbiology/",
+                "feedId": "feed/http://www.physorg.com/rss-feed/biology-news/microbiology/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 67.0,
+                "leoScore": 314.93,
+                "id": "feed/http://www.pharmavoice.com/feed/",
+                "feedId": "feed/http://www.pharmavoice.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 52.0,
+                "leoScore": 307.16,
+                "id": "feed/http://www.fdanews.com/rss/topic/115-regulatory-affairs",
+                "feedId": "feed/http://www.fdanews.com/rss/topic/115-regulatory-affairs",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 60.0,
+                "leoScore": 305.25,
+                "id": "feed/https://www.genomeweb.com/breaking-news/rss",
+                "feedId": "feed/https://www.genomeweb.com/breaking-news/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 63.0,
+                "leoScore": 296.13,
+                "id": "feed/http://www.pharmamanufacturing.com/?mode=rss",
+                "feedId": "feed/http://www.pharmamanufacturing.com/?mode=rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 45.0,
+                "leoScore": 284.49,
+                "id": "feed/http://www.bio-itworld.com/RSS/BioIT_WorldNews_RSS.aspx",
+                "feedId": "feed/http://www.bio-itworld.com/RSS/BioIT_WorldNews_RSS.aspx",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 64.0,
+                "leoScore": 281.11,
+                "id": "feed/http://catalyst.phrma.org/rss.xml",
+                "feedId": "feed/http://catalyst.phrma.org/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 280.74,
+                "id": "feed/http://feeds.feedburner.com/TheLifeSciencesReport-StreetwiseExclusiveArticles",
+                "feedId": "feed/http://feeds.feedburner.com/TheLifeSciencesReport-StreetwiseExclusiveArticles",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 280.74,
+                "id": "feed/http://www.genetherapynet.com/index.php?format=feed&type=rss",
+                "feedId": "feed/http://www.genetherapynet.com/index.php?format=feed&type=rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 280.74,
+                "id": "feed/https://www.pharmaceutical-technology.com/feed/",
+                "feedId": "feed/https://www.pharmaceutical-technology.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 276.04,
+                "id": "feed/https://www.astrazeneca.com/rss.xml",
+                "feedId": "feed/https://www.astrazeneca.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 258.5,
+                "id": "feed/http://feeds.businesswire.com/BW/Pharmaceutical-rss",
+                "feedId": "feed/http://feeds.businesswire.com/BW/Pharmaceutical-rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 42.0,
+                "leoScore": 255.67,
+                "id": "feed/http://www.raps.org/RSSFeed.aspx",
+                "feedId": "feed/http://www.raps.org/RSSFeed.aspx",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 60.0,
+                "leoScore": 250.2,
+                "id": "feed/http://web.mit.edu/newsoffice/topic/mitbio-bioeng-biotech-rss.xml",
+                "feedId": "feed/http://web.mit.edu/newsoffice/topic/mitbio-bioeng-biotech-rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": 250.0,
+                "id": "feed/http://epigenie.com/feed/",
+                "feedId": "feed/http://epigenie.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 68.0,
+                "leoScore": 243.78,
+                "id": "feed/http://sanofi.mediaroom.com/index.php?s=33507&pagetemplate=rss",
+                "feedId": "feed/http://sanofi.mediaroom.com/index.php?s=33507&pagetemplate=rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 53.0,
+                "leoScore": 236.35,
+                "id": "feed/http://www.nature.com/subjects/biotechnology.rss",
+                "feedId": "feed/http://www.nature.com/subjects/biotechnology.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 48.0,
+                "leoScore": 235.53,
+                "id": "feed/http://www.regulations.gov/rssstreamer?id=FDA",
+                "feedId": "feed/http://www.regulations.gov/rssstreamer?id=FDA",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 63.0,
+                "leoScore": 233.13,
+                "id": "feed/https://www.gsk.com/en-gb/media/rss/",
+                "feedId": "feed/https://www.gsk.com/en-gb/media/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 70.0,
+                "leoScore": 232.53,
+                "id": "feed/http://www.bioprocessintl.com/feed/",
+                "feedId": "feed/http://www.bioprocessintl.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 232.19,
+                "id": "feed/https://feeds.feedblitz.com/invivo",
+                "feedId": "feed/https://feeds.feedblitz.com/invivo",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": -1.0,
+                "id": "feed/http://www.fiercebiotechresearch.com/feed",
+                "feedId": "feed/http://www.fiercebiotechresearch.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 68.0,
+                "leoScore": -2.0,
+                "id": "feed/https://feedity.com/biospace-com/WlpaVlNQ.rss",
+                "feedId": "feed/https://feedity.com/biospace-com/WlpaVlNQ.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": -3.0,
+                "id": "feed/http://www.forbes.com/sites/johnlamattina/feed/",
+                "feedId": "feed/http://www.forbes.com/sites/johnlamattina/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": -4.0,
+                "id": "feed/http://feeds.drugs.com/Drugscom-NewDrugApplications",
+                "feedId": "feed/http://feeds.drugs.com/Drugscom-NewDrugApplications",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -5.0,
+                "id": "feed/https://endpts.com/feed/",
+                "feedId": "feed/https://endpts.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 45.0,
+                "leoScore": -6.0,
+                "id": "feed/http://feeds.feedburner.com/Xconomy_Full",
+                "feedId": "feed/http://feeds.feedburner.com/Xconomy_Full",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": -7.0,
+                "id": "feed/http://www.fiercebiotech.com/rss/xml",
+                "feedId": "feed/http://www.fiercebiotech.com/rss/xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": -8.0,
+                "id": "feed/http://www.fiercepharmamarketing.com/feed",
+                "feedId": "feed/http://www.fiercepharmamarketing.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 70.0,
+                "leoScore": -9.0,
+                "id": "feed/http://feeds.drugs.com/Drugscom-HeadlineNews",
+                "feedId": "feed/http://feeds.drugs.com/Drugscom-HeadlineNews",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -10.0,
+                "id": "feed/http://www.fiercepharma.com/rss/xml",
+                "feedId": "feed/http://www.fiercepharma.com/rss/xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 58.0,
+                "leoScore": -11.0,
+                "id": "feed/http://www.ema.europa.eu/ema/pages/rss/news.xml",
+                "feedId": "feed/http://www.ema.europa.eu/ema/pages/rss/news.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -12.0,
+                "id": "feed/http://www.cafepharma.com/rss.xml",
+                "feedId": "feed/http://www.cafepharma.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 64.0,
+                "leoScore": -13.0,
+                "id": "feed/http://www.biocentury.com/rss/dailynews",
+                "feedId": "feed/http://www.biocentury.com/rss/dailynews",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 56.0,
+                "leoScore": -14.0,
+                "id": "feed/http://feeds.drugs.com/Drugscom-FdaMedwatchAlerts",
+                "feedId": "feed/http://feeds.drugs.com/Drugscom-FdaMedwatchAlerts",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 55.0,
+                "leoScore": -15.0,
+                "id": "feed/http://www.physorg.com/rss-feed/biology-news/biotechnology/",
+                "feedId": "feed/http://www.physorg.com/rss-feed/biology-news/biotechnology/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": -16.0,
+                "id": "feed/http://www.pmlive.com/rss/sitewide",
+                "feedId": "feed/http://www.pmlive.com/rss/sitewide",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -17.0,
+                "id": "feed/http://www.fiercepharmamanufacturing.com/feed",
+                "feedId": "feed/http://www.fiercepharmamanufacturing.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 59.0,
+                "leoScore": -18.0,
+                "id": "feed/http://feeds.drugs.com/Drugscom-NewDrugApprovals",
+                "feedId": "feed/http://feeds.drugs.com/Drugscom-NewDrugApprovals",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": -19.0,
+                "id": "feed/http://www.forbes.com/sites/brucebooth/feed/",
+                "feedId": "feed/http://www.forbes.com/sites/brucebooth/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": -20.0,
+                "id": "feed/http://www.fiercevaccines.com/feed",
+                "feedId": "feed/http://www.fiercevaccines.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": -21.0,
+                "id": "feed/http://www.fiercedrugdelivery.com/feed",
+                "feedId": "feed/http://www.fiercedrugdelivery.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 63.0,
+                "leoScore": -22.0,
+                "id": "feed/https://rss.sciencedaily.com/health_medicine/pharmaceuticals.xml",
+                "feedId": "feed/https://rss.sciencedaily.com/health_medicine/pharmaceuticals.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.39285699156302273,
+                "bestFeedId": "feed/http://www.sciam.com/xml/sciam.xml",
+                "size": 70517,
+                "topic": "science",
+                "topicId": "science"
+            },
+            {
+                "focusScore": 0.5593902465181965,
+                "bestFeedId": "feed/http://www.fda.gov/bbs/topics/news/rssPress.xml",
+                "size": 213,
+                "topic": "fda",
+                "topicId": "fda"
+            },
+            {
+                "focusScore": 0.49166666666666664,
+                "bestFeedId": "feed/http://clinicaltrials.pharmaceutical-business-review.com/rss",
+                "size": 81,
+                "topic": "clinical trials",
+                "topicId": "clinical-trials"
+            },
+            {
+                "focusScore": 0.0961809956494311,
+                "bestFeedId": "feed/http://www.physorg.com/rss-feed/biology-news/biotechnology/",
+                "size": 80,
+                "topic": "biotechnology",
+                "topicId": "biotechnology"
+            },
+            {
+                "focusScore": 0.3795447210973562,
+                "bestFeedId": "feed/http://healthcare-economist.com/feed/",
+                "size": 3475,
+                "topic": "healthcare",
+                "topicId": "healthcare"
+            },
+            {
+                "focusScore": 0.439547088819381,
+                "bestFeedId": "feed/http://www.mddionline.com/feed",
+                "size": 254,
+                "topic": "medical devices",
+                "topicId": "medical-devices"
+            },
+            {
+                "focusScore": 0.12862858913037617,
+                "bestFeedId": "feed/http://feeds.feedburner.com/acs/amclct",
+                "size": 75,
+                "topic": "med chem",
+                "topicId": "med-chem"
+            },
+            {
+                "focusScore": 0.46716107446060223,
+                "bestFeedId": "feed/http://liorpachter.wordpress.com/feed/",
+                "size": 746,
+                "topic": "bioinformatics",
+                "topicId": "bioinformatics"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "science",
+            "topicId": "science"
+        },
+        "language": "en",
+        "size": 2131,
+        "topic": "pharma",
+        "topicId": "pharma"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/pharmacy.png",
+        "updated": 1604848886895,
+        "feedIds": [
+            "feed/http://www.medscape.com/cx/rssfeeds/2691.xml",
+            "feed/http://www.pharmacist.com/rss",
+            "feed/http://feeds.feedburner.com/ThePeoplesPharmacy",
+            "feed/http://www.ajhp.org/rss/current.xml",
+            "feed/http://www.pharmacyjoe.com/feed/",
+            "feed/http://feeds.pjonline.com/pjonline/news",
+            "feed/https://www.meded101.com/feed/",
+            "feed/http://www.pharmacypracticenews.com/RSS/RSS.xml",
+            "feed/http://www.accp.com/rss/announcements.aspx",
+            "feed/http://www.pharmacynews.com.au/rss.xml",
+            "feed/https://www.tldrpharmacy.com/content?format=RSS",
+            "feed/http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1875-9114",
+            "feed/http://psnc.org.uk/feed/?post_type=our-latest-news",
+            "feed/http://crazyrxman.blogspot.com/feeds/posts/default",
+            "feed/http://feeds.feedburner.com/co/glhY",
+            "feed/http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/MedWatch/rss.xml",
+            "feed/http://feeds.rpharms.com/rps_latest_news",
+            "feed/http://thecynicalpharmacist.blogspot.com/feeds/posts/default",
+            "feed/http://www.pharmacytoday.org/current.rss",
+            "feed/http://www.thethrivingpharmacist.com/feed/",
+            "feed/http://ejhp.bmj.com/rss/current.xml",
+            "feed/http://www.tga.gov.au/xml/rss-tga-news-latest.xml",
+            "feed/http://www.specialtypharmacycontinuum.com/RSS/RSS.xml",
+            "feed/http://drugstorenews.com/taxonomy/term/1/feed",
+            "feed/http://www.ti.ubc.ca/feed/",
+            "feed/http://feeds.feedburner.com/DrugChannels",
+            "feed/http://yourfinancialpharmacist.com/feed/",
+            "feed/http://topics.nytimes.com/top/news/health/diseasesconditionsandhealthtopics/drugspharmaceuticals/?rss=1",
+            "feed/http://www.jwatch.org/general-medicine/rss",
+            "feed/http://feeds.drugs.com/Drugscom-NewDrugApprovals",
+            "feed/http://www.pharmatimes.com/rss/pharmatimes_website_rss.rss",
+            "feed/http://www.thepharmaletter.com/media/www/rss/all_news__articles_rss.xml",
+            "feed/https://pharmertoxguy.com/feed/",
+            "feed/http://www.aphadruginfoline.com/rss.xml",
+            "feed/http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-2710",
+            "feed/http://www.fda.gov/bbs/topics/news/rssPress.xml",
+            "feed/http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)2042-7174",
+            "feed/http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/Drugs/rss.xml",
+            "feed/http://feeds.drugs.com/Drugscom-HeadlineNews",
+            "feed/http://www.pharmatimes.com/worldnews.rss.ashx",
+            "feed/http://feeds.drugs.com/Drugscom-ClinicalTrials"
+        ],
+        "focusScore": 0.475608839001781,
+        "duplicateTopics": [],
+        "bestFeedId": "feed/http://www.medscape.com/cx/rssfeeds/2691.xml",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 581.99,
+                "id": "feed/http://www.medscape.com/cx/rssfeeds/2691.xml",
+                "feedId": "feed/http://www.medscape.com/cx/rssfeeds/2691.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 504.11,
+                "id": "feed/http://www.pharmacist.com/rss",
+                "feedId": "feed/http://www.pharmacist.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 432.19,
+                "id": "feed/http://feeds.feedburner.com/ThePeoplesPharmacy",
+                "feedId": "feed/http://feeds.feedburner.com/ThePeoplesPharmacy",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 418.43,
+                "id": "feed/http://www.ajhp.org/rss/current.xml",
+                "feedId": "feed/http://www.ajhp.org/rss/current.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 380.74,
+                "id": "feed/http://www.pharmacyjoe.com/feed/",
+                "feedId": "feed/http://www.pharmacyjoe.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 73.0,
+                "leoScore": 380.29,
+                "id": "feed/http://feeds.pjonline.com/pjonline/news",
+                "feedId": "feed/http://feeds.pjonline.com/pjonline/news",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 358.5,
+                "id": "feed/https://www.meded101.com/feed/",
+                "feedId": "feed/https://www.meded101.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 342.35,
+                "id": "feed/http://www.pharmacypracticenews.com/RSS/RSS.xml",
+                "feedId": "feed/http://www.pharmacypracticenews.com/RSS/RSS.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 316.99,
+                "id": "feed/http://www.accp.com/rss/announcements.aspx",
+                "feedId": "feed/http://www.accp.com/rss/announcements.aspx",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 316.99,
+                "id": "feed/http://www.pharmacynews.com.au/rss.xml",
+                "feedId": "feed/http://www.pharmacynews.com.au/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 73.0,
+                "leoScore": 315.5,
+                "id": "feed/https://www.tldrpharmacy.com/content?format=RSS",
+                "feedId": "feed/https://www.tldrpharmacy.com/content?format=RSS",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 73.0,
+                "leoScore": 310.1,
+                "id": "feed/http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1875-9114",
+                "feedId": "feed/http://onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1875-9114",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 300.0,
+                "id": "feed/http://psnc.org.uk/feed/?post_type=our-latest-news",
+                "feedId": "feed/http://psnc.org.uk/feed/?post_type=our-latest-news",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": 281.74,
+                "id": "feed/http://crazyrxman.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://crazyrxman.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 280.74,
+                "id": "feed/http://feeds.feedburner.com/co/glhY",
+                "feedId": "feed/http://feeds.feedburner.com/co/glhY",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 38.0,
+                "leoScore": 274.7,
+                "id": "feed/http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/MedWatch/rss.xml",
+                "feedId": "feed/http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/MedWatch/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 258.5,
+                "id": "feed/http://feeds.rpharms.com/rps_latest_news",
+                "feedId": "feed/http://feeds.rpharms.com/rps_latest_news",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 258.5,
+                "id": "feed/http://thecynicalpharmacist.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://thecynicalpharmacist.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 232.19,
+                "id": "feed/http://www.pharmacytoday.org/current.rss",
+                "feedId": "feed/http://www.pharmacytoday.org/current.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 200.0,
+                "id": "feed/http://www.thethrivingpharmacist.com/feed/",
+                "feedId": "feed/http://www.thethrivingpharmacist.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 200.0,
+                "id": "feed/http://ejhp.bmj.com/rss/current.xml",
+                "feedId": "feed/http://ejhp.bmj.com/rss/current.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 60.0,
+                "leoScore": 199.32,
+                "id": "feed/http://www.tga.gov.au/xml/rss-tga-news-latest.xml",
+                "feedId": "feed/http://www.tga.gov.au/xml/rss-tga-news-latest.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": 190.37,
+                "id": "feed/http://www.specialtypharmacycontinuum.com/RSS/RSS.xml",
+                "feedId": "feed/http://www.specialtypharmacycontinuum.com/RSS/RSS.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 55.0,
+                "leoScore": 190.27,
+                "id": "feed/http://drugstorenews.com/taxonomy/term/1/feed",
+                "feedId": "feed/http://drugstorenews.com/taxonomy/term/1/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 158.5,
+                "id": "feed/http://www.ti.ubc.ca/feed/",
+                "feedId": "feed/http://www.ti.ubc.ca/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 19.0,
+                "leoScore": 148.7,
+                "id": "feed/http://feeds.feedburner.com/DrugChannels",
+                "feedId": "feed/http://feeds.feedburner.com/DrugChannels",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 38.0,
+                "leoScore": 114.0,
+                "id": "feed/http://yourfinancialpharmacist.com/feed/",
+                "feedId": "feed/http://yourfinancialpharmacist.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 13.0,
+                "leoScore": 104.15,
+                "id": "feed/http://topics.nytimes.com/top/news/health/diseasesconditionsandhealthtopics/drugspharmaceuticals/?rss=1",
+                "feedId": "feed/http://topics.nytimes.com/top/news/health/diseasesconditionsandhealthtopics/drugspharmaceuticals/?rss=1",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 15.0,
+                "leoScore": 89.31,
+                "id": "feed/http://www.jwatch.org/general-medicine/rss",
+                "feedId": "feed/http://www.jwatch.org/general-medicine/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 15.0,
+                "leoScore": 74.31,
+                "id": "feed/http://feeds.drugs.com/Drugscom-NewDrugApprovals",
+                "feedId": "feed/http://feeds.drugs.com/Drugscom-NewDrugApprovals",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 14.0,
+                "leoScore": 61.49,
+                "id": "feed/http://www.pharmatimes.com/rss/pharmatimes_website_rss.rss",
+                "feedId": "feed/http://www.pharmatimes.com/rss/pharmatimes_website_rss.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 9.0,
+                "leoScore": 54.79,
+                "id": "feed/http://www.thepharmaletter.com/media/www/rss/all_news__articles_rss.xml",
+                "feedId": "feed/http://www.thepharmaletter.com/media/www/rss/all_news__articles_rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 6.0,
+                "leoScore": 39.23,
+                "id": "feed/https://pharmertoxguy.com/feed/",
+                "feedId": "feed/https://pharmertoxguy.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -1.0,
+                "id": "feed/http://www.aphadruginfoline.com/rss.xml",
+                "feedId": "feed/http://www.aphadruginfoline.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -2.0,
+                "id": "feed/http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-2710",
+                "feedId": "feed/http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)1365-2710",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 25.0,
+                "leoScore": -3.0,
+                "id": "feed/http://www.fda.gov/bbs/topics/news/rssPress.xml",
+                "feedId": "feed/http://www.fda.gov/bbs/topics/news/rssPress.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -4.0,
+                "id": "feed/http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)2042-7174",
+                "feedId": "feed/http://onlinelibrary.wiley.com/rss/journal/10.1111/(ISSN)2042-7174",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 24.0,
+                "leoScore": -5.0,
+                "id": "feed/http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/Drugs/rss.xml",
+                "feedId": "feed/http://www.fda.gov/AboutFDA/ContactFDA/StayInformed/RSSFeeds/Drugs/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 11.0,
+                "leoScore": -6.0,
+                "id": "feed/http://feeds.drugs.com/Drugscom-HeadlineNews",
+                "feedId": "feed/http://feeds.drugs.com/Drugscom-HeadlineNews",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 6.0,
+                "leoScore": -7.0,
+                "id": "feed/http://www.pharmatimes.com/worldnews.rss.ashx",
+                "feedId": "feed/http://www.pharmatimes.com/worldnews.rss.ashx",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 3.0,
+                "leoScore": -8.0,
+                "id": "feed/http://feeds.drugs.com/Drugscom-ClinicalTrials",
+                "feedId": "feed/http://feeds.drugs.com/Drugscom-ClinicalTrials",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.43306956016876574,
+                "bestFeedId": "feed/http://content.nejm.org/rss/current.xml",
+                "size": 5160,
+                "topic": "medicine",
+                "topicId": "medicine"
+            },
+            {
+                "focusScore": 0.36579875837179693,
+                "bestFeedId": "feed/http://feeds.feedburner.com/emcritpodcasts",
+                "size": 109,
+                "topic": "critical care",
+                "topicId": "critical-care"
+            },
+            {
+                "focusScore": 0.5865974991894629,
+                "bestFeedId": "feed/http://academiclifeinem.com/?feed=rss2",
+                "size": 988,
+                "topic": "emergency medicine",
+                "topicId": "emergency-medicine"
+            },
+            {
+                "focusScore": 0.5560674906946692,
+                "bestFeedId": "feed/http://www.ultrasoundgel.org/feed/",
+                "size": 61,
+                "topic": "ultrasound",
+                "topicId": "ultrasound"
+            },
+            {
+                "focusScore": 0.17421640698841437,
+                "bestFeedId": "feed/http://hqmeded-ecg.blogspot.com/feeds/posts/default",
+                "size": 68,
+                "topic": "ecg",
+                "topicId": "ecg"
+            },
+            {
+                "focusScore": 0.8108275297592472,
+                "bestFeedId": "feed/http://anesthesiology.pubs.asahq.org/rss/site_157/173.xml",
+                "size": 105,
+                "topic": "anesthesia",
+                "topicId": "anesthesia"
+            },
+            {
+                "focusScore": 0.7107273024334472,
+                "bestFeedId": "feed/http://www.medscape.com/cx/rssfeeds/2676.xml",
+                "size": 63,
+                "topic": "surgery",
+                "topicId": "surgery"
+            },
+            {
+                "focusScore": 0.8332043001632126,
+                "bestFeedId": "feed/http://archderm.jamanetwork.com/rss/site_12/68.xml",
+                "size": 57,
+                "topic": "dermatology",
+                "topicId": "dermatology"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "medicine",
+            "topicId": "medicine"
+        },
+        "language": "en",
+        "size": 243,
+        "topic": "pharmacy",
+        "topicId": "pharmacy"
+    }
+]

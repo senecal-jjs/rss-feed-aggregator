@@ -1,0 +1,1061 @@
+[
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/comics.png",
+        "updated": 1604848832798,
+        "feedIds": [
+            "feed/http://xkcd.com/rss.xml",
+            "feed/http://theoatmeal.com/feed/rss",
+            "feed/http://www.smbc-comics.com/rss.php",
+            "feed/http://www.questionablecontent.net/QCRSS.xml",
+            "feed/http://feeds.feedburner.com/DilbertDailyStrip",
+            "feed/http://feeds.feedburner.com/Explosm",
+            "feed/http://oglaf.com/feeds/rss/",
+            "feed/http://pbfcomics.com/feed/feed.xml",
+            "feed/http://www.penny-arcade.com/rss.xml",
+            "feed/http://www.giantitp.com/comics/oots.rss",
+            "feed/http://feeds.feedburner.com/PoorlyDrawnLines",
+            "feed/http://hyperboleandahalf.blogspot.com/feeds/posts/default",
+            "feed/http://rsspect.com/rss/qwantz.xml",
+            "feed/http://www.cad-comic.com/rss/rss.xml",
+            "feed/http://feeds.feedburner.com/failblog",
+            "feed/http://www.pvponline.com/feed/",
+            "feed/http://www.rsspect.com/rss/gunner.xml",
+            "feed/http://www.girlgeniusonline.com/ggmain.rss",
+            "feed/http://www.foxtrot.com/feed/",
+            "feed/http://www.theonion.com/content/feeds/daily",
+            "feed/http://feeds2.feedburner.com/rsspect/fJur",
+            "feed/http://www.lunarbaboon.com/comics/rss.xml",
+            "feed/http://feeds.feedburner.com/wondermark",
+            "feed/http://feeds.feedburner.com/satwcomic",
+            "feed/http://www.awkwardzombie.com/awkward.php",
+            "feed/http://buttersafe.com/feed/",
+            "feed/http://amultiverse.com/feed/",
+            "feed/http://feeds.feedburner.com/LICD?format=xml",
+            "feed/http://www.commitstrip.com/en/feed/",
+            "feed/http://www.fowllanguagecomics.com/feed/",
+            "feed/http://feeds.feedburner.com/CrackedRSS",
+            "feed/http://garfieldminusgarfield.net/rss",
+            "feed/http://existentialcomics.com/rss.xml",
+            "feed/http://feeds.feedburner.com/LookingForGroup",
+            "feed/http://thisisindexed.com/feed/",
+            "feed/http://awkwardyeti.com/feed/",
+            "feed/http://www.savagechickens.com/feed",
+            "feed/http://feeds.feedburner.com/Girls_With_Slingshots",
+            "feed/http://wdr1.com/blog/calvin_and_hobbes.rdf",
+            "feed/http://www.loadingartist.com/feed/",
+            "feed/http://www.dumbingofage.com/feed/",
+            "feed/http://www.somethingpositive.net/sp.xml",
+            "feed/http://channelate.com/feed/",
+            "feed/http://www.mrlovenstein.com/rss.xml",
+            "feed/http://feeds.feedburner.com/ICanHasCheezburger",
+            "feed/http://www.extrafabulouscomics.com/1/feed",
+            "feed/http://feeds.feedburner.com/Pidjin",
+            "feed/http://basicinstructions.net/basic-instructions/rss.xml",
+            "feed/http://www.tabletitans.com/feed",
+            "feed/http://www.threepanelsoul.com/rss.php",
+            "feed/http://feeds.feedburner.com/SchlockRSS",
+            "feed/http://www.dieselsweeties.com/ds-unifeed.xml",
+            "feed/http://badmachinery.com/index.xml",
+            "feed/http://www.darthsanddroids.net/rss.xml",
+            "feed/http://www.reallifecomics.com/index.xml",
+            "feed/http://killsixbilliondemons.com/?feed=rss2",
+            "feed/http://www.goblinscomic.com/feed/",
+            "feed/http://sssscomic.com/ssss-feed.xml",
+            "feed/http://www.lackadaisycats.com/rss/",
+            "feed/http://www.johnnywander.com/feed",
+            "feed/http://www.dorktower.com/feed/",
+            "feed/http://www.peopleofwalmart.com/?feed=rss2",
+            "feed/http://www.quotationspage.com/data/qotd.rss",
+            "feed/http://feeds.feedburner.com/nerfnow/full",
+            "feed/http://www.exocomics.com/feed",
+            "feed/http://www.jspowerhour.com/comics.rss",
+            "feed/http://paranatural.net/rss.php",
+            "feed/https://dyn.tedder.me/rss/farside/daily.json",
+            "feed/http://wildelifecomic.com/feed/",
+            "feed/http://feeds.feedburner.com/Lamebook",
+            "feed/http://www.joyoftech.com/joyoftech/jotblog/index.xml",
+            "feed/http://clientsfromhell.net/rss",
+            "feed/http://www.sheldoncomics.com/index.xml",
+            "feed/http://awkwardfamilyphotos.com/feed/",
+            "feed/http://www.ohjoysextoy.com/feed/",
+            "feed/http://www.drivecomic.com/index.xml",
+            "feed/http://www.incidentalcomics.com/feeds/posts/default",
+            "feed/http://www.megatokyo.com/rss/megatokyo.xml",
+            "feed/http://www.darklegacycomics.com/feed.xml",
+            "feed/http://www.egscomics.com/rss.php",
+            "feed/http://www.toothpastefordinner.com/rss/rss.php",
+            "feed/http://thebloggess.com/feed/",
+            "feed/http://www.powernapcomic.com/index.xml",
+            "feed/http://buttsmithy.com/?feed=rss2",
+            "feed/http://www.last-halloween.com/posts.rss",
+            "feed/http://twokinds.keenspot.com/rss.php",
+            "feed/http://feeds.feedburner.com/VeryDemotivational",
+            "feed/http://www.catanacomics.com/rss",
+            "feed/http://www.comicbookresources.com/feed.php?feed=all",
+            "feed/http://feeds.feedburner.com/GrrlPower",
+            "feed/http://feeds.feedburner.com/zeefeed",
+            "feed/http://feeds.feedburner.com/sluggy_freelance",
+            "feed/http://galliver.cx/feeds/comics/calvinandhobbes/",
+            "feed/http://www.gogetaroomie.com/rss.php",
+            "feed/http://www.monkeyuser.com/feed.xml",
+            "feed/http://feeds.feedburner.com/sandraandwoo",
+            "feed/http://thedevilspanties.com/feed",
+            "feed/http://feeds.feedburner.com/Optipess",
+            "feed/http://www.octopuspie.com/feed/",
+            "feed/http://www.sleeplessdomain.com/rss.php"
+        ],
+        "focusScore": 0.6930201407134914,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.08940448528986038,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 22698,
+                "topic": "fun"
+            },
+            {
+                "focusScore": 0.18996498162217185,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 18426,
+                "topic": "humor"
+            },
+            {
+                "focusScore": 0.15254649975864493,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 9867,
+                "topic": "funny"
+            },
+            {
+                "focusScore": 0.2077451676563243,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 5702,
+                "topic": "webcomics"
+            },
+            {
+                "focusScore": 0.06302541125891206,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 3072,
+                "topic": "humour"
+            },
+            {
+                "focusScore": 0.1771267480924224,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 2937,
+                "topic": "comedy"
+            },
+            {
+                "focusScore": 0.027390318467116478,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 2457,
+                "topic": "comic"
+            },
+            {
+                "focusScore": 0.044133952322640155,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 2065,
+                "topic": "web comics"
+            },
+            {
+                "focusScore": 0.031231639018289705,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 1088,
+                "topic": "cartoons"
+            },
+            {
+                "focusScore": 0.013200900592987447,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 971,
+                "topic": "funnies"
+            },
+            {
+                "focusScore": 0.05801498577601363,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 847,
+                "topic": "bd"
+            },
+            {
+                "focusScore": 0.014394695923763995,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 637,
+                "topic": "comix"
+            },
+            {
+                "focusScore": 0.018532809044396154,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 614,
+                "topic": "webcomic"
+            },
+            {
+                "focusScore": 0.020573251398142728,
+                "bestFeedId": "feed/http://xkcd.com/rss.xml",
+                "size": 487,
+                "topic": "lol"
+            }
+        ],
+        "bestFeedId": "feed/http://xkcd.com/rss.xml",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1582.45,
+                "id": "feed/http://xkcd.com/rss.xml",
+                "feedId": "feed/http://xkcd.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1472.51,
+                "id": "feed/http://theoatmeal.com/feed/rss",
+                "feedId": "feed/http://theoatmeal.com/feed/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1429.17,
+                "id": "feed/http://www.smbc-comics.com/rss.php",
+                "feedId": "feed/http://www.smbc-comics.com/rss.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1387.16,
+                "id": "feed/http://www.questionablecontent.net/QCRSS.xml",
+                "feedId": "feed/http://www.questionablecontent.net/QCRSS.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1380.56,
+                "id": "feed/http://feeds.feedburner.com/DilbertDailyStrip",
+                "feedId": "feed/http://feeds.feedburner.com/DilbertDailyStrip",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1352.28,
+                "id": "feed/http://feeds.feedburner.com/Explosm",
+                "feedId": "feed/http://feeds.feedburner.com/Explosm",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1332.69,
+                "id": "feed/http://oglaf.com/feeds/rss/",
+                "feedId": "feed/http://oglaf.com/feeds/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1320.45,
+                "id": "feed/http://pbfcomics.com/feed/feed.xml",
+                "feedId": "feed/http://pbfcomics.com/feed/feed.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1311.67,
+                "id": "feed/http://www.penny-arcade.com/rss.xml",
+                "feedId": "feed/http://www.penny-arcade.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1261.18,
+                "id": "feed/http://www.giantitp.com/comics/oots.rss",
+                "feedId": "feed/http://www.giantitp.com/comics/oots.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1259.13,
+                "id": "feed/http://feeds.feedburner.com/PoorlyDrawnLines",
+                "feedId": "feed/http://feeds.feedburner.com/PoorlyDrawnLines",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1247.49,
+                "id": "feed/http://hyperboleandahalf.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://hyperboleandahalf.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1241.28,
+                "id": "feed/http://rsspect.com/rss/qwantz.xml",
+                "feedId": "feed/http://rsspect.com/rss/qwantz.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1239.47,
+                "id": "feed/http://www.cad-comic.com/rss/rss.xml",
+                "feedId": "feed/http://www.cad-comic.com/rss/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1233.45,
+                "id": "feed/http://feeds.feedburner.com/failblog",
+                "feedId": "feed/http://feeds.feedburner.com/failblog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1201.96,
+                "id": "feed/http://www.pvponline.com/feed/",
+                "feedId": "feed/http://www.pvponline.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1184.12,
+                "id": "feed/http://www.rsspect.com/rss/gunner.xml",
+                "feedId": "feed/http://www.rsspect.com/rss/gunner.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1182.65,
+                "id": "feed/http://www.girlgeniusonline.com/ggmain.rss",
+                "feedId": "feed/http://www.girlgeniusonline.com/ggmain.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1165.42,
+                "id": "feed/http://www.foxtrot.com/feed/",
+                "feedId": "feed/http://www.foxtrot.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 1164.45,
+                "id": "feed/http://www.theonion.com/content/feeds/daily",
+                "feedId": "feed/http://www.theonion.com/content/feeds/daily",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1161.29,
+                "id": "feed/http://feeds2.feedburner.com/rsspect/fJur",
+                "feedId": "feed/http://feeds2.feedburner.com/rsspect/fJur",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1158.73,
+                "id": "feed/http://www.lunarbaboon.com/comics/rss.xml",
+                "feedId": "feed/http://www.lunarbaboon.com/comics/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1158.34,
+                "id": "feed/http://feeds.feedburner.com/wondermark",
+                "feedId": "feed/http://feeds.feedburner.com/wondermark",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1153.28,
+                "id": "feed/http://feeds.feedburner.com/satwcomic",
+                "feedId": "feed/http://feeds.feedburner.com/satwcomic",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1149.29,
+                "id": "feed/http://www.awkwardzombie.com/awkward.php",
+                "feedId": "feed/http://www.awkwardzombie.com/awkward.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1149.14,
+                "id": "feed/http://buttersafe.com/feed/",
+                "feedId": "feed/http://buttersafe.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1144.97,
+                "id": "feed/http://amultiverse.com/feed/",
+                "feedId": "feed/http://amultiverse.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1142.52,
+                "id": "feed/http://feeds.feedburner.com/LICD?format=xml",
+                "feedId": "feed/http://feeds.feedburner.com/LICD?format=xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1139.81,
+                "id": "feed/http://www.commitstrip.com/en/feed/",
+                "feedId": "feed/http://www.commitstrip.com/en/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1137.79,
+                "id": "feed/http://www.fowllanguagecomics.com/feed/",
+                "feedId": "feed/http://www.fowllanguagecomics.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 1134.93,
+                "id": "feed/http://feeds.feedburner.com/CrackedRSS",
+                "feedId": "feed/http://feeds.feedburner.com/CrackedRSS",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1134.03,
+                "id": "feed/http://garfieldminusgarfield.net/rss",
+                "feedId": "feed/http://garfieldminusgarfield.net/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1130.8,
+                "id": "feed/http://existentialcomics.com/rss.xml",
+                "feedId": "feed/http://existentialcomics.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1127.09,
+                "id": "feed/http://feeds.feedburner.com/LookingForGroup",
+                "feedId": "feed/http://feeds.feedburner.com/LookingForGroup",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1124.88,
+                "id": "feed/http://thisisindexed.com/feed/",
+                "feedId": "feed/http://thisisindexed.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1117.31,
+                "id": "feed/http://awkwardyeti.com/feed/",
+                "feedId": "feed/http://awkwardyeti.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1114.72,
+                "id": "feed/http://www.savagechickens.com/feed",
+                "feedId": "feed/http://www.savagechickens.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1110.46,
+                "id": "feed/http://feeds.feedburner.com/Girls_With_Slingshots",
+                "feedId": "feed/http://feeds.feedburner.com/Girls_With_Slingshots",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1107.98,
+                "id": "feed/http://wdr1.com/blog/calvin_and_hobbes.rdf",
+                "feedId": "feed/http://wdr1.com/blog/calvin_and_hobbes.rdf",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1106.34,
+                "id": "feed/http://www.loadingartist.com/feed/",
+                "feedId": "feed/http://www.loadingartist.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1099.72,
+                "id": "feed/http://www.dumbingofage.com/feed/",
+                "feedId": "feed/http://www.dumbingofage.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1097.66,
+                "id": "feed/http://www.somethingpositive.net/sp.xml",
+                "feedId": "feed/http://www.somethingpositive.net/sp.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1093.3,
+                "id": "feed/http://channelate.com/feed/",
+                "feedId": "feed/http://channelate.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1093.3,
+                "id": "feed/http://www.mrlovenstein.com/rss.xml",
+                "feedId": "feed/http://www.mrlovenstein.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1089.03,
+                "id": "feed/http://feeds.feedburner.com/ICanHasCheezburger",
+                "feedId": "feed/http://feeds.feedburner.com/ICanHasCheezburger",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1080.25,
+                "id": "feed/http://www.extrafabulouscomics.com/1/feed",
+                "feedId": "feed/http://www.extrafabulouscomics.com/1/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1077.64,
+                "id": "feed/http://feeds.feedburner.com/Pidjin",
+                "feedId": "feed/http://feeds.feedburner.com/Pidjin",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1076.49,
+                "id": "feed/http://basicinstructions.net/basic-instructions/rss.xml",
+                "feedId": "feed/http://basicinstructions.net/basic-instructions/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1072.46,
+                "id": "feed/http://www.tabletitans.com/feed",
+                "feedId": "feed/http://www.tabletitans.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1068.12,
+                "id": "feed/http://www.threepanelsoul.com/rss.php",
+                "feedId": "feed/http://www.threepanelsoul.com/rss.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1067.95,
+                "id": "feed/http://feeds.feedburner.com/SchlockRSS",
+                "feedId": "feed/http://feeds.feedburner.com/SchlockRSS",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1067.77,
+                "id": "feed/http://www.dieselsweeties.com/ds-unifeed.xml",
+                "feedId": "feed/http://www.dieselsweeties.com/ds-unifeed.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1062.48,
+                "id": "feed/http://badmachinery.com/index.xml",
+                "feedId": "feed/http://badmachinery.com/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1059.9,
+                "id": "feed/http://www.darthsanddroids.net/rss.xml",
+                "feedId": "feed/http://www.darthsanddroids.net/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1059.81,
+                "id": "feed/http://www.reallifecomics.com/index.xml",
+                "feedId": "feed/http://www.reallifecomics.com/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1056.03,
+                "id": "feed/http://killsixbilliondemons.com/?feed=rss2",
+                "feedId": "feed/http://killsixbilliondemons.com/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1053.43,
+                "id": "feed/http://www.goblinscomic.com/feed/",
+                "feedId": "feed/http://www.goblinscomic.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1045.74,
+                "id": "feed/http://sssscomic.com/ssss-feed.xml",
+                "feedId": "feed/http://sssscomic.com/ssss-feed.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1044.19,
+                "id": "feed/http://www.lackadaisycats.com/rss/",
+                "feedId": "feed/http://www.lackadaisycats.com/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1043.57,
+                "id": "feed/http://www.johnnywander.com/feed",
+                "feedId": "feed/http://www.johnnywander.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1041.26,
+                "id": "feed/http://www.dorktower.com/feed/",
+                "feedId": "feed/http://www.dorktower.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1040.94,
+                "id": "feed/http://www.peopleofwalmart.com/?feed=rss2",
+                "feedId": "feed/http://www.peopleofwalmart.com/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 1040.17,
+                "id": "feed/http://www.quotationspage.com/data/qotd.rss",
+                "feedId": "feed/http://www.quotationspage.com/data/qotd.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1039.34,
+                "id": "feed/http://feeds.feedburner.com/nerfnow/full",
+                "feedId": "feed/http://feeds.feedburner.com/nerfnow/full",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1028.19,
+                "id": "feed/http://www.exocomics.com/feed",
+                "feedId": "feed/http://www.exocomics.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1025.27,
+                "id": "feed/http://www.jspowerhour.com/comics.rss",
+                "feedId": "feed/http://www.jspowerhour.com/comics.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1023.6,
+                "id": "feed/http://paranatural.net/rss.php",
+                "feedId": "feed/http://paranatural.net/rss.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1021.77,
+                "id": "feed/https://dyn.tedder.me/rss/farside/daily.json",
+                "feedId": "feed/https://dyn.tedder.me/rss/farside/daily.json",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1019.48,
+                "id": "feed/http://wildelifecomic.com/feed/",
+                "feedId": "feed/http://wildelifecomic.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1018.76,
+                "id": "feed/http://feeds.feedburner.com/Lamebook",
+                "feedId": "feed/http://feeds.feedburner.com/Lamebook",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1017.86,
+                "id": "feed/http://www.joyoftech.com/joyoftech/jotblog/index.xml",
+                "feedId": "feed/http://www.joyoftech.com/joyoftech/jotblog/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1016.57,
+                "id": "feed/http://clientsfromhell.net/rss",
+                "feedId": "feed/http://clientsfromhell.net/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1016.24,
+                "id": "feed/http://www.sheldoncomics.com/index.xml",
+                "feedId": "feed/http://www.sheldoncomics.com/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 1015.55,
+                "id": "feed/http://awkwardfamilyphotos.com/feed/",
+                "feedId": "feed/http://awkwardfamilyphotos.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1015.48,
+                "id": "feed/http://www.ohjoysextoy.com/feed/",
+                "feedId": "feed/http://www.ohjoysextoy.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1013.44,
+                "id": "feed/http://www.drivecomic.com/index.xml",
+                "feedId": "feed/http://www.drivecomic.com/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1007.32,
+                "id": "feed/http://www.incidentalcomics.com/feeds/posts/default",
+                "feedId": "feed/http://www.incidentalcomics.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 1003.2,
+                "id": "feed/http://www.megatokyo.com/rss/megatokyo.xml",
+                "feedId": "feed/http://www.megatokyo.com/rss/megatokyo.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 999.97,
+                "id": "feed/http://www.darklegacycomics.com/feed.xml",
+                "feedId": "feed/http://www.darklegacycomics.com/feed.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 995.42,
+                "id": "feed/http://www.egscomics.com/rss.php",
+                "feedId": "feed/http://www.egscomics.com/rss.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 992.48,
+                "id": "feed/http://www.toothpastefordinner.com/rss/rss.php",
+                "feedId": "feed/http://www.toothpastefordinner.com/rss/rss.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 991.53,
+                "id": "feed/http://thebloggess.com/feed/",
+                "feedId": "feed/http://thebloggess.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 987.81,
+                "id": "feed/http://www.powernapcomic.com/index.xml",
+                "feedId": "feed/http://www.powernapcomic.com/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 985.95,
+                "id": "feed/http://buttsmithy.com/?feed=rss2",
+                "feedId": "feed/http://buttsmithy.com/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 982.02,
+                "id": "feed/http://www.last-halloween.com/posts.rss",
+                "feedId": "feed/http://www.last-halloween.com/posts.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 981.54,
+                "id": "feed/http://twokinds.keenspot.com/rss.php",
+                "feedId": "feed/http://twokinds.keenspot.com/rss.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 981.22,
+                "id": "feed/http://feeds.feedburner.com/VeryDemotivational",
+                "feedId": "feed/http://feeds.feedburner.com/VeryDemotivational",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 980.9,
+                "id": "feed/http://www.catanacomics.com/rss",
+                "feedId": "feed/http://www.catanacomics.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 978.81,
+                "id": "feed/http://www.comicbookresources.com/feed.php?feed=all",
+                "feedId": "feed/http://www.comicbookresources.com/feed.php?feed=all",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 975.49,
+                "id": "feed/http://feeds.feedburner.com/GrrlPower",
+                "feedId": "feed/http://feeds.feedburner.com/GrrlPower",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 973.64,
+                "id": "feed/http://feeds.feedburner.com/zeefeed",
+                "feedId": "feed/http://feeds.feedburner.com/zeefeed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 973.3,
+                "id": "feed/http://feeds.feedburner.com/sluggy_freelance",
+                "feedId": "feed/http://feeds.feedburner.com/sluggy_freelance",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 971.09,
+                "id": "feed/http://galliver.cx/feeds/comics/calvinandhobbes/",
+                "feedId": "feed/http://galliver.cx/feeds/comics/calvinandhobbes/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 969.52,
+                "id": "feed/http://www.gogetaroomie.com/rss.php",
+                "feedId": "feed/http://www.gogetaroomie.com/rss.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 969.39,
+                "id": "feed/http://www.monkeyuser.com/feed.xml",
+                "feedId": "feed/http://www.monkeyuser.com/feed.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 967.42,
+                "id": "feed/http://feeds.feedburner.com/sandraandwoo",
+                "feedId": "feed/http://feeds.feedburner.com/sandraandwoo",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 965.28,
+                "id": "feed/http://thedevilspanties.com/feed",
+                "feedId": "feed/http://thedevilspanties.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 965.11,
+                "id": "feed/http://feeds.feedburner.com/Optipess",
+                "feedId": "feed/http://feeds.feedburner.com/Optipess",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 963.3,
+                "id": "feed/http://www.octopuspie.com/feed/",
+                "feedId": "feed/http://www.octopuspie.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 962.02,
+                "id": "feed/http://www.sleeplessdomain.com/rss.php",
+                "feedId": "feed/http://www.sleeplessdomain.com/rss.php",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.18620780691427774,
+                "bestFeedId": "feed/http://wilwheaton.typepad.com/wwdnbackup/atom.xml",
+                "size": 8600,
+                "topic": "people",
+                "topicId": "people"
+            },
+            {
+                "focusScore": 0.05106564952962291,
+                "bestFeedId": "feed/http://feeds.feedburner.com/theatlantic/infocus",
+                "size": 3506,
+                "topic": "pictures",
+                "topicId": "pictures"
+            },
+            {
+                "focusScore": 0.22570799547095605,
+                "bestFeedId": "feed/http://stream.pleated-jeans.com/rss",
+                "size": 3114,
+                "topic": "tumblr",
+                "topicId": "tumblr"
+            },
+            {
+                "focusScore": 0.43072158057001186,
+                "bestFeedId": "feed/http://www.zooborns.com/zooborns/atom.xml",
+                "size": 1456,
+                "topic": "animals",
+                "topicId": "animals"
+            },
+            {
+                "focusScore": 0.508491387573696,
+                "bestFeedId": "feed/http://www.quotationspage.com/data/qotd.rss",
+                "size": 1242,
+                "topic": "quotes",
+                "topicId": "quotes"
+            },
+            {
+                "focusScore": 0.26658870273449814,
+                "bestFeedId": "feed/http://michelfiffe.com/?feed=rss2",
+                "size": 921,
+                "topic": "artists",
+                "topicId": "artists"
+            },
+            {
+                "focusScore": 0.14025595450441508,
+                "bestFeedId": "feed/http://www.theonion.com/content/feeds/daily",
+                "size": 770,
+                "topic": "satire",
+                "topicId": "satire"
+            },
+            {
+                "focusScore": 0.04531007564010493,
+                "bestFeedId": "feed/http://feeds.feedburner.com/Failbooking",
+                "size": 641,
+                "topic": "fail",
+                "topicId": "fail"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "language": "en",
+        "size": 140893,
+        "topic": "comics",
+        "topicId": "comics"
+    }
+]

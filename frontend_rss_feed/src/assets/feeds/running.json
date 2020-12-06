@@ -1,0 +1,988 @@
+[
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/running.png",
+        "updated": 1604848841504,
+        "feedIds": [
+            "feed/http://www.hungryrunnergirl.com/feeds/posts/default",
+            "feed/http://www.irunfar.com/feed",
+            "feed/http://twentysixpointtwoormore.blogspot.com/feeds/posts/default",
+            "feed/http://runtrails.blogspot.com/feeds/posts/default",
+            "feed/http://strengthrunning.com/feed/",
+            "feed/http://running.competitor.com/feed",
+            "feed/http://www.ultrarunning.com/ultra/affiliate/rssLatest.rss",
+            "feed/http://runeatrepeat.com/feed/",
+            "feed/http://feeds.feedburner.com/AliOnTheRun",
+            "feed/http://www.dcrainmaker.com/feeds/posts/default",
+            "feed/http://runnersconnect.net/feed/",
+            "feed/http://feeds.feedburner.com/stevemagness",
+            "feed/http://www.runtothefinish.com/feeds/posts/default",
+            "feed/http://marathontrainingacademy.com/feed",
+            "feed/http://ultrarunnerpodcast.com/feed",
+            "feed/http://www.runningshoesguru.com/feed/",
+            "feed/http://trailandultrarunning.com/feed/",
+            "feed/http://www.believeintherun.com/index.php/feed/",
+            "feed/http://www.runselfierepeat.com/blog?format=rss",
+            "feed/http://tinamuir.com/feed/",
+            "feed/http://trailrunnermag.com/feed",
+            "feed/http://www.runnersweb.com/running/RW_RSSNews.xml",
+            "feed/http://www.runnersworld.co.za/feed/",
+            "feed/http://www.therunnerbeans.com/feed",
+            "feed/http://womensrunning.competitor.com/feed",
+            "feed/http://anothermotherrunner.com/feed/",
+            "feed/http://trailrunnernation.com/feed/",
+            "feed/http://feeds.feedburner.com/runnerstrip",
+            "feed/http://feeds.feedburner.com/NoMeatAthlete",
+            "feed/http://feeds.feedburner.com/blogspot/RZFvG",
+            "feed/http://ultrarunnergirl.com/feed/",
+            "feed/http://fueledbylolz.com/feed/",
+            "feed/http://www.runsforcookies.com/feeds/posts/default",
+            "feed/http://www.crazyrunninggirl.com/feed/",
+            "feed/http://www.coachjayjohnson.com/feed/",
+            "feed/http://feeds.feedburner.com/saltyrunning",
+            "feed/http://www.trailrunmag.com/feed/",
+            "feed/http://www.letsrun.com/feed/",
+            "feed/http://naturalrunningcenter.com/feed/",
+            "feed/http://runwithkate.blogspot.com/feeds/posts/default",
+            "feed/http://elliegreenwood.blogspot.com/feeds/posts/default",
+            "feed/http://iancorless.org/feed/",
+            "feed/http://anathletesbody.com/feed/",
+            "feed/https://www.marathoninvestigation.com/feed",
+            "feed/http://losingweightinthecity.com/feed/",
+            "feed/http://blog.ultimatedirection.com/feed/",
+            "feed/http://ncrunnerdude.blogspot.com/feeds/posts/default",
+            "feed/http://relentlessforwardcommotion.com/feed/",
+            "feed/http://drnicksrunningblog.com/feed/",
+            "feed/http://www.thisrunnersrecipes.com/feed/",
+            "feed/https://www.blogger.com/feeds/10529476/posts/default",
+            "feed/http://www.trailsisters.net/blog?format=RSS",
+            "feed/http://the5krunner.com/feed/",
+            "feed/http://runningmagazine.ca/feed/",
+            "feed/http://emelieforsberg.com/feed/",
+            "feed/http://blog.strava.com/feed/atom/",
+            "feed/http://www.thefoodierunner.com/feed/",
+            "feed/http://therunnersplate.com/feed/",
+            "feed/http://misszippy1.com/feed",
+            "feed/http://www.randomforestrunner.com/feed/",
+            "feed/http://www.fastcory.com/feeds/posts/default",
+            "feed/http://www.50by25.com/feeds/posts/default",
+            "feed/http://itsamarython.com/feed/",
+            "feed/http://themorningshakeout.com/feed/",
+            "feed/http://www.ameliabooneracing.com/blog/feed/",
+            "feed/http://www.peanutbutterrunner.com/feed/",
+            "feed/http://citiusmag.com/feed/",
+            "feed/http://feeds.feedburner.com/eatliverun",
+            "feed/http://reidcoolsaet.com/feed/",
+            "feed/http://cmcdot.blogspot.com/feeds/posts/default",
+            "feed/http://www.runningandstuff.com/blog/atom.xml",
+            "feed/http://jillwillrun.com/feed/",
+            "feed/http://www.therightfits.com/feed/",
+            "feed/http://runlonger.blogspot.com/feeds/posts/default",
+            "feed/http://www.sallymcrae.com/feed/",
+            "feed/http://philmaffetone.com/feed/",
+            "feed/http://www.runthisamazingday.com/feeds/posts/default",
+            "feed/http://therunexperience.com/feed/",
+            "feed/http://blog.smashrun.com/feed/",
+            "feed/http://www.guardian.co.uk/lifeandstyle/running/rss",
+            "feed/http://www.sagerunning.com/feed/",
+            "feed/http://balancedrunner.co.uk/feed/",
+            "feed/http://tonireavis.com/feed/",
+            "feed/http://dumbrunner.com/news-blog?format=RSS",
+            "feed/https://www.fastrunning.com/feed",
+            "feed/http://complicatedday.blogspot.com/feeds/posts/default",
+            "feed/http://toofattorun.co.uk/feed/",
+            "feed/http://8020endurance.com/feed/",
+            "feed/http://www.sporttracks.mobi/blog/feed",
+            "feed/http://www.runningwife.com/feed/",
+            "feed/http://www.runnersloveyoga.com/new-blog?format=RSS",
+            "feed/http://marathontalk.libsyn.com/rss",
+            "feed/http://www.runnersblueprint.com/feed/",
+            "feed/http://feeds.feedburner.com/mudsweatandtears",
+            "feed/http://chocolateismylife-us.blogspot.com/feeds/posts/default",
+            "feed/http://iwannagetphysical.blogspot.com/feeds/posts/default",
+            "feed/http://blog.stryd.com/rss/",
+            "feed/http://www.running-physio.com/feed/",
+            "feed/https://www.trailandkale.com/feed/",
+            "feed/http://www.runningruminations.com/?feed=rss2"
+        ],
+        "focusScore": 0.8132760779853899,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.03308323774153663,
+                "bestFeedId": "feed/http://www.hungryrunnergirl.com/feeds/posts/default",
+                "size": 182,
+                "topic": "run"
+            }
+        ],
+        "bestFeedId": "feed/http://www.hungryrunnergirl.com/feeds/posts/default",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 917.33,
+                "id": "feed/http://www.hungryrunnergirl.com/feeds/posts/default",
+                "feedId": "feed/http://www.hungryrunnergirl.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 915.34,
+                "id": "feed/http://www.irunfar.com/feed",
+                "feedId": "feed/http://www.irunfar.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 907.12,
+                "id": "feed/http://twentysixpointtwoormore.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://twentysixpointtwoormore.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 898.26,
+                "id": "feed/http://runtrails.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://runtrails.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 892.92,
+                "id": "feed/http://strengthrunning.com/feed/",
+                "feedId": "feed/http://strengthrunning.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 872.7,
+                "id": "feed/http://running.competitor.com/feed",
+                "feedId": "feed/http://running.competitor.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 844.94,
+                "id": "feed/http://www.ultrarunning.com/ultra/affiliate/rssLatest.rss",
+                "feedId": "feed/http://www.ultrarunning.com/ultra/affiliate/rssLatest.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 835.35,
+                "id": "feed/http://runeatrepeat.com/feed/",
+                "feedId": "feed/http://runeatrepeat.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 812.43,
+                "id": "feed/http://feeds.feedburner.com/AliOnTheRun",
+                "feedId": "feed/http://feeds.feedburner.com/AliOnTheRun",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 66.0,
+                "leoScore": 786.5,
+                "id": "feed/http://www.dcrainmaker.com/feeds/posts/default",
+                "feedId": "feed/http://www.dcrainmaker.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 743.25,
+                "id": "feed/http://runnersconnect.net/feed/",
+                "feedId": "feed/http://runnersconnect.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 726.91,
+                "id": "feed/http://feeds.feedburner.com/stevemagness",
+                "feedId": "feed/http://feeds.feedburner.com/stevemagness",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 725.41,
+                "id": "feed/http://www.runtothefinish.com/feeds/posts/default",
+                "feedId": "feed/http://www.runtothefinish.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 720.35,
+                "id": "feed/http://marathontrainingacademy.com/feed",
+                "feedId": "feed/http://marathontrainingacademy.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 716.22,
+                "id": "feed/http://ultrarunnerpodcast.com/feed",
+                "feedId": "feed/http://ultrarunnerpodcast.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 716.2,
+                "id": "feed/http://www.runningshoesguru.com/feed/",
+                "feedId": "feed/http://www.runningshoesguru.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 716.2,
+                "id": "feed/http://trailandultrarunning.com/feed/",
+                "feedId": "feed/http://trailandultrarunning.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 707.48,
+                "id": "feed/http://www.believeintherun.com/index.php/feed/",
+                "feedId": "feed/http://www.believeintherun.com/index.php/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 693.53,
+                "id": "feed/http://www.runselfierepeat.com/blog?format=rss",
+                "feedId": "feed/http://www.runselfierepeat.com/blog?format=rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 690.35,
+                "id": "feed/http://tinamuir.com/feed/",
+                "feedId": "feed/http://tinamuir.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 688.48,
+                "id": "feed/http://trailrunnermag.com/feed",
+                "feedId": "feed/http://trailrunnermag.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 684.41,
+                "id": "feed/http://www.runnersweb.com/running/RW_RSSNews.xml",
+                "feedId": "feed/http://www.runnersweb.com/running/RW_RSSNews.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 679.52,
+                "id": "feed/http://www.runnersworld.co.za/feed/",
+                "feedId": "feed/http://www.runnersworld.co.za/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 672.28,
+                "id": "feed/http://www.therunnerbeans.com/feed",
+                "feedId": "feed/http://www.therunnerbeans.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 662.17,
+                "id": "feed/http://womensrunning.competitor.com/feed",
+                "feedId": "feed/http://womensrunning.competitor.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 661.9,
+                "id": "feed/http://anothermotherrunner.com/feed/",
+                "feedId": "feed/http://anothermotherrunner.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 661.46,
+                "id": "feed/http://trailrunnernation.com/feed/",
+                "feedId": "feed/http://trailrunnernation.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 659.16,
+                "id": "feed/http://feeds.feedburner.com/runnerstrip",
+                "feedId": "feed/http://feeds.feedburner.com/runnerstrip",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 64.0,
+                "leoScore": 651.12,
+                "id": "feed/http://feeds.feedburner.com/NoMeatAthlete",
+                "feedId": "feed/http://feeds.feedburner.com/NoMeatAthlete",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 645.81,
+                "id": "feed/http://feeds.feedburner.com/blogspot/RZFvG",
+                "feedId": "feed/http://feeds.feedburner.com/blogspot/RZFvG",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 635.01,
+                "id": "feed/http://ultrarunnergirl.com/feed/",
+                "feedId": "feed/http://ultrarunnergirl.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 614.97,
+                "id": "feed/http://fueledbylolz.com/feed/",
+                "feedId": "feed/http://fueledbylolz.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 613.7,
+                "id": "feed/http://www.runsforcookies.com/feeds/posts/default",
+                "feedId": "feed/http://www.runsforcookies.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 612.93,
+                "id": "feed/http://www.crazyrunninggirl.com/feed/",
+                "feedId": "feed/http://www.crazyrunninggirl.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 602.29,
+                "id": "feed/http://www.coachjayjohnson.com/feed/",
+                "feedId": "feed/http://www.coachjayjohnson.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 602.24,
+                "id": "feed/http://feeds.feedburner.com/saltyrunning",
+                "feedId": "feed/http://feeds.feedburner.com/saltyrunning",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 600.05,
+                "id": "feed/http://www.trailrunmag.com/feed/",
+                "feedId": "feed/http://www.trailrunmag.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 599.24,
+                "id": "feed/http://www.letsrun.com/feed/",
+                "feedId": "feed/http://www.letsrun.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 598.79,
+                "id": "feed/http://naturalrunningcenter.com/feed/",
+                "feedId": "feed/http://naturalrunningcenter.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 595.42,
+                "id": "feed/http://runwithkate.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://runwithkate.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 594.26,
+                "id": "feed/http://elliegreenwood.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://elliegreenwood.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 592.75,
+                "id": "feed/http://iancorless.org/feed/",
+                "feedId": "feed/http://iancorless.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 592.58,
+                "id": "feed/http://anathletesbody.com/feed/",
+                "feedId": "feed/http://anathletesbody.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 584.66,
+                "id": "feed/https://www.marathoninvestigation.com/feed",
+                "feedId": "feed/https://www.marathoninvestigation.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 65.0,
+                "leoScore": 581.45,
+                "id": "feed/http://losingweightinthecity.com/feed/",
+                "feedId": "feed/http://losingweightinthecity.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 575.65,
+                "id": "feed/http://blog.ultimatedirection.com/feed/",
+                "feedId": "feed/http://blog.ultimatedirection.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 572.79,
+                "id": "feed/http://ncrunnerdude.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://ncrunnerdude.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 568.22,
+                "id": "feed/http://relentlessforwardcommotion.com/feed/",
+                "feedId": "feed/http://relentlessforwardcommotion.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 565.01,
+                "id": "feed/http://drnicksrunningblog.com/feed/",
+                "feedId": "feed/http://drnicksrunningblog.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 561.47,
+                "id": "feed/http://www.thisrunnersrecipes.com/feed/",
+                "feedId": "feed/http://www.thisrunnersrecipes.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 549.91,
+                "id": "feed/https://www.blogger.com/feeds/10529476/posts/default",
+                "feedId": "feed/https://www.blogger.com/feeds/10529476/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 544.55,
+                "id": "feed/http://www.trailsisters.net/blog?format=RSS",
+                "feedId": "feed/http://www.trailsisters.net/blog?format=RSS",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": 543.15,
+                "id": "feed/http://the5krunner.com/feed/",
+                "feedId": "feed/http://the5krunner.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 541.18,
+                "id": "feed/http://runningmagazine.ca/feed/",
+                "feedId": "feed/http://runningmagazine.ca/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 539.01,
+                "id": "feed/http://emelieforsberg.com/feed/",
+                "feedId": "feed/http://emelieforsberg.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 54.0,
+                "leoScore": 526.04,
+                "id": "feed/http://blog.strava.com/feed/atom/",
+                "feedId": "feed/http://blog.strava.com/feed/atom/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 522.13,
+                "id": "feed/http://www.thefoodierunner.com/feed/",
+                "feedId": "feed/http://www.thefoodierunner.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 516.99,
+                "id": "feed/http://therunnersplate.com/feed/",
+                "feedId": "feed/http://therunnersplate.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 508.75,
+                "id": "feed/http://misszippy1.com/feed",
+                "feedId": "feed/http://misszippy1.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 507.01,
+                "id": "feed/http://www.randomforestrunner.com/feed/",
+                "feedId": "feed/http://www.randomforestrunner.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 500.0,
+                "id": "feed/http://www.fastcory.com/feeds/posts/default",
+                "feedId": "feed/http://www.fastcory.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 495.64,
+                "id": "feed/http://www.50by25.com/feeds/posts/default",
+                "feedId": "feed/http://www.50by25.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 495.42,
+                "id": "feed/http://itsamarython.com/feed/",
+                "feedId": "feed/http://itsamarython.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 495.42,
+                "id": "feed/http://themorningshakeout.com/feed/",
+                "feedId": "feed/http://themorningshakeout.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 494.36,
+                "id": "feed/http://www.ameliabooneracing.com/blog/feed/",
+                "feedId": "feed/http://www.ameliabooneracing.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 52.0,
+                "leoScore": 494.2,
+                "id": "feed/http://www.peanutbutterrunner.com/feed/",
+                "feedId": "feed/http://www.peanutbutterrunner.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 487.54,
+                "id": "feed/http://citiusmag.com/feed/",
+                "feedId": "feed/http://citiusmag.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 45.0,
+                "leoScore": 486.8,
+                "id": "feed/http://feeds.feedburner.com/eatliverun",
+                "feedId": "feed/http://feeds.feedburner.com/eatliverun",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 485.8,
+                "id": "feed/http://reidcoolsaet.com/feed/",
+                "feedId": "feed/http://reidcoolsaet.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 480.74,
+                "id": "feed/http://cmcdot.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://cmcdot.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 480.74,
+                "id": "feed/http://www.runningandstuff.com/blog/atom.xml",
+                "feedId": "feed/http://www.runningandstuff.com/blog/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 475.49,
+                "id": "feed/http://jillwillrun.com/feed/",
+                "feedId": "feed/http://jillwillrun.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 475.49,
+                "id": "feed/http://www.therightfits.com/feed/",
+                "feedId": "feed/http://www.therightfits.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 464.39,
+                "id": "feed/http://runlonger.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://runlonger.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 458.5,
+                "id": "feed/http://www.sallymcrae.com/feed/",
+                "feedId": "feed/http://www.sallymcrae.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 69.0,
+                "leoScore": 458.43,
+                "id": "feed/http://philmaffetone.com/feed/",
+                "feedId": "feed/http://philmaffetone.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 455.81,
+                "id": "feed/http://www.runthisamazingday.com/feeds/posts/default",
+                "feedId": "feed/http://www.runthisamazingday.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 455.0,
+                "id": "feed/http://therunexperience.com/feed/",
+                "feedId": "feed/http://therunexperience.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 452.36,
+                "id": "feed/http://blog.smashrun.com/feed/",
+                "feedId": "feed/http://blog.smashrun.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 452.36,
+                "id": "feed/http://www.guardian.co.uk/lifeandstyle/running/rss",
+                "feedId": "feed/http://www.guardian.co.uk/lifeandstyle/running/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 445.94,
+                "id": "feed/http://www.sagerunning.com/feed/",
+                "feedId": "feed/http://www.sagerunning.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 445.94,
+                "id": "feed/http://balancedrunner.co.uk/feed/",
+                "feedId": "feed/http://balancedrunner.co.uk/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 445.94,
+                "id": "feed/http://tonireavis.com/feed/",
+                "feedId": "feed/http://tonireavis.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 445.94,
+                "id": "feed/http://dumbrunner.com/news-blog?format=RSS",
+                "feedId": "feed/http://dumbrunner.com/news-blog?format=RSS",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 442.61,
+                "id": "feed/https://www.fastrunning.com/feed",
+                "feedId": "feed/https://www.fastrunning.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 439.23,
+                "id": "feed/http://complicatedday.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://complicatedday.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 439.23,
+                "id": "feed/http://toofattorun.co.uk/feed/",
+                "feedId": "feed/http://toofattorun.co.uk/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 431.3,
+                "id": "feed/http://8020endurance.com/feed/",
+                "feedId": "feed/http://8020endurance.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 425.73,
+                "id": "feed/http://www.sporttracks.mobi/blog/feed",
+                "feedId": "feed/http://www.sporttracks.mobi/blog/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 424.79,
+                "id": "feed/http://www.runningwife.com/feed/",
+                "feedId": "feed/http://www.runningwife.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 424.79,
+                "id": "feed/http://www.runnersloveyoga.com/new-blog?format=RSS",
+                "feedId": "feed/http://www.runnersloveyoga.com/new-blog?format=RSS",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 424.79,
+                "id": "feed/http://marathontalk.libsyn.com/rss",
+                "feedId": "feed/http://marathontalk.libsyn.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 424.79,
+                "id": "feed/http://www.runnersblueprint.com/feed/",
+                "feedId": "feed/http://www.runnersblueprint.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 423.04,
+                "id": "feed/http://feeds.feedburner.com/mudsweatandtears",
+                "feedId": "feed/http://feeds.feedburner.com/mudsweatandtears",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 422.26,
+                "id": "feed/http://chocolateismylife-us.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://chocolateismylife-us.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 64.0,
+                "leoScore": 421.44,
+                "id": "feed/http://iwannagetphysical.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://iwannagetphysical.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 73.0,
+                "leoScore": 418.14,
+                "id": "feed/http://blog.stryd.com/rss/",
+                "feedId": "feed/http://blog.stryd.com/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 66.0,
+                "leoScore": 417.25,
+                "id": "feed/http://www.running-physio.com/feed/",
+                "feedId": "feed/http://www.running-physio.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 416.99,
+                "id": "feed/https://www.trailandkale.com/feed/",
+                "feedId": "feed/https://www.trailandkale.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 416.99,
+                "id": "feed/http://www.runningruminations.com/?feed=rss2",
+                "feedId": "feed/http://www.runningruminations.com/?feed=rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.4976619168518442,
+                "bestFeedId": "feed/http://feeds.feedburner.com/NerdFitnessBlog",
+                "size": 14817,
+                "topic": "fitness",
+                "topicId": "fitness"
+            },
+            {
+                "focusScore": 0.057782748642833975,
+                "bestFeedId": "feed/http://trailandultrarunning.com/feed/",
+                "size": 84,
+                "topic": "trail running",
+                "topicId": "trail-running"
+            },
+            {
+                "focusScore": 0.541367762944584,
+                "bestFeedId": "feed/http://triathlon.competitor.com/feed",
+                "size": 748,
+                "topic": "triathlon",
+                "topicId": "triathlon"
+            },
+            {
+                "focusScore": 0.78415822155336,
+                "bestFeedId": "feed/http://www.swimmingworldmagazine.com/common/published/rss/homepage_news.xml",
+                "size": 244,
+                "topic": "swimming",
+                "topicId": "swimming"
+            },
+            {
+                "focusScore": 0.24194612253299044,
+                "bestFeedId": "feed/http://nomnompaleo.com/rss",
+                "size": 2125,
+                "topic": "paleo",
+                "topicId": "paleo"
+            },
+            {
+                "focusScore": 0.4126277026312864,
+                "bestFeedId": "feed/http://www.mobilitywod.com/feed",
+                "size": 589,
+                "topic": "crossfit",
+                "topicId": "crossfit"
+            },
+            {
+                "focusScore": 0.8631450580426012,
+                "bestFeedId": "feed/http://www.cyclingtipsblog.com/feed/",
+                "size": 11701,
+                "topic": "cycling",
+                "topicId": "cycling"
+            },
+            {
+                "focusScore": 0.49944614600575404,
+                "bestFeedId": "feed/http://www.backpackinglight.com/index.rss",
+                "size": 7964,
+                "topic": "outdoors",
+                "topicId": "outdoors"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "fitness",
+            "topicId": "fitness"
+        },
+        "language": "en",
+        "size": 5265,
+        "topic": "running",
+        "topicId": "running"
+    }
+]

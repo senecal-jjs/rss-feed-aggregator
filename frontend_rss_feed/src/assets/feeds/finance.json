@@ -1,0 +1,1999 @@
+[
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/finance.png",
+        "updated": 1604848833914,
+        "feedIds": [
+            "feed/http://www.getrichslowly.org/blog/feed/",
+            "feed/http://feeds.feedburner.com/MrMoneyMustache",
+            "feed/http://www.iwillteachyoutoberich.com/feed/",
+            "feed/http://feeds.feedburner.com/thesimpledollar",
+            "feed/http://www.marketwatch.com/rss/topstories",
+            "feed/http://www.fool.com/About/headlines/rss_headlines.asp",
+            "feed/http://bigpicture.typepad.com/comments/atom.xml",
+            "feed/http://feeds.feedburner.com/MyMint",
+            "feed/http://www.economist.com/rss/finance_and_economics_rss.xml",
+            "feed/http://freakonomics.blogs.nytimes.com/feed/",
+            "feed/http://www.calculatedriskblog.com/feeds/posts/default",
+            "feed/http://feeds.feedburner.com/FinancialSamurai",
+            "feed/http://www.madfientist.com/feed/",
+            "feed/http://feeds.feedburner.com/budgetsaresexy",
+            "feed/http://jlcollinsnh.wordpress.com/feed/",
+            "feed/http://awealthofcommonsense.com/feed/",
+            "feed/http://feeds.feedburner.com/NerdwalletCreditCardWatch",
+            "feed/http://www.newslookup.com/rss/business/bloomberg.rss",
+            "feed/http://feeds.killeraces.com/wisebread",
+            "feed/http://abnormalreturns.com/feed/",
+            "feed/http://feeds.feedburner.com/Mymoneyblog",
+            "feed/http://finance.yahoo.com/rss/topstories",
+            "feed/http://feeds.feedburner.com/zerohedge/feed",
+            "feed/http://www.kiplinger.com/about/rss/kiplinger.rss",
+            "feed/http://www.gocurrycracker.com/feed/",
+            "feed/http://feeds.feedburner.com/Frugalwoods",
+            "feed/http://www.youneedabudget.com/blog/feed/",
+            "feed/http://feeds.feedburner.com/CanadianCouchPotato",
+            "feed/http://whitecoatinvestor.com/feed/",
+            "feed/http://www.thereformedbroker.com/feed/",
+            "feed/http://affordanything.com/feed/",
+            "feed/http://seekingalpha.com/feed.xml",
+            "feed/http://aswathdamodaran.blogspot.com/feeds/posts/default",
+            "feed/http://earlyretirementextreme.com/feed",
+            "feed/http://feeds.feedburner.com/RetireBy40",
+            "feed/http://feeds.feedburner.com/TheFinanceBuff",
+            "feed/http://twocents.lifehacker.com/rss",
+            "feed/http://feeds.feedburner.com/TheObliviousInvestor",
+            "feed/http://feeds2.feedburner.com/businessinsider",
+            "feed/http://www.thepennyhoarder.com/feed",
+            "feed/http://www.1500days.com/feed/",
+            "feed/http://feeds.feedburner.com/Monevatorcom",
+            "feed/http://rootofgood.com/feed/",
+            "feed/http://earlyretirementnow.com/feed/",
+            "feed/http://feeds.feedburner.com/moneyunder30/gMhx",
+            "feed/http://dealbook.nytimes.com/feed/",
+            "feed/http://feeds.feedburner.com/MillionDollarJourney",
+            "feed/http://www.physicianonfire.com/feed/",
+            "feed/http://pragcap.com/feed",
+            "feed/http://www.moneysense.ca/feed/",
+            "feed/http://feeds.feedburner.com/20somethingfinancecom",
+            "feed/http://ournextlife.com/feed/",
+            "feed/https://esimoney.com/feed/",
+            "feed/http://www.vanguardblog.com/feed",
+            "feed/http://feeds.kitces.com/KitcesNerdsEyeView",
+            "feed/http://www.millennial-revolution.com/feed/",
+            "feed/https://ofdollarsanddata.com/feed/",
+            "feed/http://ftalphaville.ft.com/blog/feed/",
+            "feed/http://feeds.feedburner.com/caniretireyet",
+            "feed/https://theirrelevantinvestor.wordpress.com/feed/",
+            "feed/http://feeds.feedburner.com/blogspot/qEOb",
+            "feed/http://feeds.moneycrashers.com/MoneyCrashersCom",
+            "feed/http://feeds.feedburner.com/MoneyNing",
+            "feed/http://baselinescenario.com/feed/",
+            "feed/http://wealthyaccountant.com/feed/",
+            "feed/http://feeds.feedburner.com/collabfund",
+            "feed/http://www.nakedcapitalism.com/feed",
+            "feed/http://feeds.feedburner.com/TheDoughRoller",
+            "feed/http://feeds.feedburner.com/JeffRosesGoodFinancialCents",
+            "feed/http://www.humbledollar.com/feed/",
+            "feed/http://www.makingsenseofcents.com/feed",
+            "feed/http://feeds.feedburner.com/Crossingwallstreet",
+            "feed/http://www.bitchesgetriches.com/feed/",
+            "feed/http://alephblog.com/feed/",
+            "feed/http://brontecapital.blogspot.com/feeds/posts/default",
+            "feed/http://www.newslookup.com/rss/business/cnbc.rss",
+            "feed/http://theescapeartist.me/feed/",
+            "feed/http://investorjunkie.com/feed/",
+            "feed/http://feeds.feedburner.com/DividendGrowthInvestor",
+            "feed/http://thefinancialdiet.com/rss",
+            "feed/https://blog.wealthfront.com/feed/",
+            "feed/http://feeds.feedburner.com/MarketFolly",
+            "feed/http://wallethacks.com/feed/",
+            "feed/http://www.choosefi.com/feed/",
+            "feed/http://www.dividendmantra.com/feeds/posts/default",
+            "feed/http://www.greaterfool.ca/feed/",
+            "feed/http://dollarsandsense.sg/feed/",
+            "feed/http://www.investmentmoats.com/feed/",
+            "feed/http://feeds.feedburner.com/FinanceAndInvesting",
+            "feed/https://blog.seedly.sg/feed/",
+            "feed/http://www.fourpillarfreedom.com/feed/",
+            "feed/http://www.thedividendguyblog.com/feed/",
+            "feed/https://www.betterment.com/feed/",
+            "feed/http://www.economist.com/rss/the_world_this_week_rss.xml",
+            "feed/http://feedproxy.google.com/clusterstock?format=xml",
+            "feed/http://feeds.feedburner.com/MotleyFoolMoney",
+            "feed/http://seekingalpha.com/tag/editors-picks.xml",
+            "feed/https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+            "feed/http://seekingalpha.com/listing/most-popular-articles.xml",
+            "feed/http://bucks.blogs.nytimes.com/feed/"
+        ],
+        "focusScore": 0.473429275957434,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.0390490882459523,
+                "bestFeedId": "feed/http://www.getrichslowly.org/blog/feed/",
+                "size": 2721,
+                "topic": "financial"
+            },
+            {
+                "focusScore": 0.1187768285411854,
+                "bestFeedId": "feed/http://www.getrichslowly.org/blog/feed/",
+                "size": 545,
+                "topic": "ekonomi"
+            },
+            {
+                "focusScore": 0.1011234592971112,
+                "bestFeedId": "feed/http://www.getrichslowly.org/blog/feed/",
+                "size": 387,
+                "topic": "finanse"
+            },
+            {
+                "focusScore": 0.019687475625038458,
+                "bestFeedId": "feed/http://www.getrichslowly.org/blog/feed/",
+                "size": 289,
+                "topic": "finanzen"
+            }
+        ],
+        "bestFeedId": "feed/http://www.getrichslowly.org/blog/feed/",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 1260.4,
+                "id": "feed/http://www.getrichslowly.org/blog/feed/",
+                "feedId": "feed/http://www.getrichslowly.org/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 1219.28,
+                "id": "feed/http://feeds.feedburner.com/MrMoneyMustache",
+                "feedId": "feed/http://feeds.feedburner.com/MrMoneyMustache",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 1171.0,
+                "id": "feed/http://www.iwillteachyoutoberich.com/feed/",
+                "feedId": "feed/http://www.iwillteachyoutoberich.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 1156.44,
+                "id": "feed/http://feeds.feedburner.com/thesimpledollar",
+                "feedId": "feed/http://feeds.feedburner.com/thesimpledollar",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 1093.69,
+                "id": "feed/http://www.marketwatch.com/rss/topstories",
+                "feedId": "feed/http://www.marketwatch.com/rss/topstories",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 1079.05,
+                "id": "feed/http://www.fool.com/About/headlines/rss_headlines.asp",
+                "feedId": "feed/http://www.fool.com/About/headlines/rss_headlines.asp",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 1069.8,
+                "id": "feed/http://bigpicture.typepad.com/comments/atom.xml",
+                "feedId": "feed/http://bigpicture.typepad.com/comments/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 1063.12,
+                "id": "feed/http://feeds.feedburner.com/MyMint",
+                "feedId": "feed/http://feeds.feedburner.com/MyMint",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 76.0,
+                "leoScore": 1043.77,
+                "id": "feed/http://www.economist.com/rss/finance_and_economics_rss.xml",
+                "feedId": "feed/http://www.economist.com/rss/finance_and_economics_rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": 1041.16,
+                "id": "feed/http://freakonomics.blogs.nytimes.com/feed/",
+                "feedId": "feed/http://freakonomics.blogs.nytimes.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 76.0,
+                "leoScore": 1022.45,
+                "id": "feed/http://www.calculatedriskblog.com/feeds/posts/default",
+                "feedId": "feed/http://www.calculatedriskblog.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 1022.27,
+                "id": "feed/http://feeds.feedburner.com/FinancialSamurai",
+                "feedId": "feed/http://feeds.feedburner.com/FinancialSamurai",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 1011.56,
+                "id": "feed/http://www.madfientist.com/feed/",
+                "feedId": "feed/http://www.madfientist.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 982.38,
+                "id": "feed/http://feeds.feedburner.com/budgetsaresexy",
+                "feedId": "feed/http://feeds.feedburner.com/budgetsaresexy",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 981.8,
+                "id": "feed/http://jlcollinsnh.wordpress.com/feed/",
+                "feedId": "feed/http://jlcollinsnh.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 966.69,
+                "id": "feed/http://awealthofcommonsense.com/feed/",
+                "feedId": "feed/http://awealthofcommonsense.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 956.68,
+                "id": "feed/http://feeds.feedburner.com/NerdwalletCreditCardWatch",
+                "feedId": "feed/http://feeds.feedburner.com/NerdwalletCreditCardWatch",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 69.0,
+                "leoScore": 937.74,
+                "id": "feed/http://www.newslookup.com/rss/business/bloomberg.rss",
+                "feedId": "feed/http://www.newslookup.com/rss/business/bloomberg.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 936.23,
+                "id": "feed/http://feeds.killeraces.com/wisebread",
+                "feedId": "feed/http://feeds.killeraces.com/wisebread",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 935.92,
+                "id": "feed/http://abnormalreturns.com/feed/",
+                "feedId": "feed/http://abnormalreturns.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 922.69,
+                "id": "feed/http://feeds.feedburner.com/Mymoneyblog",
+                "feedId": "feed/http://feeds.feedburner.com/Mymoneyblog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 918.17,
+                "id": "feed/http://finance.yahoo.com/rss/topstories",
+                "feedId": "feed/http://finance.yahoo.com/rss/topstories",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 911.9,
+                "id": "feed/http://feeds.feedburner.com/zerohedge/feed",
+                "feedId": "feed/http://feeds.feedburner.com/zerohedge/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 911.23,
+                "id": "feed/http://www.kiplinger.com/about/rss/kiplinger.rss",
+                "feedId": "feed/http://www.kiplinger.com/about/rss/kiplinger.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 909.56,
+                "id": "feed/http://www.gocurrycracker.com/feed/",
+                "feedId": "feed/http://www.gocurrycracker.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 907.32,
+                "id": "feed/http://feeds.feedburner.com/Frugalwoods",
+                "feedId": "feed/http://feeds.feedburner.com/Frugalwoods",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 898.62,
+                "id": "feed/http://www.youneedabudget.com/blog/feed/",
+                "feedId": "feed/http://www.youneedabudget.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 896.6,
+                "id": "feed/http://feeds.feedburner.com/CanadianCouchPotato",
+                "feedId": "feed/http://feeds.feedburner.com/CanadianCouchPotato",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 895.66,
+                "id": "feed/http://whitecoatinvestor.com/feed/",
+                "feedId": "feed/http://whitecoatinvestor.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 893.62,
+                "id": "feed/http://www.thereformedbroker.com/feed/",
+                "feedId": "feed/http://www.thereformedbroker.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 892.24,
+                "id": "feed/http://affordanything.com/feed/",
+                "feedId": "feed/http://affordanything.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 889.06,
+                "id": "feed/http://seekingalpha.com/feed.xml",
+                "feedId": "feed/http://seekingalpha.com/feed.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 879.87,
+                "id": "feed/http://aswathdamodaran.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://aswathdamodaran.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 879.34,
+                "id": "feed/http://earlyretirementextreme.com/feed",
+                "feedId": "feed/http://earlyretirementextreme.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 876.03,
+                "id": "feed/http://feeds.feedburner.com/RetireBy40",
+                "feedId": "feed/http://feeds.feedburner.com/RetireBy40",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 874.7,
+                "id": "feed/http://feeds.feedburner.com/TheFinanceBuff",
+                "feedId": "feed/http://feeds.feedburner.com/TheFinanceBuff",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 874.15,
+                "id": "feed/http://twocents.lifehacker.com/rss",
+                "feedId": "feed/http://twocents.lifehacker.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 873.75,
+                "id": "feed/http://feeds.feedburner.com/TheObliviousInvestor",
+                "feedId": "feed/http://feeds.feedburner.com/TheObliviousInvestor",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 59.0,
+                "leoScore": 866.43,
+                "id": "feed/http://feeds2.feedburner.com/businessinsider",
+                "feedId": "feed/http://feeds2.feedburner.com/businessinsider",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 862.12,
+                "id": "feed/http://www.thepennyhoarder.com/feed",
+                "feedId": "feed/http://www.thepennyhoarder.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 861.31,
+                "id": "feed/http://www.1500days.com/feed/",
+                "feedId": "feed/http://www.1500days.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 849.44,
+                "id": "feed/http://feeds.feedburner.com/Monevatorcom",
+                "feedId": "feed/http://feeds.feedburner.com/Monevatorcom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 845.66,
+                "id": "feed/http://rootofgood.com/feed/",
+                "feedId": "feed/http://rootofgood.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 836.88,
+                "id": "feed/http://earlyretirementnow.com/feed/",
+                "feedId": "feed/http://earlyretirementnow.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 835.49,
+                "id": "feed/http://feeds.feedburner.com/moneyunder30/gMhx",
+                "feedId": "feed/http://feeds.feedburner.com/moneyunder30/gMhx",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 76.0,
+                "leoScore": 831.24,
+                "id": "feed/http://dealbook.nytimes.com/feed/",
+                "feedId": "feed/http://dealbook.nytimes.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 830.01,
+                "id": "feed/http://feeds.feedburner.com/MillionDollarJourney",
+                "feedId": "feed/http://feeds.feedburner.com/MillionDollarJourney",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 828.88,
+                "id": "feed/http://www.physicianonfire.com/feed/",
+                "feedId": "feed/http://www.physicianonfire.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 828.22,
+                "id": "feed/http://pragcap.com/feed",
+                "feedId": "feed/http://pragcap.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 825.59,
+                "id": "feed/http://www.moneysense.ca/feed/",
+                "feedId": "feed/http://www.moneysense.ca/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 817.31,
+                "id": "feed/http://feeds.feedburner.com/20somethingfinancecom",
+                "feedId": "feed/http://feeds.feedburner.com/20somethingfinancecom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 817.05,
+                "id": "feed/http://ournextlife.com/feed/",
+                "feedId": "feed/http://ournextlife.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 801.78,
+                "id": "feed/https://esimoney.com/feed/",
+                "feedId": "feed/https://esimoney.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 800.34,
+                "id": "feed/http://www.vanguardblog.com/feed",
+                "feedId": "feed/http://www.vanguardblog.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 798.93,
+                "id": "feed/http://feeds.kitces.com/KitcesNerdsEyeView",
+                "feedId": "feed/http://feeds.kitces.com/KitcesNerdsEyeView",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 796.85,
+                "id": "feed/http://www.millennial-revolution.com/feed/",
+                "feedId": "feed/http://www.millennial-revolution.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 793.74,
+                "id": "feed/https://ofdollarsanddata.com/feed/",
+                "feedId": "feed/https://ofdollarsanddata.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 784.46,
+                "id": "feed/http://ftalphaville.ft.com/blog/feed/",
+                "feedId": "feed/http://ftalphaville.ft.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 779.83,
+                "id": "feed/http://feeds.feedburner.com/caniretireyet",
+                "feedId": "feed/http://feeds.feedburner.com/caniretireyet",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 770.45,
+                "id": "feed/https://theirrelevantinvestor.wordpress.com/feed/",
+                "feedId": "feed/https://theirrelevantinvestor.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 762.43,
+                "id": "feed/http://feeds.feedburner.com/blogspot/qEOb",
+                "feedId": "feed/http://feeds.feedburner.com/blogspot/qEOb",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 758.85,
+                "id": "feed/http://feeds.moneycrashers.com/MoneyCrashersCom",
+                "feedId": "feed/http://feeds.moneycrashers.com/MoneyCrashersCom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 757.94,
+                "id": "feed/http://feeds.feedburner.com/MoneyNing",
+                "feedId": "feed/http://feeds.feedburner.com/MoneyNing",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 71.0,
+                "leoScore": 754.88,
+                "id": "feed/http://baselinescenario.com/feed/",
+                "feedId": "feed/http://baselinescenario.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 751.37,
+                "id": "feed/http://wealthyaccountant.com/feed/",
+                "feedId": "feed/http://wealthyaccountant.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": 750.7,
+                "id": "feed/http://feeds.feedburner.com/collabfund",
+                "feedId": "feed/http://feeds.feedburner.com/collabfund",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 64.0,
+                "leoScore": 748.47,
+                "id": "feed/http://www.nakedcapitalism.com/feed",
+                "feedId": "feed/http://www.nakedcapitalism.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 748.4,
+                "id": "feed/http://feeds.feedburner.com/TheDoughRoller",
+                "feedId": "feed/http://feeds.feedburner.com/TheDoughRoller",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 741.64,
+                "id": "feed/http://feeds.feedburner.com/JeffRosesGoodFinancialCents",
+                "feedId": "feed/http://feeds.feedburner.com/JeffRosesGoodFinancialCents",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 739.54,
+                "id": "feed/http://www.humbledollar.com/feed/",
+                "feedId": "feed/http://www.humbledollar.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 737.15,
+                "id": "feed/http://www.makingsenseofcents.com/feed",
+                "feedId": "feed/http://www.makingsenseofcents.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 736.43,
+                "id": "feed/http://feeds.feedburner.com/Crossingwallstreet",
+                "feedId": "feed/http://feeds.feedburner.com/Crossingwallstreet",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 735.19,
+                "id": "feed/http://www.bitchesgetriches.com/feed/",
+                "feedId": "feed/http://www.bitchesgetriches.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 733.85,
+                "id": "feed/http://alephblog.com/feed/",
+                "feedId": "feed/http://alephblog.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 727.34,
+                "id": "feed/http://brontecapital.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://brontecapital.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 61.0,
+                "leoScore": 725.19,
+                "id": "feed/http://www.newslookup.com/rss/business/cnbc.rss",
+                "feedId": "feed/http://www.newslookup.com/rss/business/cnbc.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 717.95,
+                "id": "feed/http://theescapeartist.me/feed/",
+                "feedId": "feed/http://theescapeartist.me/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 717.3,
+                "id": "feed/http://investorjunkie.com/feed/",
+                "feedId": "feed/http://investorjunkie.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 716.88,
+                "id": "feed/http://feeds.feedburner.com/DividendGrowthInvestor",
+                "feedId": "feed/http://feeds.feedburner.com/DividendGrowthInvestor",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 73.0,
+                "leoScore": 715.58,
+                "id": "feed/http://thefinancialdiet.com/rss",
+                "feedId": "feed/http://thefinancialdiet.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 715.46,
+                "id": "feed/https://blog.wealthfront.com/feed/",
+                "feedId": "feed/https://blog.wealthfront.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 712.75,
+                "id": "feed/http://feeds.feedburner.com/MarketFolly",
+                "feedId": "feed/http://feeds.feedburner.com/MarketFolly",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 709.21,
+                "id": "feed/http://wallethacks.com/feed/",
+                "feedId": "feed/http://wallethacks.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 708.3,
+                "id": "feed/http://www.choosefi.com/feed/",
+                "feedId": "feed/http://www.choosefi.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 705.16,
+                "id": "feed/http://www.dividendmantra.com/feeds/posts/default",
+                "feedId": "feed/http://www.dividendmantra.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 703.96,
+                "id": "feed/http://www.greaterfool.ca/feed/",
+                "feedId": "feed/http://www.greaterfool.ca/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 697.98,
+                "id": "feed/http://dollarsandsense.sg/feed/",
+                "feedId": "feed/http://dollarsandsense.sg/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 697.05,
+                "id": "feed/http://www.investmentmoats.com/feed/",
+                "feedId": "feed/http://www.investmentmoats.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 696.33,
+                "id": "feed/http://feeds.feedburner.com/FinanceAndInvesting",
+                "feedId": "feed/http://feeds.feedburner.com/FinanceAndInvesting",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 688.17,
+                "id": "feed/https://blog.seedly.sg/feed/",
+                "feedId": "feed/https://blog.seedly.sg/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 688.16,
+                "id": "feed/http://www.fourpillarfreedom.com/feed/",
+                "feedId": "feed/http://www.fourpillarfreedom.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 686.99,
+                "id": "feed/http://www.thedividendguyblog.com/feed/",
+                "feedId": "feed/http://www.thedividendguyblog.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 686.04,
+                "id": "feed/https://www.betterment.com/feed/",
+                "feedId": "feed/https://www.betterment.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 56.0,
+                "leoScore": -1.0,
+                "id": "feed/http://www.economist.com/rss/the_world_this_week_rss.xml",
+                "feedId": "feed/http://www.economist.com/rss/the_world_this_week_rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": -2.0,
+                "id": "feed/http://feedproxy.google.com/clusterstock?format=xml",
+                "feedId": "feed/http://feedproxy.google.com/clusterstock?format=xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": -3.0,
+                "id": "feed/http://feeds.feedburner.com/MotleyFoolMoney",
+                "feedId": "feed/http://feeds.feedburner.com/MotleyFoolMoney",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 73.0,
+                "leoScore": -4.0,
+                "id": "feed/http://seekingalpha.com/tag/editors-picks.xml",
+                "feedId": "feed/http://seekingalpha.com/tag/editors-picks.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": -5.0,
+                "id": "feed/https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+                "feedId": "feed/https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": -6.0,
+                "id": "feed/http://seekingalpha.com/listing/most-popular-articles.xml",
+                "feedId": "feed/http://seekingalpha.com/listing/most-popular-articles.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 69.0,
+                "leoScore": -7.0,
+                "id": "feed/http://bucks.blogs.nytimes.com/feed/",
+                "feedId": "feed/http://bucks.blogs.nytimes.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.4079364052225897,
+                "bestFeedId": "feed/http://gregmankiw.blogspot.com/feeds/posts/default",
+                "size": 16146,
+                "topic": "economics",
+                "topicId": "economics"
+            },
+            {
+                "focusScore": 0.22705840883312028,
+                "bestFeedId": "feed/http://www.getrichslowly.org/blog/feed/",
+                "size": 12195,
+                "topic": "money",
+                "topicId": "money"
+            },
+            {
+                "focusScore": 0.3495429392497238,
+                "bestFeedId": "feed/http://abnormalreturns.com/feed/",
+                "size": 9998,
+                "topic": "investing",
+                "topicId": "investing"
+            },
+            {
+                "focusScore": 0.44811762992076554,
+                "bestFeedId": "feed/http://bankinnovation.net/feed/",
+                "size": 2772,
+                "topic": "fintech",
+                "topicId": "fintech"
+            },
+            {
+                "focusScore": 0.2405420336072931,
+                "bestFeedId": "feed/http://www.madfientist.com/feed/",
+                "size": 1119,
+                "topic": "fire",
+                "topicId": "fire"
+            },
+            {
+                "focusScore": 0.21138411407668486,
+                "bestFeedId": "feed/http://www.thefrugalgirl.com/feed/",
+                "size": 946,
+                "topic": "frugal",
+                "topicId": "frugal"
+            },
+            {
+                "focusScore": 0.5504782356618562,
+                "bestFeedId": "feed/http://www.fxstreet.com/xml/rss20.xml",
+                "size": 904,
+                "topic": "forex",
+                "topicId": "forex"
+            },
+            {
+                "focusScore": 0.7046683150815136,
+                "bestFeedId": "feed/http://feeds.feedburner.com/TaxPolicyBlog",
+                "size": 692,
+                "topic": "tax",
+                "topicId": "tax"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "language": "en",
+        "size": 50248,
+        "topic": "finance",
+        "topicId": "finance"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/money.png",
+        "updated": 1604848837262,
+        "feedIds": [
+            "feed/http://www.getrichslowly.org/blog/feed/",
+            "feed/http://feeds.feedburner.com/thesimpledollar",
+            "feed/http://feeds.feedburner.com/MrMoneyMustache",
+            "feed/http://www.iwillteachyoutoberich.com/feed/",
+            "feed/http://feeds.feedburner.com/MyMint",
+            "feed/http://feeds.feedburner.com/budgetsaresexy",
+            "feed/http://feeds.feedburner.com/Mymoneyblog",
+            "feed/http://feeds.feedburner.com/FinancialSamurai",
+            "feed/http://feeds.killeraces.com/wisebread",
+            "feed/http://www.madfientist.com/feed/",
+            "feed/http://jlcollinsnh.wordpress.com/feed/",
+            "feed/http://feeds.feedburner.com/20somethingfinancecom",
+            "feed/http://www.youneedabudget.com/blog/feed/",
+            "feed/http://feeds.feedburner.com/moneyunder30/gMhx",
+            "feed/http://www.kiplinger.com/about/rss/kiplinger.rss",
+            "feed/http://affordanything.com/feed/",
+            "feed/http://twocents.lifehacker.com/rss",
+            "feed/http://feeds.moneycrashers.com/MoneyCrashersCom",
+            "feed/http://feeds.feedburner.com/NerdwalletCreditCardWatch",
+            "feed/http://feeds.feedburner.com/MoneyNing",
+            "feed/http://earlyretirementextreme.com/feed",
+            "feed/http://feeds.feedburner.com/TheDoughRoller",
+            "feed/http://feeds.feedburner.com/TheFinanceBuff",
+            "feed/http://www.thepennyhoarder.com/feed",
+            "feed/http://feeds.feedburner.com/Frugalwoods",
+            "feed/http://feeds.feedburner.com/MillionDollarJourney",
+            "feed/http://feeds.feedburner.com/JeffRosesGoodFinancialCents",
+            "feed/http://www.1500days.com/feed/",
+            "feed/http://feeds.feedburner.com/RetireBy40",
+            "feed/http://whitecoatinvestor.com/feed/",
+            "feed/http://feeds.feedburner.com/PrimeTimeMoney",
+            "feed/http://bucks.blogs.nytimes.com/feed/",
+            "feed/http://feeds.feedburner.com/LazyManAndMoney",
+            "feed/http://feeds.feedburner.com/TheObliviousInvestor",
+            "feed/http://feeds.feedburner.com/CanadianCouchPotato",
+            "feed/http://www.gocurrycracker.com/feed/",
+            "feed/http://feeds.feedburner.com/LenPenzo",
+            "feed/http://rootofgood.com/feed/",
+            "feed/http://www.makingsenseofcents.com/feed",
+            "feed/https://esimoney.com/feed/",
+            "feed/http://feeds.feedburner.com/Monevatorcom",
+            "feed/http://feeds.feedburner.com/cleverdude",
+            "feed/http://www.bitchesgetriches.com/feed/",
+            "feed/http://feeds.feedburner.com/Cashmoneylifecom",
+            "feed/http://ournextlife.com/feed/",
+            "feed/http://feeds.feedburner.com/ChristianPF",
+            "feed/http://www.moneysavingexpert.com/news/feeds/news.rss",
+            "feed/https://www.betterment.com/feed/",
+            "feed/http://www.physicianonfire.com/feed/",
+            "feed/http://earlyretirementnow.com/feed/",
+            "feed/http://wallethacks.com/feed/",
+            "feed/http://feeds.feedburner.com/BoomerEcho",
+            "feed/http://www.fourpillarfreedom.com/feed/",
+            "feed/http://www.consumerismcommentary.com/feed/",
+            "feed/http://www.moneysense.ca/feed/",
+            "feed/http://millennialmoney.com/feed/",
+            "feed/http://brokemillennial.com/feed/",
+            "feed/http://www.millennial-revolution.com/feed/",
+            "feed/http://feeds.feedburner.com/PunchDebtInTheFace",
+            "feed/http://www.frugalrules.com/feed/",
+            "feed/http://feeds.feedburner.com/moolanomy",
+            "feed/http://www.financialpanther.co/feed/",
+            "feed/http://canadianfinanceblog.com/feed",
+            "feed/http://www.moneyaftergraduation.com/feed/",
+            "feed/http://feeds.feedburner.com/enemyofdebt/rede2win",
+            "feed/http://feeds.feedburner.com/thecollegeinvestor",
+            "feed/http://feeds.feedburner.com/MyOpenWallet",
+            "feed/http://thefinancialdiet.com/rss",
+            "feed/https://blog.wealthfront.com/feed/",
+            "feed/http://halfbanked.com/feed/",
+            "feed/http://www.vanguardblog.com/feed",
+            "feed/https://apexmoney.com/feed/",
+            "feed/http://www.theluxestrategist.com/feed/",
+            "feed/http://andthenwesaved.com/feed/",
+            "feed/http://theescapeartist.me/feed/",
+            "feed/http://youngandthrifty.ca/feed/",
+            "feed/http://wellkeptwallet.com/feed/",
+            "feed/http://wealthyaccountant.com/feed/",
+            "feed/http://feeds.feedburner.com/BibleMoneyMatters",
+            "feed/http://feeds.feedburner.com/tflindia",
+            "feed/http://dailycapital.personalcapital.com/feed/",
+            "feed/http://feeds.feedburner.com/CanadianFinancialStuff",
+            "feed/http://millennialmoneyman.com/feed/",
+            "feed/http://www.youngadultmoney.com/feed/",
+            "feed/http://www.mightybargainhunter.com/feed/",
+            "feed/http://feeds.feedburner.com/FinanceAndInvesting",
+            "feed/http://feeds.feedburner.com/caniretireyet",
+            "feed/http://www.humbledollar.com/feed/",
+            "feed/http://feeds.feedburner.com/yesiamcheap",
+            "feed/http://lifeandmyfinances.com/feed/",
+            "feed/http://awealthofcommonsense.com/feed/",
+            "feed/http://feeds.feedburner.com/Wheredoesallmymoneygocom",
+            "feed/http://feeds.feedburner.com/reachfinancialindependence",
+            "feed/http://onecentatatime.com/feed/",
+            "feed/http://earlyretirementdude.com/feed/",
+            "feed/http://www.threethriftyguys.com/feed/",
+            "feed/http://blog.moneysavingexpert.com/feed/rss/",
+            "feed/http://mymoneywizard.com/feed/",
+            "feed/http://feeds.feedburner.com/depositaccounts?format=xml",
+            "feed/http://youneedabudget.libsyn.com/rss"
+        ],
+        "focusScore": 0.22705840883312028,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.19328020768295898,
+                "bestFeedId": "feed/http://www.getrichslowly.org/blog/feed/",
+                "size": 4008,
+                "topic": "personal finance"
+            },
+            {
+                "focusScore": 0.024134887745073257,
+                "bestFeedId": "feed/http://www.getrichslowly.org/blog/feed/",
+                "size": 1003,
+                "topic": "finances"
+            },
+            {
+                "focusScore": 0.015314699589536677,
+                "bestFeedId": "feed/http://www.getrichslowly.org/blog/feed/",
+                "size": 170,
+                "topic": "budget"
+            }
+        ],
+        "bestFeedId": "feed/http://www.getrichslowly.org/blog/feed/",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 1174.47,
+                "id": "feed/http://www.getrichslowly.org/blog/feed/",
+                "feedId": "feed/http://www.getrichslowly.org/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 1156.44,
+                "id": "feed/http://feeds.feedburner.com/thesimpledollar",
+                "feedId": "feed/http://feeds.feedburner.com/thesimpledollar",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 1150.0,
+                "id": "feed/http://feeds.feedburner.com/MrMoneyMustache",
+                "feedId": "feed/http://feeds.feedburner.com/MrMoneyMustache",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 1092.06,
+                "id": "feed/http://www.iwillteachyoutoberich.com/feed/",
+                "feedId": "feed/http://www.iwillteachyoutoberich.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 1075.34,
+                "id": "feed/http://feeds.feedburner.com/MyMint",
+                "feedId": "feed/http://feeds.feedburner.com/MyMint",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 1074.84,
+                "id": "feed/http://feeds.feedburner.com/budgetsaresexy",
+                "feedId": "feed/http://feeds.feedburner.com/budgetsaresexy",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1032.54,
+                "id": "feed/http://feeds.feedburner.com/Mymoneyblog",
+                "feedId": "feed/http://feeds.feedburner.com/Mymoneyblog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 1010.38,
+                "id": "feed/http://feeds.feedburner.com/FinancialSamurai",
+                "feedId": "feed/http://feeds.feedburner.com/FinancialSamurai",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 994.02,
+                "id": "feed/http://feeds.killeraces.com/wisebread",
+                "feedId": "feed/http://feeds.killeraces.com/wisebread",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 964.52,
+                "id": "feed/http://www.madfientist.com/feed/",
+                "feedId": "feed/http://www.madfientist.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 947.55,
+                "id": "feed/http://jlcollinsnh.wordpress.com/feed/",
+                "feedId": "feed/http://jlcollinsnh.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 946.89,
+                "id": "feed/http://feeds.feedburner.com/20somethingfinancecom",
+                "feedId": "feed/http://feeds.feedburner.com/20somethingfinancecom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 941.41,
+                "id": "feed/http://www.youneedabudget.com/blog/feed/",
+                "feedId": "feed/http://www.youneedabudget.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 936.15,
+                "id": "feed/http://feeds.feedburner.com/moneyunder30/gMhx",
+                "feedId": "feed/http://feeds.feedburner.com/moneyunder30/gMhx",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 933.19,
+                "id": "feed/http://www.kiplinger.com/about/rss/kiplinger.rss",
+                "feedId": "feed/http://www.kiplinger.com/about/rss/kiplinger.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 924.49,
+                "id": "feed/http://affordanything.com/feed/",
+                "feedId": "feed/http://affordanything.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 917.32,
+                "id": "feed/http://twocents.lifehacker.com/rss",
+                "feedId": "feed/http://twocents.lifehacker.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 908.75,
+                "id": "feed/http://feeds.moneycrashers.com/MoneyCrashersCom",
+                "feedId": "feed/http://feeds.moneycrashers.com/MoneyCrashersCom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 889.15,
+                "id": "feed/http://feeds.feedburner.com/NerdwalletCreditCardWatch",
+                "feedId": "feed/http://feeds.feedburner.com/NerdwalletCreditCardWatch",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 887.34,
+                "id": "feed/http://feeds.feedburner.com/MoneyNing",
+                "feedId": "feed/http://feeds.feedburner.com/MoneyNing",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 868.62,
+                "id": "feed/http://earlyretirementextreme.com/feed",
+                "feedId": "feed/http://earlyretirementextreme.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 865.61,
+                "id": "feed/http://feeds.feedburner.com/TheDoughRoller",
+                "feedId": "feed/http://feeds.feedburner.com/TheDoughRoller",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 864.88,
+                "id": "feed/http://feeds.feedburner.com/TheFinanceBuff",
+                "feedId": "feed/http://feeds.feedburner.com/TheFinanceBuff",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 851.73,
+                "id": "feed/http://www.thepennyhoarder.com/feed",
+                "feedId": "feed/http://www.thepennyhoarder.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 76.0,
+                "leoScore": 851.31,
+                "id": "feed/http://feeds.feedburner.com/Frugalwoods",
+                "feedId": "feed/http://feeds.feedburner.com/Frugalwoods",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 849.54,
+                "id": "feed/http://feeds.feedburner.com/MillionDollarJourney",
+                "feedId": "feed/http://feeds.feedburner.com/MillionDollarJourney",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 841.13,
+                "id": "feed/http://feeds.feedburner.com/JeffRosesGoodFinancialCents",
+                "feedId": "feed/http://feeds.feedburner.com/JeffRosesGoodFinancialCents",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 840.31,
+                "id": "feed/http://www.1500days.com/feed/",
+                "feedId": "feed/http://www.1500days.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 833.81,
+                "id": "feed/http://feeds.feedburner.com/RetireBy40",
+                "feedId": "feed/http://feeds.feedburner.com/RetireBy40",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 833.17,
+                "id": "feed/http://whitecoatinvestor.com/feed/",
+                "feedId": "feed/http://whitecoatinvestor.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 828.22,
+                "id": "feed/http://feeds.feedburner.com/PrimeTimeMoney",
+                "feedId": "feed/http://feeds.feedburner.com/PrimeTimeMoney",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 825.11,
+                "id": "feed/http://bucks.blogs.nytimes.com/feed/",
+                "feedId": "feed/http://bucks.blogs.nytimes.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 823.29,
+                "id": "feed/http://feeds.feedburner.com/LazyManAndMoney",
+                "feedId": "feed/http://feeds.feedburner.com/LazyManAndMoney",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 822.95,
+                "id": "feed/http://feeds.feedburner.com/TheObliviousInvestor",
+                "feedId": "feed/http://feeds.feedburner.com/TheObliviousInvestor",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 815.09,
+                "id": "feed/http://feeds.feedburner.com/CanadianCouchPotato",
+                "feedId": "feed/http://feeds.feedburner.com/CanadianCouchPotato",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 812.11,
+                "id": "feed/http://www.gocurrycracker.com/feed/",
+                "feedId": "feed/http://www.gocurrycracker.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 806.82,
+                "id": "feed/http://feeds.feedburner.com/LenPenzo",
+                "feedId": "feed/http://feeds.feedburner.com/LenPenzo",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 794.09,
+                "id": "feed/http://rootofgood.com/feed/",
+                "feedId": "feed/http://rootofgood.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 792.43,
+                "id": "feed/http://www.makingsenseofcents.com/feed",
+                "feedId": "feed/http://www.makingsenseofcents.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 792.12,
+                "id": "feed/https://esimoney.com/feed/",
+                "feedId": "feed/https://esimoney.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 788.77,
+                "id": "feed/http://feeds.feedburner.com/Monevatorcom",
+                "feedId": "feed/http://feeds.feedburner.com/Monevatorcom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 785.17,
+                "id": "feed/http://feeds.feedburner.com/cleverdude",
+                "feedId": "feed/http://feeds.feedburner.com/cleverdude",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 780.02,
+                "id": "feed/http://www.bitchesgetriches.com/feed/",
+                "feedId": "feed/http://www.bitchesgetriches.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 777.79,
+                "id": "feed/http://feeds.feedburner.com/Cashmoneylifecom",
+                "feedId": "feed/http://feeds.feedburner.com/Cashmoneylifecom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": 755.77,
+                "id": "feed/http://ournextlife.com/feed/",
+                "feedId": "feed/http://ournextlife.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 754.54,
+                "id": "feed/http://feeds.feedburner.com/ChristianPF",
+                "feedId": "feed/http://feeds.feedburner.com/ChristianPF",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 753.6,
+                "id": "feed/http://www.moneysavingexpert.com/news/feeds/news.rss",
+                "feedId": "feed/http://www.moneysavingexpert.com/news/feeds/news.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 744.6,
+                "id": "feed/https://www.betterment.com/feed/",
+                "feedId": "feed/https://www.betterment.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 76.0,
+                "leoScore": 741.12,
+                "id": "feed/http://www.physicianonfire.com/feed/",
+                "feedId": "feed/http://www.physicianonfire.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 734.82,
+                "id": "feed/http://earlyretirementnow.com/feed/",
+                "feedId": "feed/http://earlyretirementnow.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 734.54,
+                "id": "feed/http://wallethacks.com/feed/",
+                "feedId": "feed/http://wallethacks.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 731.07,
+                "id": "feed/http://feeds.feedburner.com/BoomerEcho",
+                "feedId": "feed/http://feeds.feedburner.com/BoomerEcho",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 730.64,
+                "id": "feed/http://www.fourpillarfreedom.com/feed/",
+                "feedId": "feed/http://www.fourpillarfreedom.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 723.84,
+                "id": "feed/http://www.consumerismcommentary.com/feed/",
+                "feedId": "feed/http://www.consumerismcommentary.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 719.99,
+                "id": "feed/http://www.moneysense.ca/feed/",
+                "feedId": "feed/http://www.moneysense.ca/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 719.39,
+                "id": "feed/http://millennialmoney.com/feed/",
+                "feedId": "feed/http://millennialmoney.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 718.87,
+                "id": "feed/http://brokemillennial.com/feed/",
+                "feedId": "feed/http://brokemillennial.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 73.0,
+                "leoScore": 718.15,
+                "id": "feed/http://www.millennial-revolution.com/feed/",
+                "feedId": "feed/http://www.millennial-revolution.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 707.68,
+                "id": "feed/http://feeds.feedburner.com/PunchDebtInTheFace",
+                "feedId": "feed/http://feeds.feedburner.com/PunchDebtInTheFace",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 702.72,
+                "id": "feed/http://www.frugalrules.com/feed/",
+                "feedId": "feed/http://www.frugalrules.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 701.12,
+                "id": "feed/http://feeds.feedburner.com/moolanomy",
+                "feedId": "feed/http://feeds.feedburner.com/moolanomy",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 696.58,
+                "id": "feed/http://www.financialpanther.co/feed/",
+                "feedId": "feed/http://www.financialpanther.co/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 692.94,
+                "id": "feed/http://canadianfinanceblog.com/feed",
+                "feedId": "feed/http://canadianfinanceblog.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 691.23,
+                "id": "feed/http://www.moneyaftergraduation.com/feed/",
+                "feedId": "feed/http://www.moneyaftergraduation.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 689.48,
+                "id": "feed/http://feeds.feedburner.com/enemyofdebt/rede2win",
+                "feedId": "feed/http://feeds.feedburner.com/enemyofdebt/rede2win",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 689.07,
+                "id": "feed/http://feeds.feedburner.com/thecollegeinvestor",
+                "feedId": "feed/http://feeds.feedburner.com/thecollegeinvestor",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 687.04,
+                "id": "feed/http://feeds.feedburner.com/MyOpenWallet",
+                "feedId": "feed/http://feeds.feedburner.com/MyOpenWallet",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 70.0,
+                "leoScore": 686.18,
+                "id": "feed/http://thefinancialdiet.com/rss",
+                "feedId": "feed/http://thefinancialdiet.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 680.13,
+                "id": "feed/https://blog.wealthfront.com/feed/",
+                "feedId": "feed/https://blog.wealthfront.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 680.09,
+                "id": "feed/http://halfbanked.com/feed/",
+                "feedId": "feed/http://halfbanked.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 677.93,
+                "id": "feed/http://www.vanguardblog.com/feed",
+                "feedId": "feed/http://www.vanguardblog.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 677.31,
+                "id": "feed/https://apexmoney.com/feed/",
+                "feedId": "feed/https://apexmoney.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 675.06,
+                "id": "feed/http://www.theluxestrategist.com/feed/",
+                "feedId": "feed/http://www.theluxestrategist.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 674.76,
+                "id": "feed/http://andthenwesaved.com/feed/",
+                "feedId": "feed/http://andthenwesaved.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 75.0,
+                "leoScore": 673.08,
+                "id": "feed/http://theescapeartist.me/feed/",
+                "feedId": "feed/http://theescapeartist.me/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 670.09,
+                "id": "feed/http://youngandthrifty.ca/feed/",
+                "feedId": "feed/http://youngandthrifty.ca/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 670.04,
+                "id": "feed/http://wellkeptwallet.com/feed/",
+                "feedId": "feed/http://wellkeptwallet.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 667.88,
+                "id": "feed/http://wealthyaccountant.com/feed/",
+                "feedId": "feed/http://wealthyaccountant.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 663.93,
+                "id": "feed/http://feeds.feedburner.com/BibleMoneyMatters",
+                "feedId": "feed/http://feeds.feedburner.com/BibleMoneyMatters",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 663.2,
+                "id": "feed/http://feeds.feedburner.com/tflindia",
+                "feedId": "feed/http://feeds.feedburner.com/tflindia",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 657.92,
+                "id": "feed/http://dailycapital.personalcapital.com/feed/",
+                "feedId": "feed/http://dailycapital.personalcapital.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 653.37,
+                "id": "feed/http://feeds.feedburner.com/CanadianFinancialStuff",
+                "feedId": "feed/http://feeds.feedburner.com/CanadianFinancialStuff",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 649.73,
+                "id": "feed/http://millennialmoneyman.com/feed/",
+                "feedId": "feed/http://millennialmoneyman.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 649.19,
+                "id": "feed/http://www.youngadultmoney.com/feed/",
+                "feedId": "feed/http://www.youngadultmoney.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 646.97,
+                "id": "feed/http://www.mightybargainhunter.com/feed/",
+                "feedId": "feed/http://www.mightybargainhunter.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 76.0,
+                "leoScore": 645.38,
+                "id": "feed/http://feeds.feedburner.com/FinanceAndInvesting",
+                "feedId": "feed/http://feeds.feedburner.com/FinanceAndInvesting",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 67.0,
+                "leoScore": 645.04,
+                "id": "feed/http://feeds.feedburner.com/caniretireyet",
+                "feedId": "feed/http://feeds.feedburner.com/caniretireyet",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": 643.83,
+                "id": "feed/http://www.humbledollar.com/feed/",
+                "feedId": "feed/http://www.humbledollar.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 640.94,
+                "id": "feed/http://feeds.feedburner.com/yesiamcheap",
+                "feedId": "feed/http://feeds.feedburner.com/yesiamcheap",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 637.5,
+                "id": "feed/http://lifeandmyfinances.com/feed/",
+                "feedId": "feed/http://lifeandmyfinances.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 56.0,
+                "leoScore": 636.88,
+                "id": "feed/http://awealthofcommonsense.com/feed/",
+                "feedId": "feed/http://awealthofcommonsense.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 634.93,
+                "id": "feed/http://feeds.feedburner.com/Wheredoesallmymoneygocom",
+                "feedId": "feed/http://feeds.feedburner.com/Wheredoesallmymoneygocom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 629.84,
+                "id": "feed/http://feeds.feedburner.com/reachfinancialindependence",
+                "feedId": "feed/http://feeds.feedburner.com/reachfinancialindependence",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 628.54,
+                "id": "feed/http://onecentatatime.com/feed/",
+                "feedId": "feed/http://onecentatatime.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": 627.5,
+                "id": "feed/http://earlyretirementdude.com/feed/",
+                "feedId": "feed/http://earlyretirementdude.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 622.67,
+                "id": "feed/http://www.threethriftyguys.com/feed/",
+                "feedId": "feed/http://www.threethriftyguys.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 621.14,
+                "id": "feed/http://blog.moneysavingexpert.com/feed/rss/",
+                "feedId": "feed/http://blog.moneysavingexpert.com/feed/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 619.48,
+                "id": "feed/http://mymoneywizard.com/feed/",
+                "feedId": "feed/http://mymoneywizard.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 618.98,
+                "id": "feed/http://feeds.feedburner.com/depositaccounts?format=xml",
+                "feedId": "feed/http://feeds.feedburner.com/depositaccounts?format=xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": -1.0,
+                "id": "feed/http://youneedabudget.libsyn.com/rss",
+                "feedId": "feed/http://youneedabudget.libsyn.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.473429275957434,
+                "bestFeedId": "feed/http://www.getrichslowly.org/blog/feed/",
+                "size": 50248,
+                "topic": "finance",
+                "topicId": "finance"
+            },
+            {
+                "focusScore": 0.23077919414515682,
+                "bestFeedId": "feed/http://feeds.feedburner.com/zenhabits",
+                "size": 40253,
+                "topic": "productivity",
+                "topicId": "productivity"
+            },
+            {
+                "focusScore": 0.408753007402664,
+                "bestFeedId": "feed/http://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC",
+                "size": 25045,
+                "topic": "health",
+                "topicId": "health"
+            },
+            {
+                "focusScore": 0.2918982004610873,
+                "bestFeedId": "feed/http://www.askamanager.org/feed",
+                "size": 4607,
+                "topic": "career",
+                "topicId": "career"
+            },
+            {
+                "focusScore": 0.5818810562433323,
+                "bestFeedId": "feed/http://www.janetlansbury.com/feed/",
+                "size": 16286,
+                "topic": "parenting",
+                "topicId": "parenting"
+            },
+            {
+                "focusScore": 0.4976619168518442,
+                "bestFeedId": "feed/http://feeds.feedburner.com/NerdFitnessBlog",
+                "size": 14817,
+                "topic": "fitness",
+                "topicId": "fitness"
+            },
+            {
+                "focusScore": 0.2492879127600148,
+                "bestFeedId": "feed/http://joannagoddard.blogspot.com/feeds/posts/default",
+                "size": 28747,
+                "topic": "lifestyle",
+                "topicId": "lifestyle"
+            },
+            {
+                "focusScore": 0.2405420336072931,
+                "bestFeedId": "feed/http://www.madfientist.com/feed/",
+                "size": 1119,
+                "topic": "fire",
+                "topicId": "fire"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "finance",
+            "topicId": "finance"
+        },
+        "language": "en",
+        "size": 12195,
+        "topic": "finances",
+        "topicId": "money"
+    }
+]

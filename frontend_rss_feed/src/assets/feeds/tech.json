@@ -1,0 +1,2748 @@
+[
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/tech.png",
+        "updated": 1604848832764,
+        "feedIds": [
+            "feed/http://www.engadget.com/rss-full.xml",
+            "feed/http://www.theverge.com/rss/full.xml",
+            "feed/http://feeds.feedburner.com/Techcrunch",
+            "feed/http://feeds.gawker.com/gizmodo/full",
+            "feed/http://feeds.wired.com/wired/index",
+            "feed/http://feeds.arstechnica.com/arstechnica/index/",
+            "feed/http://feeds.gawker.com/lifehacker/vip",
+            "feed/http://rss.slashdot.org/Slashdot/slashdot",
+            "feed/http://feeds.mashable.com/Mashable",
+            "feed/http://feeds2.feedburner.com/thenextweb",
+            "feed/http://www.digitaltrends.com/feed/?key=f00edf6a58d2a8740e624dda919cab37",
+            "feed/http://googleblog.blogspot.com/atom.xml",
+            "feed/http://www.macrumors.com/macrumors.xml",
+            "feed/http://www.androidcentral.com/feed",
+            "feed/http://www.anandtech.com/rss/",
+            "feed/http://news.cnet.com/2547-1_3-0-20.xml",
+            "feed/http://www.theregister.co.uk/excerpts.rss",
+            "feed/http://news.ycombinator.com/rss",
+            "feed/http://www.techradar.com/rss",
+            "feed/http://feeds.howtogeek.com/HowToGeek",
+            "feed/http://www.techmeme.com/index.xml",
+            "feed/http://feeds.feedburner.com/TheWirecutter",
+            "feed/http://feeds.pcworld.com/pcworld/latestnews",
+            "feed/http://www.technologyreview.com/rss/rss.aspx",
+            "feed/http://www.techdirt.com/techdirt_rss.xml",
+            "feed/http://www.boygeniusreport.com/feed/",
+            "feed/http://9to5mac.com/feed/",
+            "feed/http://feeds.feedburner.com/ommalik",
+            "feed/http://daringfireball.net/index.xml",
+            "feed/http://feeds.boingboing.net/boingboing/iBag",
+            "feed/http://www.hackaday.com/rss.xml",
+            "feed/http://rssnewsapps.ziffdavis.com/extreme.xml",
+            "feed/http://feeds.feedburner.com/typepad/alleyinsider/silicon_alley_insider",
+            "feed/http://feeds.feedburner.com/Makeuseof",
+            "feed/http://newsrss.bbc.co.uk/rss/newsonline_world_edition/technology/rss.xml",
+            "feed/http://www.androidpolice.com/feed/",
+            "feed/http://9to5google.com/feed/",
+            "feed/http://motherboard.vice.com/rss",
+            "feed/http://feeds.slashgear.com/slashgear",
+            "feed/http://www.gsmarena.com/rss-news-reviews.php3",
+            "feed/https://www.yahoo.com/tech/rss",
+            "feed/http://feeds.feedburner.com/wmexperts",
+            "feed/http://feeds.feedburner.com/androidauthority",
+            "feed/http://www.theguardian.com/technology/rss",
+            "feed/http://www.coolest-gadgets.com/feed/",
+            "feed/http://venturebeat.com/feed/",
+            "feed/http://gizmag.com/xml/",
+            "feed/http://blog.makezine.com/index.xml",
+            "feed/http://www.appleinsider.com/appleinsider.rss",
+            "feed/http://feeds.labnol.org/labnol",
+            "feed/http://www.ubergizmo.com/index.xml",
+            "feed/http://www.the-gadgeteer.com/feed",
+            "feed/http://www.ghacks.net/feed/",
+            "feed/http://www.techspot.com/backend.xml",
+            "feed/http://feeds.feedburner.com/tedtalks_video",
+            "feed/http://techblog.netflix.com/feeds/posts/default",
+            "feed/http://www.geekologie.com/index.xml",
+            "feed/http://rss.macworld.com/macworld/feeds/main",
+            "feed/http://digg.com/rss/index.xml",
+            "feed/http://feeds.feedburner.com/neowin-main",
+            "feed/http://www.joelonsoftware.com/rss.xml",
+            "feed/http://feeds.computerworld.com/Computerworld/News",
+            "feed/http://krebsonsecurity.com/feed/",
+            "feed/http://www.zdnet.com/news/rss.xml",
+            "feed/https://www.thurrott.com/feed",
+            "feed/http://www.xda-developers.com/feed/",
+            "feed/https://blog.feedly.com/feed/?cat=-6",
+            "feed/http://feeds.feedburner.com/oreilly/radar/atom",
+            "feed/http://feeds.feedburner.com/theiphoneblog",
+            "feed/http://feeds.feedburner.com/TestedAll",
+            "feed/http://feeds.feedburner.com/CoolTools",
+            "feed/http://feeds.feedburner.com/geekwire",
+            "feed/http://www.osnews.com/files/recent.xml",
+            "feed/http://www.marco.org/rss",
+            "feed/http://feeds.feedburner.com/Liliputing",
+            "feed/http://scobleizer.com/feed/",
+            "feed/http://feeds.feedburner.com/HighScalability",
+            "feed/http://mobilesyrup.com/feed/",
+            "feed/http://www.addictivetips.com/feed/",
+            "feed/http://feeds.feedburner.com/pocketnow",
+            "feed/http://feeds2.feedburner.com/IeeeSpectrum",
+            "feed/http://www.schneier.com/blog/index.rdf",
+            "feed/http://thehackernews.com/feeds/posts/default",
+            "feed/http://www.betanews.com/rss2",
+            "feed/http://feeds.feedburner.com/geeksAreSexyTechnologyNews",
+            "feed/http://feeds.feedburner.com/fastcompany/headlines",
+            "feed/http://www.huffingtonpost.com/feeds/verticals/technology/index.xml",
+            "feed/http://www.wired.co.uk/rss.aspx",
+            "feed/http://www.raspberrypi.org/feed",
+            "feed/http://www.technobuffalo.com/feed/",
+            "feed/http://qz.com/re/technology/feed/",
+            "feed/http://feeds.gizmodo.com.au/GizmodoAustralia",
+            "feed/http://www.nytimes.com/services/xml/rss/nyt/Technology.xml",
+            "feed/http://feeds.feedburner.com/crunchgear",
+            "feed/http://feeds.macrumors.com/MacRumors-All",
+            "feed/http://feeds.technologyreview.com/technology_review_top_stories",
+            "feed/http://gmailblog.blogspot.com/atom.xml",
+            "feed/http://www.theverge.com/tech/rss/index.xml",
+            "feed/http://feeds.mashable.com/mashable/tech",
+            "feed/http://feeds.feedburner.com/zdnet/microsoft"
+        ],
+        "focusScore": 0.32919167610818073,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.1313514239916943,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 41573,
+                "topic": "technology"
+            },
+            {
+                "focusScore": 0.04978922430622351,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 11355,
+                "topic": "it"
+            },
+            {
+                "focusScore": 0.09396412860202033,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 6962,
+                "topic": "gadgets"
+            },
+            {
+                "focusScore": 0.035073897883495304,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 6522,
+                "topic": "geek"
+            },
+            {
+                "focusScore": 0.008567911320767868,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 2199,
+                "topic": "tecnologia"
+            },
+            {
+                "focusScore": 0.0022153209635534248,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 1955,
+                "topic": "tecnología"
+            },
+            {
+                "focusScore": 0.009796823452631326,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 2406,
+                "topic": "computer"
+            },
+            {
+                "focusScore": 0.011950566863980511,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 1785,
+                "topic": "computers"
+            },
+            {
+                "focusScore": 0.04193393257280652,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 1495,
+                "topic": "internet"
+            },
+            {
+                "focusScore": 0.09266584532963187,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 1412,
+                "topic": "test"
+            },
+            {
+                "focusScore": 0.0035667897274088037,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 1195,
+                "topic": "nerd"
+            },
+            {
+                "focusScore": 0.006436568444097134,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "rssize": 1061,
+                "topic": "gadget"
+            },
+            {
+                "focusScore": 0.023972785366282178,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 1001,
+                "topic": "computing"
+            },
+            {
+                "focusScore": 0.008117250927528727,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 942,
+                "topic": "technical"
+            },
+            {
+                "focusScore": 7.881781952417786E-4,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 905,
+                "topic": "technologie"
+            },
+            {
+                "focusScore": 0.0030998577844390533,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 882,
+                "topic": "technews"
+            }
+        ],
+        "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1633.03,
+                "id": "feed/http://www.engadget.com/rss-full.xml",
+                "feedId": "feed/http://www.engadget.com/rss-full.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1617.82,
+                "id": "feed/http://www.theverge.com/rss/full.xml",
+                "feedId": "feed/http://www.theverge.com/rss/full.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1606.97,
+                "id": "feed/http://feeds.feedburner.com/Techcrunch",
+                "feedId": "feed/http://feeds.feedburner.com/Techcrunch",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1579.08,
+                "id": "feed/http://feeds.gawker.com/gizmodo/full",
+                "feedId": "feed/http://feeds.gawker.com/gizmodo/full",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1566.58,
+                "id": "feed/http://feeds.wired.com/wired/index",
+                "feedId": "feed/http://feeds.wired.com/wired/index",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1559.03,
+                "id": "feed/http://feeds.arstechnica.com/arstechnica/index/",
+                "feedId": "feed/http://feeds.arstechnica.com/arstechnica/index/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1546.06,
+                "id": "feed/http://feeds.gawker.com/lifehacker/vip",
+                "feedId": "feed/http://feeds.gawker.com/lifehacker/vip",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1482.97,
+                "id": "feed/http://rss.slashdot.org/Slashdot/slashdot",
+                "feedId": "feed/http://rss.slashdot.org/Slashdot/slashdot",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 1456.02,
+                "id": "feed/http://feeds.mashable.com/Mashable",
+                "feedId": "feed/http://feeds.mashable.com/Mashable",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1407.69,
+                "id": "feed/http://feeds2.feedburner.com/thenextweb",
+                "feedId": "feed/http://feeds2.feedburner.com/thenextweb",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1377.94,
+                "id": "feed/http://www.digitaltrends.com/feed/?key=f00edf6a58d2a8740e624dda919cab37",
+                "feedId": "feed/http://www.digitaltrends.com/feed/?key=f00edf6a58d2a8740e624dda919cab37",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 1375.27,
+                "id": "feed/http://googleblog.blogspot.com/atom.xml",
+                "feedId": "feed/http://googleblog.blogspot.com/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 1363.13,
+                "id": "feed/http://www.macrumors.com/macrumors.xml",
+                "feedId": "feed/http://www.macrumors.com/macrumors.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 1363.0,
+                "id": "feed/http://www.androidcentral.com/feed",
+                "feedId": "feed/http://www.androidcentral.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1362.37,
+                "id": "feed/http://www.anandtech.com/rss/",
+                "feedId": "feed/http://www.anandtech.com/rss/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1333.18,
+                "id": "feed/http://news.cnet.com/2547-1_3-0-20.xml",
+                "feedId": "feed/http://news.cnet.com/2547-1_3-0-20.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1323.42,
+                "id": "feed/http://www.theregister.co.uk/excerpts.rss",
+                "feedId": "feed/http://www.theregister.co.uk/excerpts.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 1314.02,
+                "id": "feed/http://news.ycombinator.com/rss",
+                "feedId": "feed/http://news.ycombinator.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1303.22,
+                "id": "feed/http://www.techradar.com/rss",
+                "feedId": "feed/http://www.techradar.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1302.97,
+                "id": "feed/http://feeds.howtogeek.com/HowToGeek",
+                "feedId": "feed/http://feeds.howtogeek.com/HowToGeek",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1280.74,
+                "id": "feed/http://www.techmeme.com/index.xml",
+                "feedId": "feed/http://www.techmeme.com/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 1278.55,
+                "id": "feed/http://feeds.feedburner.com/TheWirecutter",
+                "feedId": "feed/http://feeds.feedburner.com/TheWirecutter",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1273.88,
+                "id": "feed/http://feeds.pcworld.com/pcworld/latestnews",
+                "feedId": "feed/http://feeds.pcworld.com/pcworld/latestnews",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 1260.67,
+                "id": "feed/http://www.technologyreview.com/rss/rss.aspx",
+                "feedId": "feed/http://www.technologyreview.com/rss/rss.aspx",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1257.39,
+                "id": "feed/http://www.techdirt.com/techdirt_rss.xml",
+                "feedId": "feed/http://www.techdirt.com/techdirt_rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1253.88,
+                "id": "feed/http://www.boygeniusreport.com/feed/",
+                "feedId": "feed/http://www.boygeniusreport.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 1237.61,
+                "id": "feed/http://9to5mac.com/feed/",
+                "feedId": "feed/http://9to5mac.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 1225.59,
+                "id": "feed/http://feeds.feedburner.com/ommalik",
+                "feedId": "feed/http://feeds.feedburner.com/ommalik",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 1220.37,
+                "id": "feed/http://daringfireball.net/index.xml",
+                "feedId": "feed/http://daringfireball.net/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 1210.76,
+                "id": "feed/http://feeds.boingboing.net/boingboing/iBag",
+                "feedId": "feed/http://feeds.boingboing.net/boingboing/iBag",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 1209.07,
+                "id": "feed/http://www.hackaday.com/rss.xml",
+                "feedId": "feed/http://www.hackaday.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1207.33,
+                "id": "feed/http://rssnewsapps.ziffdavis.com/extreme.xml",
+                "feedId": "feed/http://rssnewsapps.ziffdavis.com/extreme.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 1201.89,
+                "id": "feed/http://feeds.feedburner.com/typepad/alleyinsider/silicon_alley_insider",
+                "feedId": "feed/http://feeds.feedburner.com/typepad/alleyinsider/silicon_alley_insider",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 1194.93,
+                "id": "feed/http://feeds.feedburner.com/Makeuseof",
+                "feedId": "feed/http://feeds.feedburner.com/Makeuseof",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1190.12,
+                "id": "feed/http://newsrss.bbc.co.uk/rss/newsonline_world_edition/technology/rss.xml",
+                "feedId": "feed/http://newsrss.bbc.co.uk/rss/newsonline_world_edition/technology/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 1188.73,
+                "id": "feed/http://www.androidpolice.com/feed/",
+                "feedId": "feed/http://www.androidpolice.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 1186.09,
+                "id": "feed/http://9to5google.com/feed/",
+                "feedId": "feed/http://9to5google.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1170.53,
+                "id": "feed/http://motherboard.vice.com/rss",
+                "feedId": "feed/http://motherboard.vice.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1169.32,
+                "id": "feed/http://feeds.slashgear.com/slashgear",
+                "feedId": "feed/http://feeds.slashgear.com/slashgear",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 1164.88,
+                "id": "feed/http://www.gsmarena.com/rss-news-reviews.php3",
+                "feedId": "feed/http://www.gsmarena.com/rss-news-reviews.php3",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1159.2,
+                "id": "feed/https://www.yahoo.com/tech/rss",
+                "feedId": "feed/https://www.yahoo.com/tech/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 1159.16,
+                "id": "feed/http://feeds.feedburner.com/wmexperts",
+                "feedId": "feed/http://feeds.feedburner.com/wmexperts",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 1158.14,
+                "id": "feed/http://feeds.feedburner.com/androidauthority",
+                "feedId": "feed/http://feeds.feedburner.com/androidauthority",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1142.92,
+                "id": "feed/http://www.theguardian.com/technology/rss",
+                "feedId": "feed/http://www.theguardian.com/technology/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1132.57,
+                "id": "feed/http://www.coolest-gadgets.com/feed/",
+                "feedId": "feed/http://www.coolest-gadgets.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 1129.12,
+                "id": "feed/http://venturebeat.com/feed/",
+                "feedId": "feed/http://venturebeat.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1125.51,
+                "id": "feed/http://gizmag.com/xml/",
+                "feedId": "feed/http://gizmag.com/xml/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 1116.07,
+                "id": "feed/http://blog.makezine.com/index.xml",
+                "feedId": "feed/http://blog.makezine.com/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 1115.66,
+                "id": "feed/http://www.appleinsider.com/appleinsider.rss",
+                "feedId": "feed/http://www.appleinsider.com/appleinsider.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 1104.81,
+                "id": "feed/http://feeds.labnol.org/labnol",
+                "feedId": "feed/http://feeds.labnol.org/labnol",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 99.0,
+                "leoScore": 1092.51,
+                "id": "feed/http://www.ubergizmo.com/index.xml",
+                "feedId": "feed/http://www.ubergizmo.com/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1089.66,
+                "id": "feed/http://www.the-gadgeteer.com/feed",
+                "feedId": "feed/http://www.the-gadgeteer.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1083.21,
+                "id": "feed/http://www.ghacks.net/feed/",
+                "feedId": "feed/http://www.ghacks.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 1078.89,
+                "id": "feed/http://www.techspot.com/backend.xml",
+                "feedId": "feed/http://www.techspot.com/backend.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 76.0,
+                "leoScore": 1075.21,
+                "id": "feed/http://feeds.feedburner.com/tedtalks_video",
+                "feedId": "feed/http://feeds.feedburner.com/tedtalks_video",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 81.0,
+                "leoScore": 1071.41,
+                "id": "feed/http://techblog.netflix.com/feeds/posts/default",
+                "feedId": "feed/http://techblog.netflix.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 1063.99,
+                "id": "feed/http://www.geekologie.com/index.xml",
+                "feedId": "feed/http://www.geekologie.com/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 1061.07,
+                "id": "feed/http://rss.macworld.com/macworld/feeds/main",
+                "feedId": "feed/http://rss.macworld.com/macworld/feeds/main",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 1054.35,
+                "id": "feed/http://digg.com/rss/index.xml",
+                "feedId": "feed/http://digg.com/rss/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 1054.24,
+                "id": "feed/http://feeds.feedburner.com/neowin-main",
+                "feedId": "feed/http://feeds.feedburner.com/neowin-main",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 1050.71,
+                "id": "feed/http://www.joelonsoftware.com/rss.xml",
+                "feedId": "feed/http://www.joelonsoftware.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1047.69,
+                "id": "feed/http://feeds.computerworld.com/Computerworld/News",
+                "feedId": "feed/http://feeds.computerworld.com/Computerworld/News",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 1033.79,
+                "id": "feed/http://krebsonsecurity.com/feed/",
+                "feedId": "feed/http://krebsonsecurity.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 1032.8,
+                "id": "feed/http://www.zdnet.com/news/rss.xml",
+                "feedId": "feed/http://www.zdnet.com/news/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 1031.63,
+                "id": "feed/https://www.thurrott.com/feed",
+                "feedId": "feed/https://www.thurrott.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 1030.35,
+                "id": "feed/http://www.xda-developers.com/feed/",
+                "feedId": "feed/http://www.xda-developers.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 1029.68,
+                "id": "feed/https://blog.feedly.com/feed/?cat=-6",
+                "feedId": "feed/https://blog.feedly.com/feed/?cat=-6",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 1028.81,
+                "id": "feed/http://feeds.feedburner.com/oreilly/radar/atom",
+                "feedId": "feed/http://feeds.feedburner.com/oreilly/radar/atom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": 1025.22,
+                "id": "feed/http://feeds.feedburner.com/theiphoneblog",
+                "feedId": "feed/http://feeds.feedburner.com/theiphoneblog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1023.97,
+                "id": "feed/http://feeds.feedburner.com/TestedAll",
+                "feedId": "feed/http://feeds.feedburner.com/TestedAll",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 76.0,
+                "leoScore": 1023.96,
+                "id": "feed/http://feeds.feedburner.com/CoolTools",
+                "feedId": "feed/http://feeds.feedburner.com/CoolTools",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1020.28,
+                "id": "feed/http://feeds.feedburner.com/geekwire",
+                "feedId": "feed/http://feeds.feedburner.com/geekwire",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 1018.78,
+                "id": "feed/http://www.osnews.com/files/recent.xml",
+                "feedId": "feed/http://www.osnews.com/files/recent.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 1014.43,
+                "id": "feed/http://www.marco.org/rss",
+                "feedId": "feed/http://www.marco.org/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 1013.24,
+                "id": "feed/http://feeds.feedburner.com/Liliputing",
+                "feedId": "feed/http://feeds.feedburner.com/Liliputing",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 1011.82,
+                "id": "feed/http://scobleizer.com/feed/",
+                "feedId": "feed/http://scobleizer.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 1010.81,
+                "id": "feed/http://feeds.feedburner.com/HighScalability",
+                "feedId": "feed/http://feeds.feedburner.com/HighScalability",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 1008.72,
+                "id": "feed/http://mobilesyrup.com/feed/",
+                "feedId": "feed/http://mobilesyrup.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 1003.92,
+                "id": "feed/http://www.addictivetips.com/feed/",
+                "feedId": "feed/http://www.addictivetips.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": 1002.89,
+                "id": "feed/http://feeds.feedburner.com/pocketnow",
+                "feedId": "feed/http://feeds.feedburner.com/pocketnow",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 1001.96,
+                "id": "feed/http://feeds2.feedburner.com/IeeeSpectrum",
+                "feedId": "feed/http://feeds2.feedburner.com/IeeeSpectrum",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 71.0,
+                "leoScore": 1001.64,
+                "id": "feed/http://www.schneier.com/blog/index.rdf",
+                "feedId": "feed/http://www.schneier.com/blog/index.rdf",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 1000.4,
+                "id": "feed/http://thehackernews.com/feeds/posts/default",
+                "feedId": "feed/http://thehackernews.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 92.0,
+                "leoScore": 997.57,
+                "id": "feed/http://www.betanews.com/rss2",
+                "feedId": "feed/http://www.betanews.com/rss2",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 990.85,
+                "id": "feed/http://feeds.feedburner.com/geeksAreSexyTechnologyNews",
+                "feedId": "feed/http://feeds.feedburner.com/geeksAreSexyTechnologyNews",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 68.0,
+                "leoScore": 990.04,
+                "id": "feed/http://feeds.feedburner.com/fastcompany/headlines",
+                "feedId": "feed/http://feeds.feedburner.com/fastcompany/headlines",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 986.8,
+                "id": "feed/http://www.huffingtonpost.com/feeds/verticals/technology/index.xml",
+                "feedId": "feed/http://www.huffingtonpost.com/feeds/verticals/technology/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 984.4,
+                "id": "feed/http://www.wired.co.uk/rss.aspx",
+                "feedId": "feed/http://www.wired.co.uk/rss.aspx",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 982.95,
+                "id": "feed/http://www.raspberrypi.org/feed",
+                "feedId": "feed/http://www.raspberrypi.org/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 978.23,
+                "id": "feed/http://www.technobuffalo.com/feed/",
+                "feedId": "feed/http://www.technobuffalo.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 976.55,
+                "id": "feed/http://qz.com/re/technology/feed/",
+                "feedId": "feed/http://qz.com/re/technology/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 975.95,
+                "id": "feed/http://feeds.gizmodo.com.au/GizmodoAustralia",
+                "feedId": "feed/http://feeds.gizmodo.com.au/GizmodoAustralia",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": -1.0,
+                "id": "feed/http://www.nytimes.com/services/xml/rss/nyt/Technology.xml",
+                "feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/Technology.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": -2.0,
+                "id": "feed/http://feeds.feedburner.com/crunchgear",
+                "feedId": "feed/http://feeds.feedburner.com/crunchgear",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": -3.0,
+                "id": "feed/http://feeds.macrumors.com/MacRumors-All",
+                "feedId": "feed/http://feeds.macrumors.com/MacRumors-All",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": -4.0,
+                "id": "feed/http://feeds.technologyreview.com/technology_review_top_stories",
+                "feedId": "feed/http://feeds.technologyreview.com/technology_review_top_stories",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": -5.0,
+                "id": "feed/http://gmailblog.blogspot.com/atom.xml",
+                "feedId": "feed/http://gmailblog.blogspot.com/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": -6.0,
+                "id": "feed/http://www.theverge.com/tech/rss/index.xml",
+                "feedId": "feed/http://www.theverge.com/tech/rss/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": -7.0,
+                "id": "feed/http://feeds.mashable.com/mashable/tech",
+                "feedId": "feed/http://feeds.mashable.com/mashable/tech",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": -8.0,
+                "id": "feed/http://feeds.feedburner.com/zdnet/microsoft",
+                "feedId": "feed/http://feeds.feedburner.com/zdnet/microsoft",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.39285699156302273,
+                "bestFeedId": "feed/http://www.sciam.com/xml/sciam.xml",
+                "size": 70517,
+                "topic": "science",
+                "topicId": "science"
+            },
+            {
+                "focusScore": 0.419936907409881,
+                "bestFeedId": "feed/http://martinfowler.com/bliki/bliki.atom",
+                "size": 45316,
+                "topic": "programming",
+                "topicId": "programming"
+            },
+            {
+                "focusScore": 0.6855366764220115,
+                "bestFeedId": "feed/http://krebsonsecurity.com/feed/",
+                "size": 31995,
+                "topic": "security",
+                "topicId": "security"
+            },
+            {
+                "focusScore": 0.4715683611504248,
+                "bestFeedId": "feed/http://www.androidcentral.com/feed",
+                "size": 30368,
+                "topic": "android",
+                "topicId": "android"
+            },
+            {
+                "focusScore": 0.4464780782646391,
+                "bestFeedId": "feed/http://www.macrumors.com/macrumors.xml",
+                "size": 30013,
+                "topic": "apple",
+                "topicId": "apple"
+            },
+            {
+                "focusScore": 0.2012023268854835,
+                "bestFeedId": "feed/http://blog.makezine.com/index.xml",
+                "size": 27125,
+                "topic": "diy",
+                "topicId": "diy"
+            },
+            {
+                "focusScore": 0.2592479803873624,
+                "bestFeedId": "feed/http://feeds.feedburner.com/CssTricks",
+                "size": 20669,
+                "topic": "web design",
+                "topicId": "web-design"
+            },
+            {
+                "focusScore": 0.3479782499507509,
+                "bestFeedId": "feed/http://googleblog.blogspot.com/atom.xml",
+                "size": 16215,
+                "topic": "google",
+                "topicId": "google"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "language": "en",
+        "size": 297365,
+        "topic": "tech",
+        "topicId": "tech"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/tech-writing.png",
+        "updated": 1604848896214,
+        "feedIds": [
+            "feed/http://feeds.feedburner.com/TomJohnson",
+            "feed/http://feeds.feedburner.com/techwhirl/feed",
+            "feed/http://ffeathers.wordpress.com/feed/",
+            "feed/http://www.scriptorium.com/feed/",
+            "feed/http://www.technicalcommunicationcenter.com/feed/",
+            "feed/http://blogs.adobe.com/techcomm/atom.xml",
+            "feed/http://feeds2.feedburner.com/CherryleafTechnicalAuthorsBlog",
+            "feed/http://heroictechwriting.wordpress.com/feed/",
+            "feed/http://everypageispageone.com/feed/",
+            "feed/http://clickhelp.co/news-feed/getFeed/?type=blog&format=rss",
+            "feed/http://cybertext.wordpress.com/feed/",
+            "feed/http://www.madcapsoftware.com/blog/feed/",
+            "feed/http://feeds.feedburner.com/TheContentWrangler",
+            "feed/https://technicalwritingtoolbox.com/feed/",
+            "feed/https://www.technicallywriteit.com/feed/",
+            "feed/http://hyperword.blogspot.com/feeds/posts/default",
+            "feed/http://matthewhelmke.net/feed/",
+            "feed/https://www.stc.org/notebook/feed/",
+            "feed/http://www.ditawriter.com/feed/",
+            "feed/http://www.scroll.co.uk/feed/",
+            "feed/http://tabbycatco.com/feed/",
+            "feed/https://alanjporter.wordpress.com/feed/",
+            "feed/https://techcommgeekmom.com/feed/",
+            "feed/http://www.hilarymarsh.com/feed/",
+            "feed/http://xmlpress.net/feed/",
+            "feed/http://kevinpnichols.com/feed/",
+            "feed/http://feeds.feedburner.com/therockleyblog",
+            "feed/http://podcast.writethedocs.org/itunes.rss",
+            "feed/http://feeds.feedburner.com/ContentRulesInc",
+            "feed/http://intertwingled.org/feed/",
+            "feed/http://iconlogic.blogs.com/weblog/atom.xml",
+            "feed/http://marli.us/feed/",
+            "feed/https://www.cherryleaf.com/blog/feed/",
+            "feed/https://www.reddit.com/r/technicalwriting/.rss",
+            "feed/https://www.madcapsoftware.com/blog/feed/"
+        ],
+        "focusScore": 0.7852202302226718,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.26438467228566537,
+                "bestFeedId": "feed/http://feeds.feedburner.com/TomJohnson",
+                "size": 59,
+                "topic": "technical writing"
+            }
+        ],
+        "bestFeedId": "feed/http://feeds.feedburner.com/TomJohnson",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 629.07,
+                "id": "feed/http://feeds.feedburner.com/TomJohnson",
+                "feedId": "feed/http://feeds.feedburner.com/TomJohnson",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 582.81,
+                "id": "feed/http://feeds.feedburner.com/techwhirl/feed",
+                "feedId": "feed/http://feeds.feedburner.com/techwhirl/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 547.24,
+                "id": "feed/http://ffeathers.wordpress.com/feed/",
+                "feedId": "feed/http://ffeathers.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 524.79,
+                "id": "feed/http://www.scriptorium.com/feed/",
+                "feedId": "feed/http://www.scriptorium.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 504.44,
+                "id": "feed/http://www.technicalcommunicationcenter.com/feed/",
+                "feedId": "feed/http://www.technicalcommunicationcenter.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 480.74,
+                "id": "feed/http://blogs.adobe.com/techcomm/atom.xml",
+                "feedId": "feed/http://blogs.adobe.com/techcomm/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 475.49,
+                "id": "feed/http://feeds2.feedburner.com/CherryleafTechnicalAuthorsBlog",
+                "feedId": "feed/http://feeds2.feedburner.com/CherryleafTechnicalAuthorsBlog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 470.04,
+                "id": "feed/http://heroictechwriting.wordpress.com/feed/",
+                "feedId": "feed/http://heroictechwriting.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 67.0,
+                "leoScore": 428.29,
+                "id": "feed/http://everypageispageone.com/feed/",
+                "feedId": "feed/http://everypageispageone.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 408.75,
+                "id": "feed/http://clickhelp.co/news-feed/getFeed/?type=blog&format=rss",
+                "feedId": "feed/http://clickhelp.co/news-feed/getFeed/?type=blog&format=rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 408.75,
+                "id": "feed/http://cybertext.wordpress.com/feed/",
+                "feedId": "feed/http://cybertext.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 400.0,
+                "id": "feed/http://www.madcapsoftware.com/blog/feed/",
+                "feedId": "feed/http://www.madcapsoftware.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 40.0,
+                "leoScore": 305.46,
+                "id": "feed/http://feeds.feedburner.com/TheContentWrangler",
+                "feedId": "feed/http://feeds.feedburner.com/TheContentWrangler",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 280.74,
+                "id": "feed/https://technicalwritingtoolbox.com/feed/",
+                "feedId": "feed/https://technicalwritingtoolbox.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 232.19,
+                "id": "feed/https://www.technicallywriteit.com/feed/",
+                "feedId": "feed/https://www.technicallywriteit.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 232.19,
+                "id": "feed/http://hyperword.blogspot.com/feeds/posts/default",
+                "feedId": "feed/http://hyperword.blogspot.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 200.0,
+                "id": "feed/http://matthewhelmke.net/feed/",
+                "feedId": "feed/http://matthewhelmke.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 200.0,
+                "id": "feed/https://www.stc.org/notebook/feed/",
+                "feedId": "feed/https://www.stc.org/notebook/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 200.0,
+                "id": "feed/http://www.ditawriter.com/feed/",
+                "feedId": "feed/http://www.ditawriter.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 200.0,
+                "id": "feed/http://www.scroll.co.uk/feed/",
+                "feedId": "feed/http://www.scroll.co.uk/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 200.0,
+                "id": "feed/http://tabbycatco.com/feed/",
+                "feedId": "feed/http://tabbycatco.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 200.0,
+                "id": "feed/https://alanjporter.wordpress.com/feed/",
+                "feedId": "feed/https://alanjporter.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 200.0,
+                "id": "feed/https://techcommgeekmom.com/feed/",
+                "feedId": "feed/https://techcommgeekmom.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": 166.1,
+                "id": "feed/http://www.hilarymarsh.com/feed/",
+                "feedId": "feed/http://www.hilarymarsh.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 158.5,
+                "id": "feed/http://xmlpress.net/feed/",
+                "feedId": "feed/http://xmlpress.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 158.5,
+                "id": "feed/http://kevinpnichols.com/feed/",
+                "feedId": "feed/http://kevinpnichols.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 158.5,
+                "id": "feed/http://feeds.feedburner.com/therockleyblog",
+                "feedId": "feed/http://feeds.feedburner.com/therockleyblog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 158.5,
+                "id": "feed/http://podcast.writethedocs.org/itunes.rss",
+                "feedId": "feed/http://podcast.writethedocs.org/itunes.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 36.0,
+                "leoScore": 124.54,
+                "id": "feed/http://feeds.feedburner.com/ContentRulesInc",
+                "feedId": "feed/http://feeds.feedburner.com/ContentRulesInc",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 33.0,
+                "leoScore": 118.3,
+                "id": "feed/http://intertwingled.org/feed/",
+                "feedId": "feed/http://intertwingled.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 14.0,
+                "leoScore": 68.01,
+                "id": "feed/http://iconlogic.blogs.com/weblog/atom.xml",
+                "feedId": "feed/http://iconlogic.blogs.com/weblog/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 10.0,
+                "leoScore": 54.26,
+                "id": "feed/http://marli.us/feed/",
+                "feedId": "feed/http://marli.us/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -1.0,
+                "id": "feed/https://www.cherryleaf.com/blog/feed/",
+                "feedId": "feed/https://www.cherryleaf.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -2.0,
+                "id": "feed/https://www.reddit.com/r/technicalwriting/.rss",
+                "feedId": "feed/https://www.reddit.com/r/technicalwriting/.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -3.0,
+                "id": "feed/https://www.madcapsoftware.com/blog/feed/",
+                "feedId": "feed/https://www.madcapsoftware.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.5039182385650153,
+                "bestFeedId": "feed/http://feeds.feedburner.com/writetodone",
+                "size": 9876,
+                "topic": "writing",
+                "topicId": "writing"
+            },
+            {
+                "focusScore": 0.7157235247655701,
+                "bestFeedId": "feed/http://www.nickmilton.com/feeds/posts/default",
+                "size": 251,
+                "topic": "km",
+                "topicId": "km"
+            },
+            {
+                "focusScore": 0.13389753761728496,
+                "bestFeedId": "feed/http://misssnarksfirstvictim.blogspot.com/feeds/posts/default",
+                "size": 57,
+                "topic": "agents",
+                "topicId": "agents"
+            },
+            {
+                "focusScore": 0.14426635560830672,
+                "bestFeedId": "feed/http://thispicturebooklife.com/feed/",
+                "size": 114,
+                "topic": "children's books",
+                "topicId": "children-s-books"
+            },
+            {
+                "focusScore": 0.25425506278367604,
+                "bestFeedId": "feed/http://feeds.feedburner.com/PublishingPerspectives",
+                "size": 988,
+                "topic": "publishing",
+                "topicId": "publishing"
+            },
+            {
+                "focusScore": 0.19276815276073084,
+                "bestFeedId": "feed/http://blogs.ncte.org/index.php/feed/",
+                "size": 71,
+                "topic": "literacy",
+                "topicId": "literacy"
+            },
+            {
+                "focusScore": 0.6657738095238095,
+                "bestFeedId": "feed/http://simonstaffans.com/feed/",
+                "size": 44,
+                "topic": "transmedia",
+                "topicId": "transmedia"
+            },
+            {
+                "focusScore": 0.10174032049407326,
+                "bestFeedId": "feed/http://www.learningscientists.org/blog?format=RSS",
+                "size": 2088,
+                "topic": "learning",
+                "topicId": "learning"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "writing",
+            "topicId": "writing"
+        },
+        "language": "en",
+        "size": 157,
+        "topic": "tech writing",
+        "topicId": "tech-writing"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/vc.png",
+        "updated": 1604848845450,
+        "feedIds": [
+            "feed/http://feeds.feedburner.com/BothSidesOfTheTable",
+            "feed/http://feeds.feedburner.com/FeldThoughts",
+            "feed/http://feeds.feedburner.com/AVc",
+            "feed/http://www.hunterwalk.com/feeds/posts/default",
+            "feed/http://abovethecrowd.com/feed/",
+            "feed/http://feeds.feedburner.com/thisisgoingtobebig",
+            "feed/http://tomtunguz.com/index.xml",
+            "feed/http://feeds.feedburner.com/forentrepreneurs",
+            "feed/http://versionone.vc/feed/",
+            "feed/http://continuations.com/rss",
+            "feed/http://a16z.com/feed/",
+            "feed/http://blog.samaltman.com/posts.atom",
+            "feed/http://blog.semilshah.com/feed/",
+            "feed/http://feeds.feedburner.com/DavidGCohen",
+            "feed/http://robgo.org/feed/",
+            "feed/http://steveblank.com/feed/",
+            "feed/http://www.vcconfidential.com/atom.xml",
+            "feed/http://andrewchen.co/feed/",
+            "feed/http://startupmanagement.org/feed/",
+            "feed/http://www.aaronsw.com/2002/feeds/pgessays.rss",
+            "feed/https://www.battery.com/powered/feed/",
+            "feed/http://www.bowerycap.com/feed/",
+            "feed/http://www.charleshudson.net/feed",
+            "feed/http://reidhoffman.org/feed/",
+            "feed/http://firstround.com/review/feed.xml",
+            "feed/http://georgianpartners.com/feed/",
+            "feed/http://www.standoutcapital.com/feed/",
+            "feed/http://www.unionsquareventures.com/feed",
+            "feed/http://feeds.feedburner.com/typepad/bijanblog",
+            "feed/http://acrowdedspace.com/rss.xml",
+            "feed/http://saastr.com/feed/",
+            "feed/http://ben-evans.com/benedictevans?format=rss",
+            "feed/http://www.sneakerheadvc.com/feed/",
+            "feed/http://feeds.teten.com/TetenBlog",
+            "feed/http://feeds.feedburner.com/BabblingVC",
+            "feed/http://nickgrossman.is/rss",
+            "feed/http://www.fabricegrinda.com/feed/",
+            "feed/http://lsvp.com/feed/",
+            "feed/http://ithacavc.wordpress.com/feed/",
+            "feed/http://goinglongblog.com/feed/",
+            "feed/https://medium.com/feed/greylock-perspectives",
+            "feed/http://schlaf.me/rss",
+            "feed/http://feeds.feedburner.com/jtangovc",
+            "feed/http://blog.eladgil.com/feeds/posts/default",
+            "feed/http://feeds.feedburner.com/blogspot/Cracking-the-code",
+            "feed/http://www.theinformation.com//feed",
+            "feed/https://medium.com/feed/point-nine-news",
+            "feed/http://feeds.feedburner.com/GothamGal",
+            "feed/http://feeds.feedburner.com/jasonball",
+            "feed/http://startupboy.com/feed/",
+            "feed/http://mattturck.com/feed/",
+            "feed/http://seeingbothsides.com/feed/",
+            "feed/http://vcwithme.co/feed/",
+            "feed/http://ventureminded.me/rss",
+            "feed/http://feeds.feedburner.com/k9ventures",
+            "feed/https://www.sethlevine.com/feed/",
+            "feed/http://feeds.feedburner.com/VentureCyclist",
+            "feed/http://calacanis.com/feed/",
+            "feed/http://www.luxcapital.com/blog/feed/",
+            "feed/http://feeds.feedburner.com/venturecapitalcafe",
+            "feed/http://www.cbinsights.com/blog/feed",
+            "feed/http://davidcummings.org/feed/",
+            "feed/http://blog.elizabethyin.com/rss",
+            "feed/http://nextviewventures.com/blog/?feed=rss",
+            "feed/http://avcinbrazil.wordpress.com/feed/",
+            "feed/http://davidjaxon.wordpress.com/feed/",
+            "feed/https://blog.ycombinator.com/feed/",
+            "feed/http://feeds.feedburner.com/RedpointBlog",
+            "feed/http://www.baincapitalventures.com/rss-feed/",
+            "feed/http://also.roybahat.com/rss",
+            "feed/http://www.greylock.com/feed/",
+            "feed/http://bluenotevc.com/feed/",
+            "feed/http://blog.vcexperts.com/feed/",
+            "feed/https://about.crunchbase.com/news/feed/",
+            "feed/http://lennypruss.co/rss",
+            "feed/http://feeds.feedburner.com/martinvarsavsky/english",
+            "feed/http://jordancooper.wordpress.com/feed/",
+            "feed/http://fortune.com/venture/feed/",
+            "feed/http://venturebeat.com/tag/venture-capital/feed/",
+            "feed/http://www.khoslaventures.com/feed/",
+            "feed/http://nvca.org/feed/",
+            "feed/http://www.vcaonline.com/news/rss/index.asp",
+            "feed/http://vcwaves.com/feed/",
+            "feed/http://ontheflyingbridge.wordpress.com/feed/",
+            "feed/http://feeds.feedburner.com/TheJCurve",
+            "feed/http://feeds.feedburner.com/AVcVentureCapitalAndTechnology",
+            "feed/http://bhorowitz.com/feed",
+            "feed/https://medium.com/feed/sequoia-capital",
+            "feed/https://medium.com/feed/@greylockvc",
+            "feed/http://jasonball.com/feed/",
+            "feed/https://medium.com/feed/@sequoia",
+            "feed/https://medium.com/feed/lightspeed-venture-partners",
+            "feed/https://medium.com/feed/@firstround",
+            "feed/https://medium.com/feed/@msuster",
+            "feed/https://medium.com/feed/@foundercollective",
+            "feed/https://medium.com/feed/sapphire-ventures-perspectives",
+            "feed/http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss",
+            "feed/https://medium.com/feed/memory-leak",
+            "feed/http://www.k9ventures.com/feed/",
+            "feed/https://medium.com/feed/@arinewman"
+        ],
+        "focusScore": 0.46900551734741563,
+        "duplicateTopics": [
+            {
+                "focusScore": 0.169147453567714,
+                "bestFeedId": "feed/http://feeds.feedburner.com/BothSidesOfTheTable",
+                "size": 585,
+                "topic": "venture capital"
+            },
+            {
+                "focusScore": 0.0209720252289828,
+                "bestFeedId": "feed/http://feeds.feedburner.com/BothSidesOfTheTable",
+                "size": 254,
+                "topic": "venture"
+            },
+            {
+                "focusScore": 0.07283646829794592,
+                "bestFeedId": "feed/http://feeds.feedburner.com/BothSidesOfTheTable",
+                "size": 202,
+                "topic": "vcs"
+            },
+            {
+                "focusScore": 0.1755515995506423,
+                "bestFeedId": "feed/http://feeds.feedburner.com/BothSidesOfTheTable",
+                "size": 189,
+                "topic": "tech startups vcs"
+            }
+        ],
+        "bestFeedId": "feed/http://feeds.feedburner.com/BothSidesOfTheTable",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 1056.57,
+                "id": "feed/http://feeds.feedburner.com/BothSidesOfTheTable",
+                "feedId": "feed/http://feeds.feedburner.com/BothSidesOfTheTable",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 1048.17,
+                "id": "feed/http://feeds.feedburner.com/FeldThoughts",
+                "feedId": "feed/http://feeds.feedburner.com/FeldThoughts",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 1029.83,
+                "id": "feed/http://feeds.feedburner.com/AVc",
+                "feedId": "feed/http://feeds.feedburner.com/AVc",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 952.18,
+                "id": "feed/http://www.hunterwalk.com/feeds/posts/default",
+                "feedId": "feed/http://www.hunterwalk.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 946.48,
+                "id": "feed/http://abovethecrowd.com/feed/",
+                "feedId": "feed/http://abovethecrowd.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 928.92,
+                "id": "feed/http://feeds.feedburner.com/thisisgoingtobebig",
+                "feedId": "feed/http://feeds.feedburner.com/thisisgoingtobebig",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 924.07,
+                "id": "feed/http://tomtunguz.com/index.xml",
+                "feedId": "feed/http://tomtunguz.com/index.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 894.67,
+                "id": "feed/http://feeds.feedburner.com/forentrepreneurs",
+                "feedId": "feed/http://feeds.feedburner.com/forentrepreneurs",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 892.88,
+                "id": "feed/http://versionone.vc/feed/",
+                "feedId": "feed/http://versionone.vc/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 88.0,
+                "leoScore": 887.11,
+                "id": "feed/http://continuations.com/rss",
+                "feedId": "feed/http://continuations.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 885.72,
+                "id": "feed/http://a16z.com/feed/",
+                "feedId": "feed/http://a16z.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 883.22,
+                "id": "feed/http://blog.samaltman.com/posts.atom",
+                "feedId": "feed/http://blog.samaltman.com/posts.atom",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 879.71,
+                "id": "feed/http://blog.semilshah.com/feed/",
+                "feedId": "feed/http://blog.semilshah.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 866.57,
+                "id": "feed/http://feeds.feedburner.com/DavidGCohen",
+                "feedId": "feed/http://feeds.feedburner.com/DavidGCohen",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 827.0,
+                "id": "feed/http://robgo.org/feed/",
+                "feedId": "feed/http://robgo.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 67.0,
+                "leoScore": 806.88,
+                "id": "feed/http://steveblank.com/feed/",
+                "feedId": "feed/http://steveblank.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 804.49,
+                "id": "feed/http://www.vcconfidential.com/atom.xml",
+                "feedId": "feed/http://www.vcconfidential.com/atom.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 65.0,
+                "leoScore": 799.54,
+                "id": "feed/http://andrewchen.co/feed/",
+                "feedId": "feed/http://andrewchen.co/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 83.0,
+                "leoScore": 782.38,
+                "id": "feed/http://startupmanagement.org/feed/",
+                "feedId": "feed/http://startupmanagement.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 63.0,
+                "leoScore": 762.63,
+                "id": "feed/http://www.aaronsw.com/2002/feeds/pgessays.rss",
+                "feedId": "feed/http://www.aaronsw.com/2002/feeds/pgessays.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 759.64,
+                "id": "feed/https://www.battery.com/powered/feed/",
+                "feedId": "feed/https://www.battery.com/powered/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 94.0,
+                "leoScore": 739.81,
+                "id": "feed/http://www.bowerycap.com/feed/",
+                "feedId": "feed/http://www.bowerycap.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 96.0,
+                "leoScore": 735.19,
+                "id": "feed/http://www.charleshudson.net/feed",
+                "feedId": "feed/http://www.charleshudson.net/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": 722.83,
+                "id": "feed/http://reidhoffman.org/feed/",
+                "feedId": "feed/http://reidhoffman.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 66.0,
+                "leoScore": 715.39,
+                "id": "feed/http://firstround.com/review/feed.xml",
+                "feedId": "feed/http://firstround.com/review/feed.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 715.38,
+                "id": "feed/http://georgianpartners.com/feed/",
+                "feedId": "feed/http://georgianpartners.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 713.97,
+                "id": "feed/http://www.standoutcapital.com/feed/",
+                "feedId": "feed/http://www.standoutcapital.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 699.36,
+                "id": "feed/http://www.unionsquareventures.com/feed",
+                "feedId": "feed/http://www.unionsquareventures.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 680.1,
+                "id": "feed/http://feeds.feedburner.com/typepad/bijanblog",
+                "feedId": "feed/http://feeds.feedburner.com/typepad/bijanblog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 669.97,
+                "id": "feed/http://acrowdedspace.com/rss.xml",
+                "feedId": "feed/http://acrowdedspace.com/rss.xml",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 64.0,
+                "leoScore": 667.62,
+                "id": "feed/http://saastr.com/feed/",
+                "feedId": "feed/http://saastr.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 56.0,
+                "leoScore": 658.97,
+                "id": "feed/http://ben-evans.com/benedictevans?format=rss",
+                "feedId": "feed/http://ben-evans.com/benedictevans?format=rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 658.42,
+                "id": "feed/http://www.sneakerheadvc.com/feed/",
+                "feedId": "feed/http://www.sneakerheadvc.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 647.82,
+                "id": "feed/http://feeds.teten.com/TetenBlog",
+                "feedId": "feed/http://feeds.teten.com/TetenBlog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 637.76,
+                "id": "feed/http://feeds.feedburner.com/BabblingVC",
+                "feedId": "feed/http://feeds.feedburner.com/BabblingVC",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 637.23,
+                "id": "feed/http://nickgrossman.is/rss",
+                "feedId": "feed/http://nickgrossman.is/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 628.88,
+                "id": "feed/http://www.fabricegrinda.com/feed/",
+                "feedId": "feed/http://www.fabricegrinda.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 98.0,
+                "leoScore": 624.75,
+                "id": "feed/http://lsvp.com/feed/",
+                "feedId": "feed/http://lsvp.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 620.95,
+                "id": "feed/http://ithacavc.wordpress.com/feed/",
+                "feedId": "feed/http://ithacavc.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 93.0,
+                "leoScore": 620.54,
+                "id": "feed/http://goinglongblog.com/feed/",
+                "feedId": "feed/http://goinglongblog.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": 618.78,
+                "id": "feed/https://medium.com/feed/greylock-perspectives",
+                "feedId": "feed/https://medium.com/feed/greylock-perspectives",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 97.0,
+                "leoScore": 592.53,
+                "id": "feed/http://schlaf.me/rss",
+                "feedId": "feed/http://schlaf.me/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 580.74,
+                "id": "feed/http://feeds.feedburner.com/jtangovc",
+                "feedId": "feed/http://feeds.feedburner.com/jtangovc",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 65.0,
+                "leoScore": 570.36,
+                "id": "feed/http://blog.eladgil.com/feeds/posts/default",
+                "feedId": "feed/http://blog.eladgil.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": 568.56,
+                "id": "feed/http://feeds.feedburner.com/blogspot/Cracking-the-code",
+                "feedId": "feed/http://feeds.feedburner.com/blogspot/Cracking-the-code",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 56.0,
+                "leoScore": 568.17,
+                "id": "feed/http://www.theinformation.com//feed",
+                "feedId": "feed/http://www.theinformation.com//feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 89.0,
+                "leoScore": 562.65,
+                "id": "feed/https://medium.com/feed/point-nine-news",
+                "feedId": "feed/https://medium.com/feed/point-nine-news",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 69.0,
+                "leoScore": 556.93,
+                "id": "feed/http://feeds.feedburner.com/GothamGal",
+                "feedId": "feed/http://feeds.feedburner.com/GothamGal",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 556.51,
+                "id": "feed/http://feeds.feedburner.com/jasonball",
+                "feedId": "feed/http://feeds.feedburner.com/jasonball",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 63.0,
+                "leoScore": 554.86,
+                "id": "feed/http://startupboy.com/feed/",
+                "feedId": "feed/http://startupboy.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 72.0,
+                "leoScore": 551.9,
+                "id": "feed/http://mattturck.com/feed/",
+                "feedId": "feed/http://mattturck.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 551.7,
+                "id": "feed/http://seeingbothsides.com/feed/",
+                "feedId": "feed/http://seeingbothsides.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 539.23,
+                "id": "feed/http://vcwithme.co/feed/",
+                "feedId": "feed/http://vcwithme.co/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 532.19,
+                "id": "feed/http://ventureminded.me/rss",
+                "feedId": "feed/http://ventureminded.me/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 528.54,
+                "id": "feed/http://feeds.feedburner.com/k9ventures",
+                "feedId": "feed/http://feeds.feedburner.com/k9ventures",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 520.95,
+                "id": "feed/https://www.sethlevine.com/feed/",
+                "feedId": "feed/https://www.sethlevine.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 95.0,
+                "leoScore": 494.9,
+                "id": "feed/http://feeds.feedburner.com/VentureCyclist",
+                "feedId": "feed/http://feeds.feedburner.com/VentureCyclist",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 58.0,
+                "leoScore": 493.68,
+                "id": "feed/http://calacanis.com/feed/",
+                "feedId": "feed/http://calacanis.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 90.0,
+                "leoScore": 488.36,
+                "id": "feed/http://www.luxcapital.com/blog/feed/",
+                "feedId": "feed/http://www.luxcapital.com/blog/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 84.0,
+                "leoScore": 481.15,
+                "id": "feed/http://feeds.feedburner.com/venturecapitalcafe",
+                "feedId": "feed/http://feeds.feedburner.com/venturecapitalcafe",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": 474.99,
+                "id": "feed/http://www.cbinsights.com/blog/feed",
+                "feedId": "feed/http://www.cbinsights.com/blog/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 60.0,
+                "leoScore": 462.44,
+                "id": "feed/http://davidcummings.org/feed/",
+                "feedId": "feed/http://davidcummings.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 458.5,
+                "id": "feed/http://blog.elizabethyin.com/rss",
+                "feedId": "feed/http://blog.elizabethyin.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 458.5,
+                "id": "feed/http://nextviewventures.com/blog/?feed=rss",
+                "feedId": "feed/http://nextviewventures.com/blog/?feed=rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 458.5,
+                "id": "feed/http://avcinbrazil.wordpress.com/feed/",
+                "feedId": "feed/http://avcinbrazil.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 63.0,
+                "leoScore": 456.62,
+                "id": "feed/http://davidjaxon.wordpress.com/feed/",
+                "feedId": "feed/http://davidjaxon.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 46.0,
+                "leoScore": 455.02,
+                "id": "feed/https://blog.ycombinator.com/feed/",
+                "feedId": "feed/https://blog.ycombinator.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 82.0,
+                "leoScore": 444.95,
+                "id": "feed/http://feeds.feedburner.com/RedpointBlog",
+                "feedId": "feed/http://feeds.feedburner.com/RedpointBlog",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": 433.49,
+                "id": "feed/http://www.baincapitalventures.com/rss-feed/",
+                "feedId": "feed/http://www.baincapitalventures.com/rss-feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 413.43,
+                "id": "feed/http://also.roybahat.com/rss",
+                "feedId": "feed/http://also.roybahat.com/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 413.43,
+                "id": "feed/http://www.greylock.com/feed/",
+                "feedId": "feed/http://www.greylock.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 390.69,
+                "id": "feed/http://bluenotevc.com/feed/",
+                "feedId": "feed/http://bluenotevc.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 390.69,
+                "id": "feed/http://blog.vcexperts.com/feed/",
+                "feedId": "feed/http://blog.vcexperts.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 42.0,
+                "leoScore": 387.31,
+                "id": "feed/https://about.crunchbase.com/news/feed/",
+                "feedId": "feed/https://about.crunchbase.com/news/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 370.04,
+                "id": "feed/http://lennypruss.co/rss",
+                "feedId": "feed/http://lennypruss.co/rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 64.0,
+                "leoScore": 370.01,
+                "id": "feed/http://feeds.feedburner.com/martinvarsavsky/english",
+                "feedId": "feed/http://feeds.feedburner.com/martinvarsavsky/english",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 78.0,
+                "leoScore": 366.63,
+                "id": "feed/http://jordancooper.wordpress.com/feed/",
+                "feedId": "feed/http://jordancooper.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 58.0,
+                "leoScore": 360.15,
+                "id": "feed/http://fortune.com/venture/feed/",
+                "feedId": "feed/http://fortune.com/venture/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 86.0,
+                "leoScore": 351.52,
+                "id": "feed/http://venturebeat.com/tag/venture-capital/feed/",
+                "feedId": "feed/http://venturebeat.com/tag/venture-capital/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 77.0,
+                "leoScore": 348.31,
+                "id": "feed/http://www.khoslaventures.com/feed/",
+                "feedId": "feed/http://www.khoslaventures.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 345.94,
+                "id": "feed/http://nvca.org/feed/",
+                "feedId": "feed/http://nvca.org/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 51.0,
+                "leoScore": 345.85,
+                "id": "feed/http://www.vcaonline.com/news/rss/index.asp",
+                "feedId": "feed/http://www.vcaonline.com/news/rss/index.asp",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/http://vcwaves.com/feed/",
+                "feedId": "feed/http://vcwaves.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/http://ontheflyingbridge.wordpress.com/feed/",
+                "feedId": "feed/http://ontheflyingbridge.wordpress.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 332.19,
+                "id": "feed/http://feeds.feedburner.com/TheJCurve",
+                "feedId": "feed/http://feeds.feedburner.com/TheJCurve",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 87.0,
+                "leoScore": -1.0,
+                "id": "feed/http://feeds.feedburner.com/AVcVentureCapitalAndTechnology",
+                "feedId": "feed/http://feeds.feedburner.com/AVcVentureCapitalAndTechnology",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 74.0,
+                "leoScore": -2.0,
+                "id": "feed/http://bhorowitz.com/feed",
+                "feedId": "feed/http://bhorowitz.com/feed",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": -3.0,
+                "id": "feed/https://medium.com/feed/sequoia-capital",
+                "feedId": "feed/https://medium.com/feed/sequoia-capital",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 80.0,
+                "leoScore": -4.0,
+                "id": "feed/https://medium.com/feed/@greylockvc",
+                "feedId": "feed/https://medium.com/feed/@greylockvc",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -5.0,
+                "id": "feed/http://jasonball.com/feed/",
+                "feedId": "feed/http://jasonball.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -6.0,
+                "id": "feed/https://medium.com/feed/@sequoia",
+                "feedId": "feed/https://medium.com/feed/@sequoia",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 91.0,
+                "leoScore": -7.0,
+                "id": "feed/https://medium.com/feed/lightspeed-venture-partners",
+                "feedId": "feed/https://medium.com/feed/lightspeed-venture-partners",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 85.0,
+                "leoScore": -8.0,
+                "id": "feed/https://medium.com/feed/@firstround",
+                "feedId": "feed/https://medium.com/feed/@firstround",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 79.0,
+                "leoScore": -9.0,
+                "id": "feed/https://medium.com/feed/@msuster",
+                "feedId": "feed/https://medium.com/feed/@msuster",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -10.0,
+                "id": "feed/https://medium.com/feed/@foundercollective",
+                "feedId": "feed/https://medium.com/feed/@foundercollective",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -11.0,
+                "id": "feed/https://medium.com/feed/sapphire-ventures-perspectives",
+                "feedId": "feed/https://medium.com/feed/sapphire-ventures-perspectives",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 44.0,
+                "leoScore": -12.0,
+                "id": "feed/http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss",
+                "feedId": "feed/http://feeds.soundcloud.com/users/soundcloud:users:62921190/sounds.rss",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -13.0,
+                "id": "feed/https://medium.com/feed/memory-leak",
+                "feedId": "feed/https://medium.com/feed/memory-leak",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -14.0,
+                "id": "feed/http://www.k9ventures.com/feed/",
+                "feedId": "feed/http://www.k9ventures.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 100.0,
+                "leoScore": -15.0,
+                "id": "feed/https://medium.com/feed/@arinewman",
+                "feedId": "feed/https://medium.com/feed/@arinewman",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.2810068683729471,
+                "bestFeedId": "feed/http://feeds.feedburner.com/entrepreneur/latest",
+                "size": 18029,
+                "topic": "entrepreneurship",
+                "topicId": "entrepreneurship"
+            },
+            {
+                "focusScore": 0.35117174006830976,
+                "bestFeedId": "feed/http://mindtheproduct.com/feed/",
+                "size": 4070,
+                "topic": "product management",
+                "topicId": "product-management"
+            },
+            {
+                "focusScore": 0.27474561274210824,
+                "bestFeedId": "feed/http://saastr.com/feed/",
+                "size": 686,
+                "topic": "saas",
+                "topicId": "saas"
+            },
+            {
+                "focusScore": 0.44811762992076554,
+                "bestFeedId": "feed/http://bankinnovation.net/feed/",
+                "size": 2772,
+                "topic": "fintech",
+                "topicId": "fintech"
+            },
+            {
+                "focusScore": 0.17825573535493516,
+                "bestFeedId": "feed/http://rss.mckinseyquarterly.com/ad",
+                "size": 2136,
+                "topic": "strategy",
+                "topicId": "strategy"
+            },
+            {
+                "focusScore": 0.13102560933046914,
+                "bestFeedId": "feed/http://www.adoperationsonline.com/feed/",
+                "size": 354,
+                "topic": "adtech",
+                "topicId": "adtech"
+            },
+            {
+                "focusScore": 0.38031100424293157,
+                "bestFeedId": "feed/http://www.altassets.net/feed",
+                "size": 485,
+                "topic": "private equity",
+                "topicId": "private-equity"
+            },
+            {
+                "focusScore": 0.4004345930681282,
+                "bestFeedId": "feed/http://www.paymentssource.com/rss/emerging_payments.xml",
+                "size": 591,
+                "topic": "payments",
+                "topicId": "payments"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "entrepreneurship",
+            "topicId": "entrepreneurship"
+        },
+        "language": "en",
+        "size": 3293,
+        "topic": "tech startups vcs",
+        "topicId": "vc"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/techrepublic.png",
+        "updated": 1604848920837,
+        "feedIds": [
+            "feed/http://www.techrepublic.com/rssfeeds/topic/google/",
+            "feed/http://www.techrepublic.com/rssfeeds/whitepapers/",
+            "feed/http://www.techrepublic.com/rssfeeds/topic/open-source/",
+            "feed/http://www.techrepublic.com/rssfeeds/topic/microsoft/",
+            "feed/http://www.techrepublic.com/rssfeeds/downloads/",
+            "feed/http://www.techrepublic.com/rssfeeds/topic/android/",
+            "feed/http://www.techrepublic.com/rssfeeds/topic/software/",
+            "feed/http://www.techrepublic.com/rssfeeds/topic/cloud/"
+        ],
+        "focusScore": 0.2767084320638244,
+        "duplicateTopics": [],
+        "bestFeedId": "feed/http://www.techrepublic.com/rssfeeds/topic/google/",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 54.0,
+                "leoScore": 276.98,
+                "id": "feed/http://www.techrepublic.com/rssfeeds/topic/google/",
+                "feedId": "feed/http://www.techrepublic.com/rssfeeds/topic/google/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 45.0,
+                "leoScore": -1.0,
+                "id": "feed/http://www.techrepublic.com/rssfeeds/whitepapers/",
+                "feedId": "feed/http://www.techrepublic.com/rssfeeds/whitepapers/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 50.0,
+                "leoScore": -2.0,
+                "id": "feed/http://www.techrepublic.com/rssfeeds/topic/open-source/",
+                "feedId": "feed/http://www.techrepublic.com/rssfeeds/topic/open-source/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 28.0,
+                "leoScore": -3.0,
+                "id": "feed/http://www.techrepublic.com/rssfeeds/topic/microsoft/",
+                "feedId": "feed/http://www.techrepublic.com/rssfeeds/topic/microsoft/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 33.0,
+                "leoScore": -4.0,
+                "id": "feed/http://www.techrepublic.com/rssfeeds/downloads/",
+                "feedId": "feed/http://www.techrepublic.com/rssfeeds/downloads/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 36.0,
+                "leoScore": -5.0,
+                "id": "feed/http://www.techrepublic.com/rssfeeds/topic/android/",
+                "feedId": "feed/http://www.techrepublic.com/rssfeeds/topic/android/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 27.0,
+                "leoScore": -6.0,
+                "id": "feed/http://www.techrepublic.com/rssfeeds/topic/software/",
+                "feedId": "feed/http://www.techrepublic.com/rssfeeds/topic/software/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 10.0,
+                "leoScore": -7.0,
+                "id": "feed/http://www.techrepublic.com/rssfeeds/topic/cloud/",
+                "feedId": "feed/http://www.techrepublic.com/rssfeeds/topic/cloud/",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.32919167610818073,
+                "bestFeedId": "feed/http://www.engadget.com/rss-full.xml",
+                "size": 297365,
+                "topic": "tech",
+                "topicId": "tech"
+            },
+            {
+                "focusScore": 0.626202555113751,
+                "bestFeedId": "feed/http://ioshints.blogspot.com/feeds/posts/default",
+                "size": 3289,
+                "topic": "networking",
+                "topicId": "networking"
+            },
+            {
+                "focusScore": 0.5586033789857895,
+                "bestFeedId": "feed/http://www.redbooks.ibm.com/rss/all.xml",
+                "size": 516,
+                "topic": "ibm",
+                "topicId": "ibm"
+            },
+            {
+                "focusScore": 0.12682696662715875,
+                "bestFeedId": "feed/http://blogs.zdnet.com/open-source/wp-rss2.php",
+                "size": 1508,
+                "topic": "open source",
+                "topicId": "open-source"
+            },
+            {
+                "focusScore": 0.26336776922409866,
+                "bestFeedId": "feed/http://datacenterdesign.blogspot.com/feeds/posts/default",
+                "size": 388,
+                "topic": "datacenter",
+                "topicId": "datacenter"
+            },
+            {
+                "focusScore": 0.381334489092509,
+                "bestFeedId": "feed/http://www.redhat.com/en/rss/blog",
+                "size": 187,
+                "topic": "red hat",
+                "topicId": "red-hat"
+            },
+            {
+                "focusScore": 0.6820956378139091,
+                "bestFeedId": "feed/http://www.yellow-bricks.com/feed/",
+                "size": 2474,
+                "topic": "vmware",
+                "topicId": "vmware"
+            },
+            {
+                "focusScore": 0.5898268398268398,
+                "bestFeedId": "feed/https://www.youtube.com/feeds/videos.xml?channel_id=UCtVHX3fmQVjVgj_cGRIxRSg",
+                "size": 42,
+                "topic": "f5",
+                "topicId": "f5"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "parentTopic": {
+            "size": 0,
+            "topic": "tech",
+            "topicId": "tech"
+        },
+        "language": "en",
+        "size": 58,
+        "topic": "techrepublic",
+        "topicId": "techrepublic"
+    },
+    {
+        "visual": "https://storage.googleapis.com/discovery-topic-images/tech-people.png",
+        "updated": 1604848906854,
+        "feedIds": [
+            "feed/http://www.rayphoon.com/feed/",
+            "feed/http://intunedin.net/feed/",
+            "feed/http://blog.smallbizthoughts.com/feeds/posts/default",
+            "feed/http://blog.ciaops.com/feeds/posts/default",
+            "feed/http://feeds.feedburner.com/NathanBarry"
+        ],
+        "focusScore": 0.07330962928052961,
+        "duplicateTopics": [],
+        "bestFeedId": "feed/http://www.rayphoon.com/feed/",
+        "recommendedFeeds": [
+            {
+                "relevanceScore": 100.0,
+                "leoScore": 158.5,
+                "id": "feed/http://www.rayphoon.com/feed/",
+                "feedId": "feed/http://www.rayphoon.com/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 12.0,
+                "leoScore": 55.73,
+                "id": "feed/http://intunedin.net/feed/",
+                "feedId": "feed/http://intunedin.net/feed/",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 8.0,
+                "leoScore": 42.58,
+                "id": "feed/http://blog.smallbizthoughts.com/feeds/posts/default",
+                "feedId": "feed/http://blog.smallbizthoughts.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 8.0,
+                "leoScore": 42.28,
+                "id": "feed/http://blog.ciaops.com/feeds/posts/default",
+                "feedId": "feed/http://blog.ciaops.com/feeds/posts/default",
+                "velocity": 0.0,
+                "subscribers": 0
+            },
+            {
+                "relevanceScore": 2.0,
+                "leoScore": 16.32,
+                "id": "feed/http://feeds.feedburner.com/NathanBarry",
+                "feedId": "feed/http://feeds.feedburner.com/NathanBarry",
+                "velocity": 0.0,
+                "subscribers": 0
+            }
+        ],
+        "relatedTopics": [
+            {
+                "focusScore": 0.032526728623962976,
+                "bestFeedId": "feed/http://www.zdnet.com/topic-operating-systems/rss.xml",
+                "size": 227,
+                "topic": "enterprise",
+                "topicId": "enterprise"
+            },
+            {
+                "focusScore": 0.27474561274210824,
+                "bestFeedId": "feed/http://saastr.com/feed/",
+                "size": 686,
+                "topic": "saas",
+                "topicId": "saas"
+            },
+            {
+                "focusScore": 0.3825201483559254,
+                "bestFeedId": "feed/http://aws.typepad.com/aws/atom.xml",
+                "size": 8014,
+                "topic": "cloud",
+                "topicId": "cloud"
+            },
+            {
+                "focusScore": 0.28683083742661386,
+                "bestFeedId": "feed/http://devops.com/feed/",
+                "size": 3560,
+                "topic": "devops",
+                "topicId": "devops"
+            },
+            {
+                "focusScore": 0.08498380724798878,
+                "bestFeedId": "feed/http://www.the-paper-trail.org/index.xml",
+                "size": 654,
+                "topic": "scalability",
+                "topicId": "scalability"
+            },
+            {
+                "focusScore": 0.35117174006830976,
+                "bestFeedId": "feed/http://mindtheproduct.com/feed/",
+                "size": 4070,
+                "topic": "product management",
+                "topicId": "product-management"
+            },
+            {
+                "focusScore": 0.2058668783107956,
+                "bestFeedId": "feed/http://blog.pagerduty.com/feed/",
+                "size": 296,
+                "topic": "monitoring",
+                "topicId": "monitoring"
+            },
+            {
+                "focusScore": 0.6440398883754445,
+                "bestFeedId": "feed/http://www.mountaingoatsoftware.com/blog/rss",
+                "size": 2648,
+                "topic": "agile",
+                "topicId": "agile"
+            }
+        ],
+        "versionCode": "en_20201107_20201108_072031",
+        "language": "en",
+        "size": 97,
+        "topic": "tech people",
+        "topicId": "tech-people"
+    }
+]
