@@ -1,4 +1,4 @@
-use actix_web::{web, Query, HttpResponse};
+use actix_web::{web, HttpResponse};
 use sqlx::PgPool;
 
 #[derive(serde::Deserialize)]
@@ -13,6 +13,6 @@ struct SearchTerm {
         search_term 
     )
 )]
-pub async fn search_feeds(search_term: Query<SearchTerm>) -> Result<HttpResponse, HttpResponse> {
-    
+pub async fn search_feeds(search_term: web::Query<SearchTerm>) -> Result<HttpResponse, HttpResponse> {
+
 }
