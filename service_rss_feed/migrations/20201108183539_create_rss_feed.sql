@@ -5,4 +5,5 @@ CREATE TABLE IF NOT EXISTS rss_feed(
     site_link TEXT NOT NULL,
     channel TEXT NOT NULL, 
     feed_desc TEXT
+    topic JSONB
 );
