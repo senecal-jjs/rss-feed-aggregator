@@ -8,43 +8,51 @@ import StackedInput from "./styles/Input";
 import H1 from "./styles/Heading";
 import Form from "./styles/Form";
 import { useAppContext } from "../libs/contextLib";
+import AuthService from "../auth/Auth";
 
 function Login() {
     const { userHasAuthenticated } = useAppContext(); 
     let history = useHistory();
-    let emailRef = React.createRef();
+    let usernameRef = React.createRef();
     let passwordRef = React.createRef();
 
     const submitLogin = (event) => {
         event.preventDefault();
 
         const credentials = {
-            email: emailRef.current.value,
+            username: usernameRef.current.value,
             password: passwordRef.current.value, 
         }
 
-        axios({ 
-            method: 'post',
-            url: '/login',
-            headers: {'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8'},
-            data: qs.stringify({
-                email: credentials.email,
-                password: credentials.password
-            })
-         })
-            .then(res => {
-                if (res.status === 200) {
-                    userHasAuthenticated(true);
-                    history.push("/dashboard");
-                }
-            });
+        AuthService.tryLogin(credentials.username, credentials.password).then(res => {
+            if (res.status === 200) {
+                userHasAuthenticated(true);
+                history.push("/dashboard")
+            }
+        })
+
+        // axios({ 
+        //     method: 'post',
+        //     url: '/login',
+        //     headers: {'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8'},
+        //     data: qs.stringify({
+        //         email: credentials.email,
+        //         password: credentials.password
+        //     })
+        //  })
+        //     .then(res => {
+        //         if (res.status === 200) {
+        //             userHasAuthenticated(true);
+        //             history.push("/dashboard");
+        //         }
+        //     });
     }
 
     return (
         <Container>
             <H1>Login or Register</H1>
             <Form className="login-form" onSubmit={submitLogin}>
-                <StackedInput name="email" ref={emailRef} type="text" placeholder="Email"></StackedInput>
+                <StackedInput name="username" ref={usernameRef} type="text" placeholder="Username"></StackedInput>
                 <StackedInput name="password" ref={passwordRef} type="text" placeholder="Password"></StackedInput>
                 <Button stacked type="submit">Submit</Button>
             </Form>

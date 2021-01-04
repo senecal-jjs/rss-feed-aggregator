@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useHistory } from "react-router-dom";
 import Routes from "./Router";
 import { AppContext } from "./libs/contextLib";
-import { currentSession } from "./auth/Auth";
+import AuthService from "./auth/Auth";
 
 function App() {
   const history = useHistory();
@@ -15,7 +15,7 @@ function App() {
 
   async function onLoad() {
     try {
-      await currentSession();
+      await AuthService.isTokenValid();
       userHasAuthenticated(true);
     } catch(e) {
       userHasAuthenticated(false); 
