@@ -1,10 +1,14 @@
 import axios from 'axios';
+import { isEnvProd } from '..env';
+
+// TODO: better handling of domain based on env var
+export const baseUrl = () => isEnvProd ? 'http://localhost:8080' : 'https://www.seymore.fyi'
 
 const sessionKey = 'jwt';
 const jwt = window.localStorage.getItem(sessionKey);
 
 const restApi = axios.create({
-    baseURL: 'http://localhost:8080',
+    baseURL: baseUrl,
     headers: {Authorization: jwt }
 });
 
