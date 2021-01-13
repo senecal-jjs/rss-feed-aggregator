@@ -1,4 +1,4 @@
-import _axios from 'axios';
+import _axios from "axios";
 import { isEnvProd } from '../env';
 
 // TODO: better handling of domain based on env var
@@ -35,4 +35,24 @@ axios.interceptors.response.use(
   }
 );
 
-export default { axios };
+function errorHandling(error) {
+    if (error.response) {
+      return error.response.data;
+    } else if (error.request) {
+      // TODO: handle request error
+      console.error(`Unexpected request error ${error.request}`, error); 
+    } else {
+      console.error(`Something happened setting up the request ${error.message}`, error); 
+    }
+    return null;
+  }
+
+export const ajaxGet = async (action, dispatch, url) => {
+    try {
+        const result = await axios.get(url);
+        dispatch(`${action}_SUCCESS`);
+        return Promise.resolve(result.data);
+    } catch (error) {
+        dispatch(`${action}_FAILURE`);
+    }
+}
