@@ -1,18 +1,16 @@
-import axios from 'axios';
-import { isEnvProd } from '..env';
+import { default as ax } from 'axios';
+import { isEnvProd } from '../env';
 
 // TODO: better handling of domain based on env var
 export const baseUrl = () => isEnvProd ? 'http://localhost:8080' : 'https://www.seymore.fyi'
 
-const sessionKey = 'jwt';
-const jwt = window.localStorage.getItem(sessionKey);
-
-const restApi = axios.create({
-    baseURL: baseUrl,
-    headers: {Authorization: jwt }
+const axios = ax.create({
+    baseURL: baseUrl()
 });
 
-restApi.interceptors.use(
+ax.defaults.headers.common.Authorization = localStorage.getItem('jwt');
+
+axios.interceptors.response.use(
     response => {
       if (response.status === 200) {
         const { authorization } = response.headers;
@@ -30,11 +28,11 @@ restApi.interceptors.use(
         (error?.response?.status === 403 && error?.response?.data?.message?.toUpperCase() === 'UNAUTHENTICATED') ||
         error?.response?.status === 401
       ) {
-        window.location.href = '/login'
+        window.location.href = baseUrl + '/login'
       }
 
       return Promise.reject(error);
     }
   );
 
-  export { restApi };
+  export default { axios };
