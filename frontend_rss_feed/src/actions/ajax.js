@@ -56,3 +56,13 @@ export const ajaxGet = async (action, dispatch, url) => {
         dispatch(`${action}_FAILURE`);
     }
 }
+
+export const ajaxPost = async (action, dispatch, url, data) => {
+    try {
+        const result = await axios.get(url, data);
+        dispatch(`${action}_SUCCESS`);
+        return Promise.resolve(result.data);
+    } catch (error) {
+        dispatch(`${action}_FAILURE`);
+    }
+}
