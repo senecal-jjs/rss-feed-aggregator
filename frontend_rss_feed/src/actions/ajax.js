@@ -50,19 +50,19 @@ function errorHandling(error) {
 export const ajaxGet = async (action, dispatch, url) => {
     try {
         const result = await axios.get(url);
-        dispatch(`${action}_SUCCESS`);
+        dispatch({type: `${action}_SUCCESS`, payload: result.data});
         return Promise.resolve(result.data);
     } catch (error) {
-        dispatch(`${action}_FAILURE`);
+        dispatch({type: `${action}_FAILURE`});
     }
 }
 
 export const ajaxPost = async (action, dispatch, url, data) => {
     try {
-        const result = await axios.get(url, data);
-        dispatch(`${action}_SUCCESS`);
+        const result = await axios.post(url, data);
+        dispatch({type: `${action}_SUCCESS`, payload: result.data});
         return Promise.resolve(result.data);
     } catch (error) {
-        dispatch(`${action}_FAILURE`);
+        dispatch({type: `${action}_FAILURE`});
     }
 }
