@@ -1,4 +1,4 @@
-import axios from "../apis/rest.api";
+import axios from "axios";
 import AuthException from "../error/AuthError";
 
 const AUTH_URL = "/api/v1/auth"

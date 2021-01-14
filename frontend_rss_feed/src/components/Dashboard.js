@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import useDataApi from "../hooks/useDataApi.js";
+import useFeed from "../hooks/useFeed";
 import AddFeed from "./AddFeed";
 import Navbar from "./Navbar";
 import H1 from "./styles/Heading";
@@ -13,14 +14,15 @@ function Dashboard() {
     const[currentChannel, setChannel] = useState( { label: "All", value: "all" } );
     const[showAddFeed, setShowAddFeed] = useState(false);
     const[showArticle, setShowArticle] = useState(false);
-    const[{ data, isLoading, isError }, doFetch] = useDataApi(
-        '/get-feeds',
-        { feeds: [] },
-    );
+    const{data, isLoading, isError} = useFeed();
+    // const[{ data, isLoading, isError }, doFetch] = useDataApi(
+    //     '/get-feeds',
+    //     { feeds: [] },
+    // );
 
-    useEffect(() => {
-        doFetch("/get-feeds")
-    });
+    // useEffect(() => {
+    //     doFetch("/get-feeds")
+    // });
 
     function filterFeeds() {
         if (currentChannel.value !== "all") {

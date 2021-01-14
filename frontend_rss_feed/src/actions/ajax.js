@@ -1,11 +1,9 @@
 import _axios from "axios";
-import { isEnvProd } from '../env';
 
-// TODO: better handling of domain based on env var
-const baseUrl = () => isEnvProd ? 'http://localhost:8080' : 'https://www.seymore.fyi'
+const baseUrl = process.env.REACT_APP_BASE_URL
 
 const axios = _axios.create({
-    baseURL: baseUrl()
+    baseURL: baseUrl 
 });
 
 axios.defaults.headers.common.Authorization = localStorage.getItem('jwt');
