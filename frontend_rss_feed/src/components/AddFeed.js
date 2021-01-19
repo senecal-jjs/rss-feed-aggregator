@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Button from "./styles/Button";
 import Container from "./styles/Container";
 import StackedInput from "./styles/Input";
@@ -6,6 +6,12 @@ import Form from "./styles/Form";
 
 function AddFeed() {
     let searchRef = React.createRef();
+
+    useEffect(() => {
+
+    }, [searchRef.current.value]);
+
+    
 
     return (
         <Container>

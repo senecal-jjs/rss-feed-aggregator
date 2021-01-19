@@ -1,19 +1,18 @@
 import { REQUEST, SUCCESS, FAILURE } from "../actions/http-actions";
-import { GET_FEED } from "../actions/feed-actions";
+import { SUBMIT_FEED_SEARCH } from "../actions/feed-search-actions";
 
-const feedReducer = (state, action) => {
-    console.log(action.type)
+const feedSearchReducer = (state, action) => {
     switch(action.type) {
-        case `${GET_FEED}_${REQUEST}`:
+        case `${SUBMIT_FEED_SEARCH}_${REQUEST}`:
             return {...state, isLoading: true, isError: false};
-        case `${GET_FEED}_${SUCCESS}`:
+        case `${SUBMIT_FEED_SEARCH}_${SUCCESS}`:
             return {
                 ...state,
                 isLoading: false,
                 isError: false,
                 data: action.payload,
             };
-        case `${GET_FEED}_${FAILURE}`:
+        case `${SUBMIT_FEED_SEARCH}_${FAILURE}`:
             return {
                 ...state,
                 isLoading: false,
@@ -24,5 +23,4 @@ const feedReducer = (state, action) => {
     }
 }
 
-export default feedReducer;
-
+export default feedSearchReducer;
