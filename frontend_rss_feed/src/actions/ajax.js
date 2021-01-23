@@ -2,18 +2,25 @@ import _axios from "axios";
 
 const baseUrl = process.env.REACT_APP_BASE_URL
 
-const axios = _axios.create({
+export const axios = _axios.create({
     baseURL: baseUrl 
 });
 
-axios.defaults.headers.common.Authorization = localStorage.getItem('jwt');
+// axios.defaults.headers.common.Authorization = localStorage.getItem('jwt');
+
+axios.interceptors.request.use(req => {
+  req.headers.authorization = localStorage.getItem('jwt');
+  return req;
+});
 
 axios.interceptors.response.use(
   response => {
     if (response.status === 200) {
       const { authorization } = response.headers;
-
+      console.log(response.headers);
+      console.log("response was 200");
       if (typeof authorization === 'string' && authorization.indexOf('Bearer ') === 0) {
+        console.log("setting jwt");
         localStorage.setItem("jwt", authorization)
       }
     }
@@ -46,6 +53,7 @@ function errorHandling(error) {
   }
 
 export const ajaxGet = async (action, dispatch, url) => {
+    dispatch({type: `${action}_REQUEST`})
     try {
         const result = await axios.get(url);
         dispatch({type: `${action}_SUCCESS`, payload: result.data});

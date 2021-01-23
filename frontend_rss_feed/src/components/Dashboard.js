@@ -21,7 +21,7 @@ function Dashboard() {
     // );
 
     // useEffect(() => {
-    //     doFetch("/get-feeds")
+    //     doFetch("/api/v1/feeds/get-feeds")
     // });
 
     function filterFeeds() {
@@ -38,7 +38,7 @@ function Dashboard() {
                         title={article.title} 
                         description={article.description} 
                         author={article.author} 
-                        pubDate={article.pub_date} 
+                        pubDate={article.pubDate} 
                     />
                 )
         }
@@ -53,7 +53,7 @@ function Dashboard() {
                         title={article.title} 
                         description={article.description} 
                         author={article.author} 
-                        pubDate={article.pub_date} 
+                        pubDate={article.pubDate} 
                     />
                 )
         } 
@@ -67,7 +67,7 @@ function Dashboard() {
                         title={article.title} 
                         description={article.description} 
                         author={article.author} 
-                        pubDate={article.pub_date} 
+                        pubDate={article.pubDate} 
                     />
                 )
         }

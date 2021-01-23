@@ -12,7 +12,7 @@ const useFeed = () => {
     useEffect(() => {
         let didCancel = false;
 
-        dispatch(getFeeds())
+        getFeeds(dispatch)
     }, [dispatch]);
 
     return state

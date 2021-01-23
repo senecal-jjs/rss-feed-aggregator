@@ -1,4 +1,5 @@
 import axios from "axios";
+// import { axios } from "../actions/ajax";
 import AuthException from "../error/AuthError";
 
 const AUTH_URL = "/api/v1/auth"
@@ -33,14 +34,18 @@ const authHeader = () => {
     const jwt = localStorage.getItem("jwt");
 
     if (jwt) {
-        return { Authorization: 'Bearer ' + jwt }
+        return 'Bearer ' + jwt 
     } else {
         return {};
     }
 };
 
 async function isTokenValid() {
-    const res = await axios.get(AUTH_URL + "/isAuthenticated")
+    const res = await axios.get(AUTH_URL + "/isAuthenticated", {
+        headers: {
+            Authorization: authHeader()
+        }
+    })
     if (res.status === 200) {
         return true 
     }

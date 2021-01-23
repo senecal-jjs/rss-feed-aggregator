@@ -1,5 +1,5 @@
 import { useState, useEffect, useReducer } from "react";
-import { axios } from "axios";
+import { axios } from "../actions/ajax";
 import dataFetchReducer from "../reducers/dataFetchReducer";
 
 const useDataApi = (initialUrl, initialData) => {

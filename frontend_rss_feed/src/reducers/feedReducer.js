@@ -2,7 +2,6 @@ import { REQUEST, SUCCESS, FAILURE } from "../actions/http-actions";
 import { GET_FEED } from "../actions/feed-actions";
 
 const feedReducer = (state, action) => {
-    console.log(action.type)
     switch(action.type) {
         case `${GET_FEED}_${REQUEST}`:
             return {...state, isLoading: true, isError: false};
