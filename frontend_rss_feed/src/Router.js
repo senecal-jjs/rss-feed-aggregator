@@ -54,8 +54,8 @@ function AuthenticatedRoute({ children, ...rest }) {
 function Routes() {
     return (
         <Switch>
-            <UnauthenticatedRoute exact path="/" component={Login} />
-            <AuthenticatedRoute exact path="/dashboard" component={Dashboard} />
+            <UnauthenticatedRoute exact path="/"><Login /></UnauthenticatedRoute> 
+            <AuthenticatedRoute exact path="/dashboard"><Dashboard /></AuthenticatedRoute>
             <Route component={NotFound} />
         </Switch>
     );

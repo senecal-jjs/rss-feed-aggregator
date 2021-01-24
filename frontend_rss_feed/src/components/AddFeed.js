@@ -7,11 +7,9 @@ import Form from "./styles/Form";
 function AddFeed() {
     let searchRef = React.createRef();
 
-    useEffect(() => {
+    // useEffect(() => {
 
-    }, [searchRef.current.value]);
-
-    
+    // }, [searchRef.current.value]);    
 
     return (
         <Container>
