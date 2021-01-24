@@ -6,6 +6,7 @@ const Grid = styled.div`
     overflow: hidden;
     height: 100vh;
     width: 100vw;
+    background: linear-gradient(#FCFCFC, #F0F0F0); 
 `
 
 export default Grid;
