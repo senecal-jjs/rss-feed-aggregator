@@ -8,6 +8,14 @@ const register = (username, password) => {
     return axios.post(AUTH_URL + "/register", {
             username, 
             password
+        })
+        .then((response) => {
+            console.log(response);
+            if (response.headers.authorization) {
+                localStorage.setItem("jwt", response.headers.authorization)
+            }
+    
+            return response
         });
 };
 

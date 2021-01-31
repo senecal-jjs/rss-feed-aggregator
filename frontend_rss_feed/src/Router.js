@@ -1,6 +1,7 @@
 import React from "react";
 import { Route, Switch, Redirect, useLocation } from "react-router-dom";
 import Login from "./components/Login";
+import Register from "./components/Register";
 import Dashboard from "./components/Dashboard";
 import NotFound from "./components/NotFound";
 import { useAppContext } from "./libs/contextLib";
@@ -54,7 +55,8 @@ function AuthenticatedRoute({ children, ...rest }) {
 function Routes() {
     return (
         <Switch>
-            <UnauthenticatedRoute exact path="/"><Login /></UnauthenticatedRoute> 
+            <UnauthenticatedRoute exact path="/login"><Login /></UnauthenticatedRoute> 
+            <UnauthenticatedRoute exact path="/register"><Register /></UnauthenticatedRoute>
             <AuthenticatedRoute exact path="/dashboard"><Dashboard /></AuthenticatedRoute>
             <Route component={NotFound} />
         </Switch>

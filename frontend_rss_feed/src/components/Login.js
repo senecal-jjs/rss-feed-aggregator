@@ -50,11 +50,12 @@ function Login() {
 
     return (
         <Container>
-            <H1>Login or Register</H1>
+            <H1>Login to your account</H1>
             <Form className="login-form" onSubmit={submitLogin}>
                 <StackedInput name="username" ref={usernameRef} type="text" placeholder="Username"></StackedInput>
                 <StackedInput name="password" ref={passwordRef} type="text" placeholder="Password"></StackedInput>
                 <Button stacked type="submit">Submit</Button>
+                <span>Don't have an account? <a href="/register">Sign Up</a></span>
             </Form>
         </Container>
     )

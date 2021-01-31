@@ -68,6 +68,7 @@ function Dashboard() {
                         description={article.description} 
                         author={article.author} 
                         pubDate={article.pubDate} 
+                        contents={article.contents}
                     />
                 )
         }
