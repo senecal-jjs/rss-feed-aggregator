@@ -14,7 +14,7 @@ function Dashboard() {
     const[currentChannel, setChannel] = useState( { label: "All", value: "all" } );
     const[showAddFeed, setShowAddFeed] = useState(false);
     const[showArticle, setShowArticle] = useState(false);
-    const{data, isLoading, isError} = useFeed();
+    const{ data, isLoading, isError } = useFeed();
     // const[{ data, isLoading, isError }, doFetch] = useDataApi(
     //     '/get-feeds',
     //     { feeds: [] },

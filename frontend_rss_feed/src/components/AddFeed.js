@@ -1,15 +1,25 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import Button from "./styles/Button";
 import Container from "./styles/Container";
 import StackedInput from "./styles/Input";
 import Form from "./styles/Form";
+import useFeedSearch from "../hooks/useFeedSearch";
 
 function AddFeed() {
+    let [searchResults, setSearchResults] = useState({});
+    let [searchTerm, setSearchTerm] = useState("");
     let searchRef = React.createRef();
+    const{ data, isLoading, isError } = useFeedSearch(searchTerm);
 
-    // useEffect(() => {
-
-    // }, [searchRef.current.value]);    
+    console.log(data);
+    
+    const handleChange = (event) => {
+        event.preventDefault();
+        
+        if (event.target.value.length) {
+            setSearchTerm(event.target.value);
+        }
+    }
 
     return (
         <Container>
@@ -18,7 +28,9 @@ function AddFeed() {
                     name="search"
                     ref={searchRef}
                     type="text"
-                    placeholder={"Search by keyword, website, or RSS link"}>
+                    placeholder={"Search by keyword, website, or RSS link"}
+                    onChange={handleChange}
+                >
                 </StackedInput>
             </Form>
         </Container>
