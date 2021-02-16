@@ -1,12 +1,10 @@
-import React, { useEffect, useState } from "react";
-import Button from "./styles/Button";
+import React, { useState } from "react";
 import Container from "./styles/Container";
 import StackedInput from "./styles/Input";
 import Form from "./styles/Form";
 import useFeedSearch from "../hooks/useFeedSearch";
 
 function AddFeed() {
-    let [searchResults, setSearchResults] = useState({});
     let [searchTerm, setSearchTerm] = useState("");
     let searchRef = React.createRef();
     const{ data, isLoading, isError } = useFeedSearch(searchTerm);

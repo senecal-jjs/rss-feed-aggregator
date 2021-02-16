@@ -1,7 +1,5 @@
 import React from "react";
 import { useHistory } from "react-router-dom"
-import axios from 'axios';
-import qs from 'qs';
 import Button from "./styles/Button";
 import Container from "./styles/Container";
 import StackedInput from "./styles/Input";
@@ -30,22 +28,6 @@ function Login() {
                 history.push("/dashboard")
             }
         })
-
-        // axios({ 
-        //     method: 'post',
-        //     url: '/login',
-        //     headers: {'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8'},
-        //     data: qs.stringify({
-        //         email: credentials.email,
-        //         password: credentials.password
-        //     })
-        //  })
-        //     .then(res => {
-        //         if (res.status === 200) {
-        //             userHasAuthenticated(true);
-        //             history.push("/dashboard");
-        //         }
-        //     });
     }
 
     return (
