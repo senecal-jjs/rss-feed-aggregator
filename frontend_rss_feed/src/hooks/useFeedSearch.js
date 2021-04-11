@@ -6,7 +6,7 @@ const useFeedSearch = (searchTerm) => {
     const [state, dispatch] = useReducer(feedSearchReducer, {
         isLoading: false,
         isError: false,
-        data: {}
+        data: {'feeds': []}
     });
 
     useEffect(() => {

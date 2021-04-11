@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Card from "./styles/Card"
 import Container from "./styles/Container";
 import StackedInput from "./styles/Input";
 import Form from "./styles/Form";
@@ -9,8 +10,6 @@ function AddFeed() {
     let searchRef = React.createRef();
     const{ data, isLoading, isError } = useFeedSearch(searchTerm);
 
-    console.log(data);
-    
     const handleChange = (event) => {
         event.preventDefault();
         
@@ -31,8 +30,24 @@ function AddFeed() {
                 >
                 </StackedInput>
             </Form>
+            {
+                !isLoading && (
+                    data.feeds.map( (searchResult) =>
+                        FeedCard(searchResult)
+                    )
+                )
+            }
         </Container>
     )
-}
+};
+
+function FeedCard(props) {
+    return (
+        <Card>
+            <h3>{props.title}</h3>
+            <p>{props.description}</p>
+        </Card>
+    )
+};
 
 export default AddFeed;
