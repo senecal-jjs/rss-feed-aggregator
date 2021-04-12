@@ -10,6 +10,7 @@ const Card = styled.li`
     max-width: 800px;
     margin: 10px auto;
     background: white;
+    display: flex;
 `
 
 export default Card;
