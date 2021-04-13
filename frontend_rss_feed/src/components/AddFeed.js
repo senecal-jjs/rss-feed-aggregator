@@ -1,9 +1,23 @@
+import styled from "styled-components";
 import React, { useState } from "react";
+import SearchCard from "./SearchCard";
+import Body from "./styles/Body";
 import Card from "./styles/Card"
 import Container from "./styles/Container";
+import Grid from "./styles/GridContainer";
 import StackedInput from "./styles/Input";
 import Form from "./styles/Form";
 import useFeedSearch from "../hooks/useFeedSearch";
+
+const Scroll = styled.div`
+    overflow: hidden;
+    height: 1000px;
+`
+
+const SearchList = styled.div`
+    overflow-y: scroll;
+    list-style-type: none;
+`
 
 function AddFeed() {
     let [searchTerm, setSearchTerm] = useState("");
@@ -30,13 +44,21 @@ function AddFeed() {
                 >
                 </StackedInput>
             </Form>
-            {
-                !isLoading && (
-                    data.feeds.map( (searchResult) =>
-                        FeedCard(searchResult)
-                    )
-                )
-            }
+            <Scroll>
+                <SearchList>
+                    {
+                        !isLoading && (
+                            <ul>
+                                {
+                                    data.feeds.map((searchResult) =>
+                                        SearchCard(searchResult)
+                                    )
+                                }
+                            </ul>
+                        )
+                    }
+                </SearchList>
+            </Scroll>
         </Container>
     )
 };
