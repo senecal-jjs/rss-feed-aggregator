@@ -1,17 +1,14 @@
 import styled from "styled-components";
 import React, { useState } from "react";
 import SearchCard from "./SearchCard";
-import Body from "./styles/Body";
-import Card from "./styles/Card"
-import Container from "./styles/Container";
-import Grid from "./styles/GridContainer";
 import StackedInput from "./styles/Input";
 import Form from "./styles/Form";
 import useFeedSearch from "../hooks/useFeedSearch";
 
-const Scroll = styled.div`
+const ScrollGrid = styled.div`
     overflow: hidden;
-    height: 1000px;
+    display: grid;
+    grid-template-rows: 80px 1fr;
 `
 
 const SearchList = styled.div`
@@ -33,9 +30,9 @@ function AddFeed() {
     }
 
     return (
-        <Container>
+        <ScrollGrid>
             <Form>
-                <StackedInput 
+                <StackedInput
                     name="search"
                     ref={searchRef}
                     type="text"
@@ -44,32 +41,20 @@ function AddFeed() {
                 >
                 </StackedInput>
             </Form>
-            <Scroll>
-                <SearchList>
-                    {
-                        !isLoading && (
-                            <ul>
-                                {
-                                    data.feeds.map((searchResult) =>
-                                        SearchCard(searchResult)
-                                    )
-                                }
-                            </ul>
-                        )
-                    }
-                </SearchList>
-            </Scroll>
-        </Container>
-    )
-};
-
-function FeedCard(props) {
-    return (
-        <Card>
-            <img src={'https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png'} />
-            <h3>{props.title}</h3>
-            <p>{props.description}</p>
-        </Card>
+            <SearchList>
+                {
+                    !isLoading && (
+                        <ul>
+                            {
+                                data.feeds.map((searchResult) =>
+                                    SearchCard(searchResult)
+                                )
+                            }
+                        </ul>
+                    )
+                }
+            </SearchList>
+        </ScrollGrid>
     )
 };
 
