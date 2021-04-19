@@ -90,12 +90,6 @@ function Dashboard() {
         return [ { label: "All", value: "all" }, ...channels]
     }
 
-    function openAddFeedModal(e) {
-        e.preventDefault();
-        console.log("opening")
-        setShowAddFeed(true);
-    }
-
     return (
         !isLoading && (
         <Grid>
