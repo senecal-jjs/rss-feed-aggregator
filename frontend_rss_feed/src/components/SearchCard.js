@@ -1,6 +1,6 @@
 import styled from "styled-components";
-import Button from "./styles/Button"
-import React from "react";
+import Button from "./styles/Button";
+import React, { useState } from "react";
 
 const FeedImg = styled.img`
     border-radius: .25rem;
@@ -48,15 +48,11 @@ const CardInfo = styled.div`
 `
 
 function SearchCard(props) {
-    function followFeed() {
-
-    }
-
     return (
         <CardInfo>
             <FeedImg src={'https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png'} />
             <Title>{props.title}</Title>
-            <FollowButton>Follow</FollowButton>
+            <FollowButton>Explore</FollowButton>
             <Description>{props.description}</Description>
         </CardInfo>
     )

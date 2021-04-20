@@ -3,7 +3,7 @@ import useDataApi from "../hooks/useDataApi.js";
 import useFeed from "../hooks/useFeed";
 import AddFeed from "./AddFeed";
 import Navbar from "./Navbar";
-import H1 from "./styles/Heading";
+import H1, { H3 } from "./styles/Heading";
 import Grid from "./styles/GridContainer";
 import ArticleCard from "./ArticleCard";
 import Articles from "./styles/Articles";
@@ -15,6 +15,7 @@ function Dashboard() {
     const[showAddFeed, setShowAddFeed] = useState(false);
     const[showArticle, setShowArticle] = useState(false);
     const{ data, isLoading, isError } = useFeed();
+    let subscribedFeeds = filterFeeds();
     // const[{ data, isLoading, isError }, doFetch] = useDataApi(
     //     '/get-feeds',
     //     { feeds: [] },
@@ -94,7 +95,7 @@ function Dashboard() {
         !isLoading && (
         <Grid>
             <Body>
-                <H1>Here's your feed, enjoy!</H1>
+                <H1>{showAddFeed ? "Search for new feeds here." : "Here's your feed, enjoy!"}</H1>
                 <Navbar 
                     categories={getCategories()} 
                     channels={getChannels()} 
@@ -105,9 +106,13 @@ function Dashboard() {
                     setShow={setShowAddFeed}
                 />
                 {
-                    showAddFeed ? <AddFeed /> :
+                    (subscribedFeeds.length === 0 && !showAddFeed) &&
+                        <H3>Looks like you don't have any feeds yet. Try searching for some feeds using the plus icon above.</H3>
+                }
+                {
+                    showAddFeed ? <AddFeed /> :                    
                     <Articles>
-                        <ul>{filterFeeds()}</ul>
+                        <ul>{subscribedFeeds}</ul>
                     </Articles>
                 }
             </Body>

@@ -6,3 +6,5 @@ frontend_rss_feed/build
 
 # VS code
 .vscode/settings.json
+
+frontend_rss_feed/.idea/*
