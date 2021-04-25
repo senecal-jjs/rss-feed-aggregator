@@ -18,6 +18,8 @@ const SearchList = styled.div`
 
 function AddFeed() {
     let [searchTerm, setSearchTerm] = useState("");
+    let [channelId, setChannelId] = useState("");
+    let [exploreOpen, setExploreOpen] = useState(false);
     let searchRef = React.createRef();
     const{ data, isLoading, isError } = useFeedSearch(searchTerm);
 
@@ -27,6 +29,10 @@ function AddFeed() {
         if (event.target.value.length) {
             setSearchTerm(event.target.value);
         }
+    }
+
+    const onExploreClose = () => {
+        setExploreOpen(false)
     }
 
     return (
@@ -46,8 +52,13 @@ function AddFeed() {
                     !isLoading && (
                         <ul>
                             {
-                                data.feeds.map((searchResult) =>
-                                    SearchCard(searchResult)
+                                data.feeds.map((searchResult, index) =>
+                                    <SearchCard 
+                                        key={index}
+                                        data={searchResult}
+                                        setChannelId={setChannelId}
+                                        setExploreOpen={setExploreOpen}
+                                    />
                                 )
                             }
                         </ul>

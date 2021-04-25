@@ -15,7 +15,7 @@ const Title = styled.h3`
     margin-left: 20px;
 `
 
-const FollowButton = styled(Button)`
+const ExploreButton = styled(Button)`
     grid-area: follow;
 `
 
@@ -48,12 +48,18 @@ const CardInfo = styled.div`
 `
 
 function SearchCard(props) {
+    const onExplore = (channelId) => {
+        props.setChannelId(channelId)
+        props.setExploreOpen(true)
+    }
+
+
     return (
         <CardInfo>
             <FeedImg src={'https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png'} />
-            <Title>{props.title}</Title>
-            <FollowButton>Explore</FollowButton>
-            <Description>{props.description}</Description>
+            <Title>{props.data.title}</Title>
+            <ExploreButton onClick={onExplore(props.data.id)}>Explore</ExploreButton>
+            <Description>{props.data.description}</Description>
         </CardInfo>
     )
 }
