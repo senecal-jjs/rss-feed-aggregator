@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import useFeedExplore from "../hooks/useFeedExplore";
 
-function FeedExplore(channelId) {
-    const { data, isLoading, isError } = useFeedExplore(channelId);
+function FeedExplore(props) {
+    const { data, isLoading, isError } = useFeedExplore(props.channelId);
 
     return (
         <>
@@ -11,3 +11,5 @@ function FeedExplore(channelId) {
     )
 
 };
+
+export default FeedExplore;

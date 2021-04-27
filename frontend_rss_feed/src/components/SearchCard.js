@@ -48,17 +48,18 @@ const CardInfo = styled.div`
 `
 
 function SearchCard(props) {
-    const onExplore = (channelId) => {
-        props.setChannelId(channelId)
-        props.setExploreOpen(true)
+    const onExplore = (event) => {
+        event.preventDefault();
+        props.setChannelId(props.data.id);
+        props.setExploreOpen(true);
+        console.log("explore clicked")
     }
-
 
     return (
         <CardInfo>
             <FeedImg src={'https://cdn.arstechnica.net/wp-content/uploads/2016/10/cropped-ars-logo-512_480-32x32.png'} />
             <Title>{props.data.title}</Title>
-            <ExploreButton onClick={onExplore(props.data.id)}>Explore</ExploreButton>
+            <ExploreButton onClick={onExplore}>Explore</ExploreButton>
             <Description>{props.data.description}</Description>
         </CardInfo>
     )

@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import React, { useState } from "react";
 import SearchCard from "./SearchCard";
+import FeedExplore from "./FeedExplore";
 import StackedInput from "./styles/Input";
 import Form from "./styles/Form";
 import useFeedSearch from "../hooks/useFeedSearch";
@@ -35,6 +36,10 @@ function AddFeed() {
         setExploreOpen(false)
     }
 
+    const showSearchResults = (isLoading, exploreOpen) => {
+        return (!isLoading && !exploreOpen)
+    }
+
     return (
         <ScrollGrid>
             <Form>
@@ -47,6 +52,13 @@ function AddFeed() {
                 >
                 </StackedInput>
             </Form>
+            {
+                exploreOpen && (
+                    <FeedExplore
+                        channelId={channelId}
+                    />
+                )
+            }
             <SearchList>
                 {
                     !isLoading && (
